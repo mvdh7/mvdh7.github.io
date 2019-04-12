@@ -1,19 +1,20 @@
 ---
 name: Calkulate
-tools: [Python, MATLAB, Seawater chemistry, Alkalinity]
-image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
+tools: [Python, Seawater chemistry, Alkalinity]
+image: https://mphumphreys.files.wordpress.com/2019/03/logo_transparent.png
 description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data.
 ---
 
 # Calkulate
 
-Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screen-shot-2018-05-01-at-11-30-23-am.png?w=1390&crop=1)
+**Citation:** Humphreys, M.P. (2015): Calculating seawater total alkalinity from open-cell titration data using a modified Gran plot technique, in *Measurements and Concepts in Marine Carbonate Chemistry*, pp. 25-44, PhD thesis, Ocean and Earth Science, University of Southampton, UK (get in touch for a copy).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Code: github.com/mvdh7/calkulate
 
-![](https://techcrunch.com/wp-content/uploads/2018/05/screenshot-materialio.png)
+Documentation: calkulate.readthedocs.io
+
+![](https://mphumphreys.files.wordpress.com/2018/12/calkulate-f02.png)
 
 <p class="text-center">
 {% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
