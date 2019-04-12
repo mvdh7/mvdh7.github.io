@@ -2,7 +2,7 @@
 name: Calkulate
 tools: [Python, Seawater chemistry, Alkalinity]
 image: https://mphumphreys.files.wordpress.com/2019/03/logo_transparent.png
-description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric or spectrophotometric titration data.
+description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data or pH measurements.
 ---
 
 # Calkulate
@@ -17,5 +17,6 @@ Documentation: calkulate.readthedocs.io
 ![](https://mphumphreys.files.wordpress.com/2018/12/calkulate-f02.png)
 
 <p class="text-center">
-{% include button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include button.html link="https://calkulate.readthedocs.io" text="GitHub" style="dark" %}
+{% include button.html link="https://github.com/mvdh7/calkulate" text="GitHub" style="dark" %}
 </p>
