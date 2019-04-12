@@ -1,11 +1,11 @@
 ---
-name: Project A
-tools: [C#, XML, WPF]
+name: Calkulate
+tools: [Python, MATLAB, Seawater chemistry, Alkalinity]
 image: https://thenextscoop.com/wp-content/uploads/2019/01/web-design-2019.jpg
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data.
 ---
 
-# Project A
+# Calkulate
 
 Projects A is an awesome project! Just remove the direct link from the project's front matter and you will have an individual page like this for your project.
 
