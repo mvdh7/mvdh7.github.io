@@ -7,9 +7,9 @@
 
 # Site settings
 title: Matthew P. Humphreys
-email: your-email@domain.com
+email: m.humphs@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  Seawater biogeochemistry, scientific programming, and the marine carbon cycle.
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -33,24 +33,24 @@ paginate: 6
 paginate_path: /page:num/
 
 # Tracker
-analytics: UA-83979019-1
+#analytics: UA-83979019-1
 
 # Comments
-disqus: yes
-disqus-shortname: webjeda-demo
+disqus: no
+#disqus-shortname: webjeda-demo
 
 #social
-facebook: http://facebook.com/webjeda
-quora: http://quora.com/sharathdt
-twitter: http://twitter.com/@webjeda
-github: http://github.com/webjeda
-email: hello@webjeda.com
+#facebook: http://facebook.com/webjeda
+#quora: http://quora.com/sharathdt
+twitter: http://twitter.com/@matthew_vdh
+github: http://github.com/mvdh7
+#email: hello@webjeda.com
 
 #facebook like box
-fb-like-box: yes
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-like-box: no
+#fb-app-id: 549480635219583
+#fb-page-url: https://www.facebook.com/webjeda/
+#fb-page-title: webjeda
 
 # Sass style
 sass:
