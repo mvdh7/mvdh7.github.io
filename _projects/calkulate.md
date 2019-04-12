@@ -7,7 +7,7 @@ description: Calkulate is a Python toolkit to determine total alkalinity from po
 
 # Calkulate
 
-**Calkulate lifts the veil of mystery shrouding how total alkalinity is determined from a titration.**
+**Calkulate exposes the steps taken to determine total alkalinity from titration data.**
 
 Calkulate is a Python toolbox to determine total alkalinity from potentiometric titration data using a selection of methods including least-squares fitting and using Gran plots. Calkulate can also determine the acid titrant molarity given certified reference material measurements.
 
