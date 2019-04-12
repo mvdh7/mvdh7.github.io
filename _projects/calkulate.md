@@ -2,10 +2,14 @@
 name: Calkulate
 tools: [Python, Seawater chemistry, Alkalinity]
 image: https://mphumphreys.files.wordpress.com/2019/03/logo_transparent.png
-description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data or pH measurements.
+description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data or other pH measurements.
 ---
 
 # Calkulate
+
+Calkulate is a Python toolbox to determine total alkalinity from potentiometric titration data using a selection of methods including least-squares fitting and using Gran plots. Calkulate can also determine the acid titrant molarity given certified reference material measurements.
+
+Calkulate v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a Gran plot method, but it is [still available on GitHub](https://github.com/mvdh7/calkulate/tree/1.0.2).
 
 {% include button.html link="https://github.com/mvdh7/calkulate" text="GitHub" style="dark" %}
 {% include button.html link="https://calkulate.readthedocs.io/en/latest/" text="Documentation" style="info" %}
