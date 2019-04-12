@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda cards
+title: Matthew P. Humphreys
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
-  
-  
-baseurl: "/cards" # the subpath of your site, e.g. /blog
+
+
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://webjeda.com" # the base hostname & protocol for your site
 
 #sidebar
@@ -58,4 +58,3 @@ sass:
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
-
