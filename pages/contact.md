@@ -7,14 +7,14 @@ weight: 5
 
 # **Contact**
 
-<div class="mphbox">
-   <div>One</div>
-   <div>Two</div>
-   <div>Three</div>
-</div>
+<div style="display: flex; flex-flow: row wrap;">
+<div>
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.2173%2C52.6131%2C1.2577%2C52.6287&amp;layer=mapnik&amp;marker=52.62128522840047%2C1.2378904223442078" style="border: 1px solid black"></iframe>
    <br/><small><a href="https://www.openstreetmap.org/#map=15/52.6209/1.2321">View larger map</a></small>
+
+</div>
+<div>
 
 You can find me online in the following places:
 
@@ -33,3 +33,6 @@ You can find me online in the following places:
 | Scopus | [56708173500](https://www.scopus.com/authid/detail.uri?authorId=56708173500)
 | Twitter | [@matthew_vdh](http://twitter.com/matthew_vdh)
 | University of East Anglia | [Dr Matthew Humphreys](https://people.uea.ac.uk/en/persons/matthew-humphreys)
+
+</div>
+</div>
