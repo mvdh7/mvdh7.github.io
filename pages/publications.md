@@ -1,4 +1,11 @@
-# Peer-reviewed publications
+---
+layout: page
+title: Publications
+permalink: /pubs/
+weight: 4
+---
+
+# **Peer-reviewed publications**
 
 ## 2019
 
