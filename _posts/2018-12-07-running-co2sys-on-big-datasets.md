@@ -36,7 +36,7 @@ for U = 1:number_of_simulations
         U_input2(I) = input2(I) + randn * SD_input2;
 
         % Calculate output variable from offset data
-        U_output(I) = CO2SYS(U_input1(I), U_input2(I), ...);
+        U_output(I) = CO2SYS(U_input1(I), U_input2(I), etc..);
 
     end %for I
 
@@ -48,3 +48,55 @@ end %for U
 % Get uncertainty in output (standard deviation)
 SD_output = std(U_output_mean);
 ```
+
+A time test using a small number of simulations and only a fraction of the dataset suggests that running 1000 simulations with the full dataset (~70,000 data points) would take on the order of 4-5 days on my PC...!
+
+## Vectorisation makes it much faster
+
+The slowness mostly comes down to the internal loop through the arrays (`for I = ...`). We can fairly easily eliminate this loop if we *vectorise* the code as follows:
+
+```matlab
+%% Monte-Carlo the faster way
+
+% Set uncertainty values
+SD_input1 = 6.3;
+SD_input2 = 3.8;
+
+% Loop through uncertainty simulations
+for U = 1:number_of_simulations % can change for to parfor
+
+    % Add random offsets to original data
+    U_input1 = input1 + randn(size(input1)) * SD_input1;
+    U_input2 = input2 + randn(size(input1)) * SD_input2;
+
+    % Calculate output variable from offset data
+    U_output = CO2SYS(U_input1, U_input2, ...);
+
+    % Calculate mean output with uncertainty
+    output_mean(U) = mean(U_output);
+
+end %for U
+
+% Get uncertainty in output (standard deviation)
+SD_output = std(U_output_mean);
+```
+
+So, instead of looping through the input arrays and adding a random offset to each value one at a time, we create a vector of random numbers the same size as each input array and add them together in one step. This allows MATLAB to do the computation much more efficiently. Ultimately MATLAB is still looping through each input array and adding uncertainties one by one just as before, but now it's doing that looping deep down inside the computer using lower-level code that runs much more quickly. This new approach would take 6-7 minutes on my computer to do 1000 simulations.
+
+## Parallel computing can be faster still
+
+We can speed things up yet further by using a `parfor` loop. This takes advantage of the fact that most computers have multiple processor cores and it sends off bits of the calculation to them all simultaneously, instead of running sequentially through the loop on one processor. The exact amount of speed-up therefore depends on how many cores your computer has.
+
+The caveat is that it takes a while (~25 seconds on my PC) for MATLAB to sort itself out when you first initialise a *parallel pool*, which is required to run the `parfor` loop. The pool is initialised automatically when you try to run a `parfoor` loop, or you can do it in advance by typing gcp into the Command Window. Once set up, the pool will stay active for half an hour after the last use.
+
+This can be implemented in the previous pseudocode very simply by changing `for U` to `parfor U`.
+
+On my PC, with only 4 processor cores, this speeds up the time for 100 simulations from about 40 seconds to 30 seconds. The speed up would be greater on a computer with more cores, and probably relatively greater for a bigger number of simulations.
+
+## In summary
+
+  * Don't loop through arrays (unless you have to) - vectorise the code instead
+  * If you do have to loop, `parfor` loops might go more quickly, but have a set-up time cost
+  * The amount of speed-up from a `parfor` varies a lot depending on how many processor cores your computer has
+  * The newest version of [CO<sub>2</sub>SYS](https://github.com/jamesorr/CO2SYS-MATLAB) also does uncertainty calculations for you so you probably don't need to do it yourself like this anyway
+  * Working scripts accompanying this post are [available here](https://www.dropbox.com/s/0bvmhc3z076p1kw/big_co2sys.m)
