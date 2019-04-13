@@ -5,7 +5,7 @@ permalink: /pubs/
 weight: 4
 ---
 
-# **Peer-reviewed publications**
+# **Publications**
 
 ## 2019
 
@@ -40,11 +40,11 @@ weight: 4
 <!--• Linked to datasets: <a href="http://mphumphreys.wordpress.com/pubs/data/#d13cEEL">Humphreys et al. (2014)</a>, <a href="http://mphumphreys.wordpress.com/pubs/data/#d13cUKOA">Humphreys et al. (2014)</a>, <a href="http://mphumphreys.wordpress.com/pubs/data/#d13c302">Humphreys et al. (2015)</a>, <a href="http://mphumphreys.wordpress.com/pubs/data/#becker13c">Becker et al. (2016)</a>
 <span style="display: none;">Bakker, D. C. E., Pfeil, B., Landa, C. S., Metzl, N., O’Brien, K. M., Olsen, A., Smith, K., Cosca, C., Harasawa, S., Jones, S. D., Nakaoka, S.-I., Nojiri, Y., Schuster, U., Steinhoff, T., Sweeney, C., Takahashi, T., Tilbrook, B., Wada, C., Wanninkhof, R., Alin, S. R., Balestrini, C. F., Barbero, L., Bates, N. R., Bianchi, A. A., Bonou, F., Boutin, J., Bozec, Y., Burger, E. F., Cai, W.-J., Castle, R. D., Chen, L., Chierici, M., Currie, K., Evans, W., Featherstone, C., Feely, R. A., Fransson, A., Goyet, C., Greenwood, N., Gregor, L., Hankin, S., Hardman-Mountford, N. J., Harlay, J., Hauck, J., Hoppema, M., <u>Humphreys, M. P.</u>, Hunt, C. W., Huss, B., Ibánhez, J. S. P., Johannessen, T., Keeling, R., Kitidis, V., Körtzinger, A., Kozyr, A., Krasakopoulou, E., Kuwata, A., Landschützer, P., Lauvset, S. K., Lefèvre, N., Lo Monaco, C., Manke, A., Mathis, J. T., Merlivat, L., Millero, F. J., Monteiro, P. M. S., Munro, D. R., Murata, A., Newberger, T., Omar, A. M., Ono, T., Paterson, K., Pearce, D., Pierrot, D., Robbins, L. L., Saito, S., Salisbury, J., Schlitzer, R., Schneider, B., Schweitzer, R., Sieger, R., Skjelvan, I., Sullivan, K. F., Sutherland, S. C., Sutton, A. J., Tadokoro, K., Telszewski, M., Tuma, M., van Heuven, S. M. A. C., Vandemark, D., Ward, B., Watson, A. J. and Xu, S.</span>-->
 
-  * Bakker, D. C. E. et al. [92 authors] (2016). **A multi-decade record of high-quality <i>f</i>CO<sub>2</sub> data in version 3 of the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).** <em>Earth System Science Data* 8, 383–413. <a href="http://dx.doi.org/10.5194/essd-8-383-2016">doi:10.5194/essd-8-383-2016</a>.
+  * Bakker, D. C. E. et al. [92 authors] (2016). **A multi-decade record of high-quality <i>f</i>CO<sub>2</sub> data in version 3 of the Surface Ocean CO<sub>2</sub> Atlas (SOCAT).** *Earth System Science Data* 8, 383–413. <a href="http://dx.doi.org/10.5194/essd-8-383-2016">doi:10.5194/essd-8-383-2016</a>.
 
 <!--• Linked to dataset: <a href="http://mphumphreys.wordpress.com/pubs/data/#socat4">Bakker et al. (2016)</a>-->
 
-  * Daniels, C. J., Poulton, A. J., Young, J. R., Esposito, M., <u>Humphreys, M. P.</u>, Ribas Ribas, M., Tynan, E. and Tyrrell, T. (2016). **Species-specific calcite production reveals _Coccolithus pelagicus_ as the key calcifier in the Arctic Ocean.** <em>Marine Ecology Progress Series* 555, 29–47. <a href="http://dx.doi.org/10.3354/meps11820">doi:10.3354/meps11820</a>.
+  * Daniels, C. J., Poulton, A. J., Young, J. R., Esposito, M., <u>Humphreys, M. P.</u>, Ribas Ribas, M., Tynan, E. and Tyrrell, T. (2016). **Species-specific calcite production reveals _Coccolithus pelagicus_ as the key calcifier in the Arctic Ocean.** *Marine Ecology Progress Series* 555, 29–47. <a href="http://dx.doi.org/10.3354/meps11820">doi:10.3354/meps11820</a>.
 
   * <u>Humphreys, M. P.</u>, Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://dx.doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
