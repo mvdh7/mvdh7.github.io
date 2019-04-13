@@ -1,5 +1,5 @@
 ---
-title: Making MATLAB figures 1: basic workflow
+title: Making MATLAB figures 1 - basic workflow
 tags: [MATLAB, Figures]
 style: fill
 color: secondary
