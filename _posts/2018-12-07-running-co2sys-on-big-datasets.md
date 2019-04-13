@@ -1,6 +1,6 @@
 ---
 title: Running CO<sub>2</sub>SYS on big datasets
-tags: [External Post, Git]
+tags: [Marine carbonate system, Seawater chemistry, MATLAB]
 style: fill
 color: warning
 description: What's the most efficient way to solve a large marine carbonate system dataset using CO<sub>2</sub>SYS in MATLAB?
