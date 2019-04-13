@@ -16,7 +16,7 @@ markdown: kramdown
 # Author Info
 author:
   name     : Matthew P. Humphreys
-  image    : https://github.com/mvdh7/mvdh7.github.io/blob/master/images/fallowfields.jpg
+  image    : https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/fallowfields.jpg
   email    : m.humphs@gmail.com
   github   : mvdh7
   twitter  : matthew_vdh
