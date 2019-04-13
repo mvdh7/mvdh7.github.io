@@ -17,6 +17,6 @@ v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a 
 
 {% include button.html link="https://github.com/mvdh7/calkulate" text="GitHub" style="dark" %}
 {% include button.html link="https://calkulate.readthedocs.io/en/latest/" text="Documentation" style="info" %}
-{% include button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/citations/Humphreys2015Calkulate.bib" text="Citation" style="light" %}
+{% include button.html link="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/citations/Humphreys2015Calkulate.bib" text="Citation" style="light" %}
 
 ![](https://mphumphreys.files.wordpress.com/2018/12/calkulate-f02.png)
