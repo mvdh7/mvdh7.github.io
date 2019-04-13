@@ -51,4 +51,4 @@ exclude:
 - LICENSE
 - Gemfile
 - Gemfile.lock
-#- pages/projects.html
+- pages/pubs.md

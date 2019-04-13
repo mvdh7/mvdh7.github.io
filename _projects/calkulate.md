@@ -1,17 +1,17 @@
 ---
 name: Calkulate
-tools: [Python, Seawater chemistry, Alkalinity]
+tools: [Alkalinity, Seawater chemistry, Python]
 image: https://mphumphreys.files.wordpress.com/2019/03/logo_transparent.png
 description: Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data or other pH measurements.
 ---
 
 # Calkulate
 
-**Calkulate exposes the steps taken to determine total alkalinity from titration data.**
+**Calkulate is a Python toolkit to determine total alkalinity from potentiometric titration data or other pH measurements.**
 
-Calkulate is a Python toolbox to determine total alkalinity from potentiometric titration data using a selection of methods including least-squares fitting and using Gran plots. Calkulate can also determine the acid titrant molarity given certified reference material measurements.
+Calkulate implements a selection of methods including least-squares fitting and Gran plots. Calkulate can also determine the acid titrant molarity given measurement data from reference materials with known alkalinity. All equilibrium constants and the solution composition can be independently varied. Every step in the determination process can be plotted and analysed separately.
 
-Calkulate v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a half-Gran-plot method, but it is [still available on GitHub](https://github.com/mvdh7/calkulate/tree/1.0.2). A paper is in preparation describing v2.0, but for now the best citation to use is:
+v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a half-Gran-plot method, but it is [still available on GitHub](https://github.com/mvdh7/calkulate/tree/1.0.2). A paper is in preparation describing v2.0, but for now the best citation to use is:
 
 > Humphreys, M. P. (2015): Calculating seawater total alkalinity from open-cell titration data using a modified Gran plot technique, in *Measurements and Concepts in Marine Carbonate Chemistry*, pp. 25-44, PhD thesis, Ocean and Earth Science, University of Southampton, UK.
 

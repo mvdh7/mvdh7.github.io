@@ -5,10 +5,9 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The dominant theme of my research is to understand how the ocean responds to ongoing anthropogenic emission of carbon dioxide (CO<sub>2</sub>). I study the processes that drive anthropogenic CO<sub>2</sub> to dissolve into seawater, scrutinise the consequent progress of ocean acidification, and unravel the interactions between the changing carbon cycle and other marine biogeochemical systems.
 
 <div class="row">
 {% include skills.html title="Programming Skills" source=site.data.programming-skills %}
