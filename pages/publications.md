@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: /pubs/
-weight: 4
+permalink: /publications/
+weight: 3
 ---
 
 # **Publications**
