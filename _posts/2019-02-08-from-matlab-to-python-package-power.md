@@ -8,7 +8,7 @@ description:
 
 This is the second in a short series of posts reflecting on my ongoing transition from MATLAB to Python for oceanographic data analysis, visualisation, and scientific software development.
 
-[In the first post](articles/from-matlab-to-python-reflections-after-a-year), I looked at a few differences between MATLAB and "pure" Python. But to get the most out of Python, you need to use some of the many packages of high level tools. Those I've used by far the most are Numpy and Scipy. There's also Pandas, which I try to avoid, but nevertheless deserves a mention. This post is primarily about those packages. Data visualisation, and integrating Python together with MATLAB, will follow.
+[In the first post](/articles/from-matlab-to-python-reflections-after-a-year), I looked at a few differences between MATLAB and "pure" Python. But to get the most out of Python, you need to use some of the many packages of high level tools. Those I've used by far the most are Numpy and Scipy. There's also Pandas, which I try to avoid, but nevertheless deserves a mention. This post is primarily about those packages. Data visualisation, and integrating Python together with MATLAB, will follow.
 
 hat do these packages do? Pure Python, while powerful, doesn't have much in the way of high-level functionality. You can't, for example, do direct calculations with vectors and matrices of numbers in the same way as in MATLAB. The variable types that can contain more than one piece of information are lists, which are like MATLAB cells, and dicts, which are a bit like structures. (And tuples, which are like lists, but you can't edit them once they've been created.) There are no built-in functions to do things like calculate a median or fit a linear regression to some data. But fear not: Python's packages very ably fill this gap. To put it another way:
 
@@ -190,7 +190,7 @@ Even if I was doing a project entirely in MATLAB, and I needed to fit an unusual
 
 (Disclaimer: more likely, "my lack of competence with Pandas is a pain".)
 
-Pandas gives Python a variable type called a **DataFrame** that is like a MATLAB **table**. It's odd that I don't like Pandas because [I love tables and use them all the time](articles/matlab-structures-and-tables).
+Pandas gives Python a variable type called a **DataFrame** that is like a MATLAB **table**. It's odd that I don't like Pandas because [I love tables and use them all the time](/articles/matlab-structures-and-tables).
 
 For me, Pandas is fantastically useful for importing data from formats more complicated than a text file (which Numpy can read with its `genfromtxt` function) - spreadsheets, for example. But then I get that data out of there ASAP, into a nice friendly Numpy array, and work with that instead.
 
