@@ -9,7 +9,7 @@ weight: 4
 
 ## 2019
 
-  * Humphreys, M. P., Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters. *Marine Climate Change Impacts Partnership*, in press.
+  * Humphreys, M. P., Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
 
   * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. <a href="https://doi.org/10.1016/j.aquaculture.2018.11.028">doi:10.1016/j.aquaculture.2018.11.028</a>.
 
