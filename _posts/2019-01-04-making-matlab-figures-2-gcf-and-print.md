@@ -14,7 +14,7 @@ Fortunately, we can adjust totally reinvent the figure using a few choice comman
 
 ## Get current figure
 
-We'll begin today with `gcf`, which stands for 'get current figure'. Once you have created a figure ([ideally, as described here](/articles/making-matlab-figures-1-basic-workflow)), you can use `gcf` to modify its appearance.
+We'll begin today with `gcf`, which stands for 'get current figure'. Once you have created a figure ([ideally, as described here](/blog/making-matlab-figures-1-basic-workflow)), you can use `gcf` to modify its appearance.
 
 There are a great many (60ish) different settings that can be controlled using `gcf`. To see them all - and their current settings - first create a figure, then type `gcf` into your Command Window, and click on `all properties`:
 
@@ -70,7 +70,7 @@ figure(1); clf
 printsetup(gcf, [9 7])
 ```
 
-[See here](/articles/making-matlab-figures-1-basic-workflow) for more on the opening line.
+[See here](/blog/making-matlab-figures-1-basic-workflow) for more on the opening line.
 
 ## The size isn't right?
 

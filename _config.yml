@@ -41,7 +41,7 @@ defaults:
 
 
 # Posts default Permalink
-permalink: articles/:title
+permalink: blog/:title
 
 
 # Exclude from processing.
