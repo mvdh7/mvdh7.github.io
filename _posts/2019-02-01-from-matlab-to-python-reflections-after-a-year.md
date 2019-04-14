@@ -1,5 +1,5 @@
 ---
-title: From MATLAB to Python: reflections after a year
+title: From MATLAB to Python - reflections after a year
 tags: [Python, MATLAB]
 style:
 color:
