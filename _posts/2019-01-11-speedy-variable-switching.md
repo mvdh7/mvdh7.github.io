@@ -2,7 +2,7 @@
 title: Speedy variable switching
 tags: [MATLAB, Dataviz, Workflow]
 style: outline
-color: light
+color: dark
 description:
 ---
 
