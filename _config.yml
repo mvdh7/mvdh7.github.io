@@ -29,9 +29,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-  software:
-    output: true
-    permalink: /software/:name
 
 
 # Default values for collections
