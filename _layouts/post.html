@@ -5,7 +5,7 @@ layout: page
 <h1><b>{{ page.title }}</b></h1>
 
 <p class="article-metadata text-muted">
-  {{ page.date | date_to_long_string }} -  
+  {{ page.date | date_to_long_string }} -
   <b>
   {% assign words = content | number_of_words %}
   {% if words < 360 %}
@@ -18,7 +18,7 @@ layout: page
   <br>
 
   {% if page.tags != empty %}
-    Tags: 
+    Tags:
     {% for tag in page.tags %}
       <span class="badge badge-pill text-primary border border-primary">{{ tag }}</span>
     {% endfor %}
@@ -28,7 +28,7 @@ layout: page
 
 {{ content }}
 
-<footer>
+<!--<footer>
   This Article is <b>open source</b>. Noticed a typo? </br>
   Or something unclear? Improve it on {% github_edit_link "GitHub" %}.
-</footer>
+</footer>-->
