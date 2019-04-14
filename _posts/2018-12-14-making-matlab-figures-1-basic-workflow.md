@@ -2,7 +2,7 @@
 title: Making MATLAB figures 1 - basic workflow
 tags: [MATLAB, Dataviz, Workflow]
 style: outline
-color: dark
+color: warning
 description: The first step in a simple workflow for efficiently designing publication-quality figures in MATLAB.
 ---
 
