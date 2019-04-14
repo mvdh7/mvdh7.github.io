@@ -16,7 +16,7 @@ The code in the examples is all available in a [.m file on GitHub](https://githu
 
 ## Have your data in a structure or table
 
-The first thing you need is to have your data to plot in a structure or table. Take a look at [my previous blog post](/articles/matlab-structures-and-tables) for more information on these MATLAB variable types.
+The first thing you need is to have your data to plot in a structure or table. Take a look at [my previous blog post](/blog/matlab-structures-and-tables) for more information on these MATLAB variable types.
 
 Having our data in this format allows us to "dynamically reference" which field we want to use. Let's take a simple example. Say we have a dataset of salinity and nitrate values, measured across a river estuary. We can simulate a dataset to play with as follows:
 
@@ -31,7 +31,7 @@ ts = struct2table(ts);
 
 ## Make a basic figure
 
-We can visualise the data as follows, starting [as always](/articles/making-matlab-figures-1-basic-workflow) with a `figure(X); clf`:
+We can visualise the data as follows, starting [as always](/blog/making-matlab-figures-1-basic-workflow) with a `figure(X); clf`:
 
 ```matlab
 %% Super basic plotting
@@ -233,7 +233,7 @@ The changes that we've made to the previous version are:
 
 ## A note on workflow
 
-[In a previous post](/articles/making-matlab-figures-2-gcf-and-print) I discussed figure creation workflow when you are setting something up with publication quality (in the final section before the summary).
+[In a previous post](/blog/making-matlab-figures-2-gcf-and-print) I discussed figure creation workflow when you are setting something up with publication quality (in the final section before the summary).
 
 In that context, all of the code I've described above (and probably still a fair bit more) would come in the first section of the workflow, when you're still setting up the figure and watching it in MATLAB, and before you add in the `print` statement to output the results to a file.
 

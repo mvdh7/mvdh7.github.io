@@ -6,7 +6,7 @@ color: primary
 description: Switching data between Python and MATLAB, and using both together.
 ---
 
-This continues a short series about my ongoing transition from MATLAB to Python. Previously I talked about some [fundamental differences between the coding languages](/articles/from-matlab-to-python-reflections-after-a-year), and delved a bit more into [the main Python packages that you need to use](/articles/from-matlab-to-python-package-power) to replicate MATLAB's higher-level functions. Here, I'll look at how you can get the two languages to work together, giving some very basic examples.
+This continues a short series about my ongoing transition from MATLAB to Python. Previously I talked about some [fundamental differences between the coding languages](/blog/from-matlab-to-python-reflections-after-a-year), and delved a bit more into [the main Python packages that you need to use](/blog/from-matlab-to-python-package-power) to replicate MATLAB's higher-level functions. Here, I'll look at how you can get the two languages to work together, giving some very basic examples.
 
 {% include figure.html image="https://mphumphreys.files.wordpress.com/2019/03/snakecharming.png" caption="Schematic illustration of calling a Python function from within MATLAB." %}
 
@@ -59,7 +59,7 @@ A few quick notes on this code:
 
   * The Python list of strings in `pasta` is imported as a MATLAB **char** array. The `cellstr` function converts this into a cell of strings, which is probably more useful, depending upon what you want to do;
   * By providing the relative path to the .mat file in the `matfile` variable, we avoid needing to add that folder to our MATLAB search path;
-  * [As always](/articles/making-matlab-figures-1-basic-workflow), the MATLAB code for the figure begins with `figure(1); clf`.
+  * [As always](/blog/making-matlab-figures-1-basic-workflow), the MATLAB code for the figure begins with `figure(1); clf`.
 
 After executing the code above, the variables `x`, `y` and `pasta` appear in the MATLAB workspace and are ready to work with:
 
