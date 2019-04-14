@@ -3,7 +3,7 @@ title: The marine motivation for Pitzer models
 tags: [Seawater chemistry, MarChemSpec]
 style: fill
 color: dark
-description: A different “hello world” to demonstrate language features better.
+description: How do tools like the Pitzer model help us to understand chemical equilibria in seawater?
 ---
 
 <script type="text/x-mathjax-config">
@@ -15,8 +15,7 @@ MathJax.Hub.Config({TeX: {extensions: ["[mhchem]/mhchem.js"]}});
 
 For my postdoctoral position at the University of East Anglia, I am working on the Pitzer model, which calculates the chemical activity of the atoms and molecules dissolved in complex solutions like seawater. This work is part of the [MarChemSpec project](http://marchemspec.org/), jointly funded by NERC (UK) and NSF (USA).
 
-Here, I attempt to explain why we need the Pitzer model, and what it does  
-– *how* it does it, I'll leave for another time.
+Here, I attempt to explain why we need the Pitzer model, and what it does – *how* it does it, I'll leave for another time.
 
 ## What happens in seawater?
 
