@@ -1,6 +1,6 @@
 ---
 title: Speedy variable switching
-tags: [MATLAB, Dataviz]
+tags: [MATLAB, Dataviz, Workflow]
 style: fill
 color: light
 description:
