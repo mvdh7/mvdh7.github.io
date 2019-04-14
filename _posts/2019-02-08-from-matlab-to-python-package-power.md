@@ -22,7 +22,7 @@ The code examples below are [on GitHub](https://github.com/mvdh7/mvdh-xyz), as a
 
 Very easily. Install the package in the environment you want to use it in - just a matter of typing something like `pip install awesomepackage` in a terminal or Anaconda prompt window. You can now use the package in Python as simply as writing `import awesomepackage`.
 
-{% include figure.html image="https://imgs.xkcd.com/comics/python.png" caption="As with many things in ~~science~~ life, [there's an xkcd for it](https://xkcd.com/353/)." %}
+{% include figure.html image="https://imgs.xkcd.com/comics/python.png" caption="As with many things in <strike>science</strike> life, <a href="https://xkcd.com/353/">there's an xkcd for it</a>." %}
 
 With little effort, you can also set up your own code so that anyone with an internet connection can install it for themselves just as easily.
 
