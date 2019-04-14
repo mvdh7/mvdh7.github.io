@@ -1,7 +1,7 @@
 ---
 title: From MATLAB to Python - package power
 tags: [Python, MATLAB]
-style: fill
+style: outline
 color: secondary
 description:
 ---
