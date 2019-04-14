@@ -21,3 +21,7 @@ v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a 
 > Humphreys, M. P. (2015): Calculating seawater total alkalinity from open-cell titration data using a modified Gran plot technique, in *Measurements and Concepts in Marine Carbonate Chemistry*, pp. 25-44, PhD thesis, Ocean and Earth Science, University of Southampton, UK.
 
 <!--![](https://mphumphreys.files.wordpress.com/2018/12/calkulate-f02.png)-->
+
+<p class="text-center">
+{% include button.html link="/projects" text="Back to projects" %}
+</p>
