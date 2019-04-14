@@ -6,7 +6,7 @@ description: Calkulate is a Python toolkit designed to transparently determine t
 permalink: /projects/calkulate/
 ---
 
-# Calkulate
+# **Calkulate**
 
 **Calkulate is a Python toolkit designed to transparently determine total alkalinity from titration pH data.**
 

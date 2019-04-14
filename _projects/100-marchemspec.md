@@ -6,7 +6,7 @@ description: SCOR Working Group 145 - chemical speciation modelling of seawater 
 permalink: /projects/marchemspec/
 ---
 
-# MarChemSpec
+# **MarChemSpec**
 
 ## Pytzer
 
