@@ -7,6 +7,8 @@ weight: 1
 
 # **About me**
 
+<div class="wow animated fadeIn" data-wow-delay=".15s">
+
 **The dominant theme of my research is to understand how the ocean responds to ongoing anthropogenic emission of carbon dioxide (CO<sub>2</sub>).** I study the processes that drive anthropogenic CO<sub>2</sub> to dissolve into seawater, scrutinise the consequent progress of ocean acidification, and unravel the interactions between the changing carbon cycle and other marine biogeochemical systems.
 
 <!--
@@ -18,4 +20,6 @@ weight: 1
 
 <div class="row">
 {% include timeline.html %}
+</div>
+
 </div>
