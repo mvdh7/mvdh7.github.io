@@ -6,6 +6,8 @@ description: The Pitzer model for chemical activities in aqueous solutions, in P
 permalink: /projects/pytzer/
 ---
 
+# Pytzer
+
 **Pytzer is a Python implementation of the Pitzer model for calculating physicochemical properties of complex aqueous solutions.**
 
 {% include button.html link="https://github.com/mvdh7/pytzer" text="GitHub" style="dark" %}
