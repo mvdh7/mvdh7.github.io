@@ -9,7 +9,7 @@ weight: 4
 
 ## 2019
 
-  * Humphreys, M. P., Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
+  * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
 
   * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. <a href="https://doi.org/10.1016/j.aquaculture.2018.11.028">doi:10.1016/j.aquaculture.2018.11.028</a>.
 
@@ -39,7 +39,7 @@ weight: 4
 
 ## 2016
 
-  * Ostle, C., Williamson, P., Artoli, Y., Bakker, D. C. E., Birchenough, S., Davis, C. E., Dye, S., Edwards, M., Findlay, H. S., Greenwood, N., Hartman, S., Humphreys, M. P., Jickells, T., Johnson, M., Landschützer, P., Parker, R., Pearce, D., Pinnegar, J., Robinson, C., Schuster, U., Silburn, B., Thomas, R., Wakelin, S., Walsham, P. and Watson, A. J. (2016). **Carbon dioxide and ocean acidification observations in UK waters: Synthesis report with a focus on 2010 – 2015.** *Department for Environment, Food and Rural Affairs, UK*, pp. 44. <a href="https://doi.org/10.13140/RG.2.1.4819.4164">doi:10.13140/RG.2.1.4819.4164</a>.
+  * Ostle, C., Williamson, P., Artoli, Y., Bakker, D. C. E., Birchenough, S., Davis, C. E., Dye, S., Edwards, M., Findlay, H. S., Greenwood, N., Hartman, S., <u>Humphreys, M. P.</u>, Jickells, T., Johnson, M., Landschützer, P., Parker, R., Pearce, D., Pinnegar, J., Robinson, C., Schuster, U., Silburn, B., Thomas, R., Wakelin, S., Walsham, P. and Watson, A. J. (2016). **Carbon dioxide and ocean acidification observations in UK waters: Synthesis report with a focus on 2010 – 2015.** *Department for Environment, Food and Rural Affairs, UK*, pp. 44. <a href="https://doi.org/10.13140/RG.2.1.4819.4164">doi:10.13140/RG.2.1.4819.4164</a>.
 
   * Becker, M., Andersen, N., Erlenkeuser, H., <u>Humphreys, M. P.</u>, Tanhua, T. and Körtzinger, A. (2016). **An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.** *Earth System Science Data* 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.
 
