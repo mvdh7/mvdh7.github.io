@@ -2,7 +2,7 @@
 title: From MATLAB to Python - package power
 tags: [Python, MATLAB]
 style: fill
-color: secondary
+color: dark
 description:
 ---
 

@@ -2,7 +2,7 @@
 title: Snake charming with MATLAB
 tags: [Python, MATLAB, Workflow]
 style: fill
-color: secondary
+color: dark
 description: Switching data between Python and MATLAB, and using both together.
 ---
 

@@ -2,7 +2,7 @@
 title: MATLAB structures and tables
 tags: [MATLAB, Workflow]
 style: fill
-color: secondary
+color: dark
 description: Organising your data into structures and tables helps to efficiently create flexible figures.
 ---
 
