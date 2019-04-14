@@ -6,6 +6,8 @@ color: danger
 description:
 ---
 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
 MathJax.Ajax.config.path["mhchem"] =
@@ -58,9 +60,6 @@ The actual value of the ratio between the seasonal cycles in pH and [$\ce{H+}$] 
 ## Who cares?
 
 This matters because it is probably [$\ce{H+}$], rather than pH, that directly affects marine species and ecosystems. But when monitoring ocean acidification, it's easy to slip into simply looking at pH, because that's how you record the measurements. As I put it previously:
-
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">So you might take a pH time series and see that pH seasonal variability is increasing or decreasing<br><br>You might conclude this would be &quot;bad&quot; or &quot;good&quot; respectively for the biota ... [7/n]</p>&mdash; Matthew Humphreys (@matthew_vdh) <a href="https://twitter.com/matthew_vdh/status/1067100611395633152?ref_src=twsrc%5Etfw">26 November 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">... meanwhile, the seasonal variability in the total hydrogen ion concentration - plausibly more important to the organisms in the water than pH is - could be undergoing the opposite change, thus turning your conclusions about biological impact on their head [8/n]</p>— Matthew Humphreys (@matthew_vdh) <a href="https://twitter.com/matthew_vdh/status/1067100612704243712?ref_src=twsrc%5Etfw">November 26, 2018</a></blockquote>
 

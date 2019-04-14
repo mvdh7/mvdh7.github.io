@@ -6,6 +6,8 @@ color: primary
 description:
 ---
 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 This is the second in a short series of posts reflecting on my ongoing transition from MATLAB to Python for oceanographic data analysis, visualisation, and scientific software development.
 
 [In the first post](/articles/from-matlab-to-python-reflections-after-a-year), I looked at a few differences between MATLAB and "pure" Python. But to get the most out of Python, you need to use some of the many packages of high level tools. Those I've used by far the most are Numpy and Scipy. There's also Pandas, which I try to avoid, but nevertheless deserves a mention. This post is primarily about those packages. Data visualisation, and integrating Python together with MATLAB, will follow.
