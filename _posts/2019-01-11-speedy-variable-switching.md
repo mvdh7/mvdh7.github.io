@@ -2,7 +2,7 @@
 title: Speedy variable switching
 tags: [MATLAB, Dataviz]
 style: fill
-color: success
+color: light
 description:
 ---
 

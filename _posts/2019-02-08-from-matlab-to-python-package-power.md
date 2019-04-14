@@ -1,8 +1,8 @@
 ---
 title: From MATLAB to Python - package power
 tags: [Python, MATLAB]
-style: border
-color: primary
+style: fill
+color: secondary
 description:
 ---
 

@@ -2,7 +2,7 @@
 title: Changing pH seasonality
 tags: [Seawater chemistry, Ocean acidification]
 style: fill
-color: danger
+color: info
 description:
 ---
 
