@@ -15,7 +15,7 @@ MathJax.Ajax.config.path["mhchem"] =
 MathJax.Hub.Config({TeX: {extensions: ["[mhchem]/mhchem.js"]}});
 </script><script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
-This post is an extension of a Twitter thread I wrote November, after reading Kwiatkowski and Orr's paper on [Diverging seasonal extremes for ocean acidification during the twenty-first century](https://www.nature.com/articles/s41558-017-0054-0):
+This post is an extension of a Twitter thread I wrote in November, after reading Kwiatkowski and Orr's paper on [Diverging seasonal extremes for ocean acidification during the twenty-first century](https://www.nature.com/articles/s41558-017-0054-0):
 
 <blockquote class="twitter-tweet"><p dir="ltr" lang="en">Totally counter-intuitive but enormously important point for ocean acidification research raised in this <a href="https://twitter.com/NatureClimate?ref_src=twsrc%5Etfw">@NatureClimate</a> study by Kwiatkowski &amp; Orr <a href="https://t.co/LwF7RxQGiN">https://t.co/LwF7RxQGiN</a> [1/n]</p>— Matthew Humphreys (@matthew_vdh) <a href="https://twitter.com/matthew_vdh/status/1067100603019653122?ref_src=twsrc%5Etfw">November 26, 2018</a></blockquote>
 
