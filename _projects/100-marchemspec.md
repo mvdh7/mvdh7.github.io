@@ -8,7 +8,7 @@ permalink: /projects/marchemspec/
 
 # **MarChemSpec**
 
-## Automatic differentiation for physical chemistry
+## Pytzer: automatic differentiation for physical chemistry
 
 **Pytzer is a Python implementation of the Pitzer model for calculating physicochemical properties of complex aqueous solutions using automatic differentiation.**
 
