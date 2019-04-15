@@ -1,5 +1,5 @@
 ---
-name: LOCATE
+name: Riverine carbon flows
 tools: [Limnology, Seawater chemistry]
 image:
 description: LOCATE is a multidisciplinary project undertaking the first ever coordinated sampling of Great Britain's major rivers.

@@ -1,5 +1,5 @@
 ---
-name: Shelf Sea Biogeochemistry
+name: Shelf sea biogeochemistry
 tools: [Oceanography, Research cruises]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/SSB.jpg
 description: Carbon and nutrient dynamics and fluxes in the northwest European continental shelf sea.
