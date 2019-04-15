@@ -29,9 +29,9 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active align-top">
+    <div class="carousel-item active">
       <img class="d-block w-100" src="/images/geotraces/ga10table.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block text-dark align-top">
+      <div class="carousel-caption d-none d-md-block text-warning">
         <h6>View of Table Mountain as RRS <i>James Cook</i> departs from Cape Town</h6>
       </div>
     </div>
