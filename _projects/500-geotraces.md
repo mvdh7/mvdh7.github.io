@@ -33,6 +33,10 @@ manual
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/images/geotraces/ga10table.jpg" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>header</h5>
+        <p>caption</p>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/images/geotraces/ga10lab.jpg" alt="Second slide">
