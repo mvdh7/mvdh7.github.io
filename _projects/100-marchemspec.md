@@ -1,18 +1,14 @@
 ---
 name: MarChemSpec
-tools: [Seawater chemistry]
+tools: [Seawater chemistry, Python, Julia]
 image:
-description: test
+description: Deploying automatic differentiation for chemical speciation modelling of seawater, and understanding the underlying uncertainties.
 permalink: /projects/marchemspec/
 ---
 
 # **MarChemSpec**
 
 <!--
-
-description: Deploying automatic differentiation for chemical speciation modelling of seawater, and understanding the underlying uncertainties.
-
-, Python, Julia
 
 ## Automatic differentiation for physical chemistry
 
