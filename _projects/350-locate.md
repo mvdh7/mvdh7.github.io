@@ -2,7 +2,7 @@
 name: LOCATE
 tools: [Limnology, Seawater chemistry]
 image:
-description: LOCATE is a multi-disciplinary project that will undertake the first ever coordinated sampling of the major rivers in Great Britain.
+description: LOCATE is a multidisciplinary project undertaking the first ever coordinated sampling of the major rivers in Great Britain.
 external_url: http://locate.ac.uk/
 ---
 
