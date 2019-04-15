@@ -32,19 +32,19 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
     <div class="carousel-item active">
       <img class="d-block w-100" src="/images/geotraces/ga10table.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block text-warning">
-        <h5>View of Table Mountain as RRS <i>James Cook</i> leaves Cape Town</h5>
+        <h6><b>View of Table Mountain as RRS <i>James Cook</i> leaves Cape Town</b></h6>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/images/geotraces/ga10lab.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>The carbonate chemistry lab space ready for the GA10 transect</h5>
+        <h6><b>The carbonate chemistry lab space ready for the GA10 transect</b></h6>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/images/geotraces/ga10gough.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Wandering albatrosses soar beside Gough Island</h5>
+        <h6><b>Wandering albatrosses soar beside Gough Island</b></h6>
       </div>
     </div>
   </div>
