@@ -17,3 +17,7 @@ Tynan et al.
 ## Polar plankton
 
 Richier et al., Daniels et al., Poulton et al.
+
+<p class="text-center">
+{% include button.html link="/projects" text="Back to projects" %}
+</p>
