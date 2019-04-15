@@ -44,7 +44,7 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
     <div class="carousel-item">
       <img class="d-block w-100" src="/images/geotraces/ga10gough.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-        <h6><b>Wandering albatrosses soar beside Gough Island</b></h6>
+        <h6><b>Wandering albatross soar beside Gough Island</b></h6>
       </div>
     </div>
   </div>
