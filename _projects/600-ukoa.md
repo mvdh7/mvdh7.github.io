@@ -8,7 +8,7 @@ permalink: /projects/ukoa/
 
 # **UK Ocean Acidification**
 
-The [UK Ocean Acidification research programme](https://www.oceanacidification.org.uk) (UKOA).
+The UK Ocean Acidification research programme ([UKOA](https://www.oceanacidification.org.uk)).
 
 ## High-latitude carbonate chemistry
 
