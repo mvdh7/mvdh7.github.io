@@ -3,7 +3,7 @@ name: UK Ocean Acidification
 tools: [Oceanography, Research cruises]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jr274sgeorgia.jpg
 description: Monitoring the progress and identifying the effects of ocean acidification in sensitive polar regions.
-permalink: /projects/ukoa/
+permalink: /research/ukoa/
 ---
 
 # **UK Ocean Acidification**

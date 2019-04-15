@@ -28,7 +28,7 @@ author:
 collections:
   projects:
     output: true
-    permalink: /projects/:name
+    permalink: /research/:name
 
 
 # Default values for collections

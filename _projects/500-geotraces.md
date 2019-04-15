@@ -3,7 +3,7 @@ name: GEOTRACES
 tools: [Oceanography, Research cruises]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces-map.png
 description: An international programme of research cruises aiming to improve our understanding of trace element distributions and biogeochemical cycles throughout the global ocean.
-permalink: /projects/geotraces/
+permalink: /research/geotraces/
 ---
 
 # **GEOTRACES**
