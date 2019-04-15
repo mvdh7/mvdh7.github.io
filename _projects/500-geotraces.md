@@ -22,8 +22,6 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
 {% include carousel.html %}
 -->
 
-manual
-
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
