@@ -1,8 +1,8 @@
 ---
 name: UK Ocean Acidification
 tools: [Oceanography, Research cruises]
-image:
-description:
+image: /images/ukoa/jr271side.jpg
+description: Investigating the progress and effects of ocean acidification in sensitive polar regions.
 permalink: /projects/ukoa/
 ---
 
