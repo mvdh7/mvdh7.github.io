@@ -8,13 +8,14 @@ permalink: /projects/marchemspec/
 
 # **MarChemSpec**
 
+<!--
+
 ## Automatic differentiation for physical chemistry
 
 **Pytzer is a Python implementation of the Pitzer model for calculating physicochemical properties of complex aqueous solutions using automatic differentiation.**
 
 {% include button.html link="https://github.com/mvdh7/pytzer" text="GitHub" style="dark" %}
 {% include button.html link="https://pytzer.readthedocs.io/en/latest/" text="Documentation" style="info" %}
-<!--{% include button.html link="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/citations/Humphreys2015Calkulate.bib" text="Citation" style="light" %}-->
 
 Many properties of aqueous solutions, such as the chemical activities of the dissolved components, are given by different derivatives of a master equation for the excess Gibbs energy. Pytzer encodes the master equation, and then takes the novel approach of using automatic differentiation (as implemented by [Autograd](https://github.com/HIPS/autograd)) to evaluate each derivative of interest.
 
@@ -27,3 +28,5 @@ MarChemSpec is jointly funded by the Natural Environment Research Council (NERC,
 <p class="text-center">
 {% include button.html link="/projects" text="Back to projects" %}
 </p>
+
+-->
