@@ -12,6 +12,7 @@ permalink: /projects/geotraces/
 
 I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook* for a UK occupation of the GA10 transect at 40°S, collecting and analysing seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. My Masters student Charlotte Miskin-Hymas later measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa.
 
+<!--
 {%- capture carousel_images -%}
 /images/geotraces/ga10table.jpg
 /images/geotraces/ga10lab.jpg
@@ -19,6 +20,36 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
 {%- endcapture -%}
 
 {% include carousel.html %}
+-->
+
+manual
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/images/geotraces/ga10table.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/images/geotraces/ga10lab.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/images/geotraces/ga10gough.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 <p class="text-center">
 {% include button.html link="/projects" text="Back to projects" %}
