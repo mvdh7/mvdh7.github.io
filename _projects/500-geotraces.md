@@ -51,5 +51,5 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
 My Masters student, Charlotte Miskin-Hymas, later measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa.
 
 <p class="text-center">
-{% include button.html link="/projects" text="Back to projects" %}
+{% include button.html link="/research" text="Back to research" %}
 </p>

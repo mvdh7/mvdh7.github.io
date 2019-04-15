@@ -23,5 +23,5 @@ v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a 
 <!--![](https://mphumphreys.files.wordpress.com/2018/12/calkulate-f02.png)-->
 
 <p class="text-center">
-{% include button.html link="/projects" text="Back to projects" %}
+{% include button.html link="/research" text="Back to research" %}
 </p>

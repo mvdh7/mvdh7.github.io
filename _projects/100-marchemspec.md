@@ -24,5 +24,5 @@ The core of the software and its API are stable, but Pytzer remains in beta for 
 MarChemSpec is jointly funded by the Natural Environment Research Council (NERC, UK) and National Science Foundation (NSF, USA), with collaborators from the University of East Anglia, Scripps Institution of Oceanography, and Woods Hole Oceanographic Institution. Other project partners include the national metrological institutes of the USA (NIST), France (LNE), Germany (PTB) and Japan (NMIJ), and [SCOR Working Group 145](http://marchemspec.org/).
 
 <p class="text-center">
-{% include button.html link="/projects" text="Back to projects" %}
+{% include button.html link="/research" text="Back to research" %}
 </p>
