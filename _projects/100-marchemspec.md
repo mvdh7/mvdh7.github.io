@@ -1,5 +1,5 @@
 ---
-name: MarChemSpec
+name: Marine chemical speciation modelling
 tools: [Seawater chemistry, Python, Julia]
 image:
 description: Deploying automatic differentiation for chemical speciation modelling of seawater, and understanding the underlying uncertainties.
