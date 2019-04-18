@@ -24,6 +24,4 @@ Publications:
   * [Daniels et al. (2016)](https://doi.org/10.3354/meps11820);
   * [Poulton et al. (2016)](https://doi.org/10.1016/j.dsr2.2016.01.002).
 
-<p class="text-center">
-{% include button.html link="/research" text="Back to research" %}
-</p>
+<p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
