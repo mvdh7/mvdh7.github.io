@@ -24,6 +24,7 @@ School of Environmental Sciences, University of East Anglia, Norwich NR4 7TJ, UK
 | loop | [Matthew P. Humphreys](https://loop.frontiersin.org/people/391608/overview)
 | Mendeley | [Matthew Humphreys](https://www.mendeley.com/profiles/matthew-humphreys2/)
 | OceanExpert | [36132](https://www.oceanexpert.net/expert/matthew.humphreys)
+| Open Science Framework | [63zy4](https://osf.io/63zy4/)
 | ORCID |  [0000-0002-9371-7128](http://orcid.org/0000-0002-9371-7128)
 | Publons | [1545997](https://publons.com/a/1545997/)
 | ResearcherID | [A-8939-2015](http://www.researcherid.com/rid/A-8939-2015)
