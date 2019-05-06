@@ -7,6 +7,12 @@ weight: 4
 
 # **Publications**
 
+## Preprints in review
+
+  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
+
+  * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2018). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2018-376](https://doi.org/10.5194/bg-2018-376).
+
 ## 2019
 
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
@@ -14,8 +20,6 @@ weight: 4
   * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. <a href="https://doi.org/10.1016/j.aquaculture.2018.11.028">doi:10.1016/j.aquaculture.2018.11.028</a>.
 
 ## 2018
-
-  * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2018). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences Discussions*, in review. <a href="https://doi.org/10.5194/bg-2018-376">doi:10.5194/bg-2018-376</a>.
 
   * Henson, S. A., <u>Humphreys, M. P.</u>, Land, P., Shutler, J., Goddijn-Murphy, L., Warren, M. and Schuster, U. (2018). **Controls on open-ocean North Atlantic Δ<i>p</i>CO<sub>2</sub> at seasonal and interannual timescales are different.** *Geophysical Research Letters* 45. <a href="https://doi.org/10.1029/2018GL078797">doi:10.1029/2018GL078797</a>.
 
