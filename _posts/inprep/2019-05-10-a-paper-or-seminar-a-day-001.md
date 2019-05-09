@@ -12,7 +12,7 @@ description: The structure of water in seawater; using atmospheric CO<sub>2</sub
 
 I've decided to try to start reading one paper each working day. I have decided to adjust the rules slightly: attending a seminar is allowed instead of reading a paper. Either option achieves my main aim, which is to be exposed to more ideas, and to keep up with other people's research. Given my field of research, the content will mostly be related in some way to marine biogeochemistry and the carbon cycle, but I'll be trying to explore a diversity of themes rather than just sticking in my comfort zone.
 
-I'll also try to briefly summarise what I've read each week in a blog post, of which this is the first - mostly for my own benefit (for future reference, and to pressure myself into continuing), but hopefully you may find it useful too!
+I'll also try to briefly summarise what I've read each week in a blog post, of which this is the first. This is mostly for my own benefit (for future reference, and to pressure myself into continuing), but hopefully you may find it useful too!
 
 ## The structure of water in seawater
 
