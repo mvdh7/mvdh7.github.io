@@ -196,3 +196,5 @@ If you are running any calculations through loops, or through a sequence of Pyth
   * Use the `savemat` and `loadmat` functions from `scipy.io` to swap variables between MATLAB and Python;
   * Or call Python directly from within MATLAB - this is fantastic when you've got it working, but prepare yourself for some faff;
   * Stick to just using MATLAB to provide inputs and extract outputs from the Python, rather than putting Python functions in MATLAB loops.
+
+<p class="text-center">{% include button.html link="/blog" text="Back to blog" %}</p>
