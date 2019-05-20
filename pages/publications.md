@@ -15,9 +15,9 @@ weight: 4
 
 ## 2019
 
-  * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences*, in press.
-
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
+
+  * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences* 9(5), 230. [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
 
   * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. <a href="https://doi.org/10.1016/j.aquaculture.2018.11.028">doi:10.1016/j.aquaculture.2018.11.028</a>.
 
