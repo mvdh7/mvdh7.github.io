@@ -9,6 +9,8 @@ weight: 4
 
 ## Preprints in review
 
+  * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
+
   * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
 
   * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2018). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2018-376](https://doi.org/10.5194/bg-2018-376).
