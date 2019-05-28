@@ -4,6 +4,7 @@ tags: [Python, MATLAB]
 style: outline
 color: dark
 description:
+comments: true
 ---
 
 For the first ~5 years of my scientific life I did all of my data wrangling in MATLAB. More recently, I began looking into the alternatives. Partly I was worried about the consequences of all of my code requiring an expensive piece of software to run, partly I was just curious, and partly it seemed like a very defensible bit of procrastination. After many months of unrealised good intentions I finally took the plunge about a year ago and started using Python in earnest. What follows is an account of my experience: the surprises, the frustrations, and the delights. I hope this may be useful to anyone thinking about making the same transition. I've ended up using a hybrid of the two, preferring to use one language for some things, and the other for others.
@@ -121,3 +122,20 @@ Here `z` is an optional input that takes the value of `3` if you don't specify i
 The points above seem to be mostly neutral or pushing in Python's favour, and indeed the 'hybrid' coding approach I've fallen into tends to prefer Python for data analysis, but MATLAB for visualisation.
 
 Next time(s), more on: Python packages like Numpy and Scipy that you need to use to replicate MATLAB's higher-level functionality; data visualisation; and my experience of trying to get the two languages to play with each other.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/from-matlab-to-python-reflections-after-a-year';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

@@ -4,6 +4,7 @@ tags: [Seawater chemistry, MarChemSpec]
 style: outline
 color: primary
 description: How do tools like the Pitzer model help us to understand chemical equilibria in seawater?
+comments: true
 ---
 
 <script type="text/x-mathjax-config">
@@ -48,3 +49,20 @@ So, from the marine chemist's perspective, the Pitzer model is just a way to cal
 How does it do that? Best left for another time. Suffice it to say, a lot of Greek letters are involved.
 
 {% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/win_20190125_14_29_49_pro-2.jpg" caption="Yum." %}
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/the-marine-motivation-for-pitzer-models';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

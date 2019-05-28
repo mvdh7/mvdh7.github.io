@@ -4,6 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: outline
 color: warning
 description: The first step in a simple workflow for efficiently designing publication-quality figures in MATLAB.
+comments: true
 ---
 
 Having produced most of my scientific figures primarily with MATLAB since early on in my PhD (6 years and counting), I’ve now developed quite an efficient system, which I’d like to share. This will be the first in a series of blog posts, each looking at a different aspect of MATLAB figuresmithing.
@@ -55,3 +56,20 @@ So by specifying a value for `X`, we make sure that every time we re-run the Edi
   * Make a new Editor script for each figure;
   * Start every figure script with `figure(X); clf` (where `X` can be any positive integer);
   * Dock the figure window and incrementally build the figure by adding to the Editor script.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/making-matlab-figures-1-basic-workflow';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

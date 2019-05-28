@@ -4,6 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: outline
 color: warning
 description:
+comments: true
 ---
 
 In oceanographic research we often want to produce plots of various variables either against each other or against depth, time or location.
@@ -242,3 +243,20 @@ In that context, all of the code I've described above (and probably still a fair
   * Prepare your data in a table or structure and you can very easily change the variables that are plotted on complex figures;
   * Use a `switch` block to control variable-specific settings;
   * Put the whole lot in a `for` loop to display multiple variables at once.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/speedy-variable-switching';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

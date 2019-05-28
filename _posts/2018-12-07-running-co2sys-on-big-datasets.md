@@ -4,6 +4,7 @@ tags: [Marine carbonate system, Seawater chemistry, MATLAB]
 style: outline
 color: dark
 description: What's the most efficient way to solve a large marine carbonate system dataset using CO<sub>2</sub>SYS in MATLAB?
+comments: true
 ---
 
 ## What is CO<sub>2</sub>SYS?
@@ -100,3 +101,20 @@ On my PC, with only 4 processor cores, this speeds up the time for 100 simulatio
   * The amount of speed-up from a `parfor` varies a lot depending on how many processor cores your computer has
   * The newest version of [CO<sub>2</sub>SYS](https://github.com/jamesorr/CO2SYS-MATLAB) also does uncertainty calculations for you so you probably don't need to do it yourself like this anyway
   * Working scripts accompanying this post are [available here](https://www.dropbox.com/s/0bvmhc3z076p1kw/big_co2sys.m)
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/running-co2sys-on-big-datasets';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

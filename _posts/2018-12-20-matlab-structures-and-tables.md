@@ -4,6 +4,7 @@ tags: [MATLAB, Workflow]
 style: outline
 color: dark
 description: Organising your data into structures and tables helps to efficiently create flexible figures.
+comments: true
 ---
 
 Although this isn't directly about making figures in MATLAB, many of the powerful figuresmithing tricks that I use (and will describe in future posts) work best if your data is organised in a table or structure. So, it's worth having a think about what these variable types are, and how to use and construct them.
@@ -97,3 +98,20 @@ I have encountered quite a few people who found themselves wanting to dynamicall
   * Tables are a special type of structure, for when the data look like a spreadsheet;
   * Structures and tables allow "dynamic referencing" of the fields within them, which is essentially a superpower;
   * We will use these data types extensively in making figures in later posts.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/matlab-structures-and-tables';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}

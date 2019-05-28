@@ -4,6 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: outline
 color: warning
 description: A walk through one way to efficiently and reproducibly control the size, resolution and appearance of a MATLAB figure.
+comments: true
 ---
 
 The appearance of a new MATLAB figure never fails to disappoint.
@@ -103,3 +104,20 @@ By 'bulk of the figure' in step 1, I mean put all the data on there, set the col
   * Set up a function (like the `printsetup` example above) to apply your commonly-used settings in one go;
   * `gcf` and `print` used together can produce precisely-sized raster figures with whatever resolution you need;
   * Make most of the figure just looking at the MATLAB figure window, then add print and fine-tune the appearance from the saved file.
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/making-matlab-figures-2-gcf-and-print';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
