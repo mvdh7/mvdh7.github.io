@@ -5,6 +5,7 @@ style: outline
 color: dark
 description: Switching data between Python and MATLAB, and using both together.
 comments: true
+tester: Test
 ---
 
 This continues a short series about my ongoing transition from MATLAB to Python. Previously I talked about some [fundamental differences between the coding languages](/blog/from-matlab-to-python-reflections-after-a-year), and delved a bit more into [the main Python packages that you need to use](/blog/from-matlab-to-python-package-power) to replicate MATLAB's higher-level functions. Here, I'll look at how you can get the two languages to work together, giving some very basic examples.
@@ -197,6 +198,8 @@ If you are running any calculations through loops, or through a sequence of Pyth
   * Use the `savemat` and `loadmat` functions from `scipy.io` to swap variables between MATLAB and Python;
   * Or call Python directly from within MATLAB - this is fantastic when you've got it working, but prepare yourself for some faff;
   * Stick to just using MATLAB to provide inputs and extract outputs from the Python, rather than putting Python functions in MATLAB loops.
+
+{% page.tester %}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
