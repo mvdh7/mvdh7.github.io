@@ -22,7 +22,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 <p>PhD student <a href="https://people.uea.ac.uk/ruth_s_payne">Ruth Payne</a> is measuring the dissolved CO<sub>2</sub> and alkalinity in LOCATE samples at the University of East Anglia (UEA). I am supervising Ruth's PhD studies along with lead supervisor <a href="https://people.uea.ac.uk/d_bakker">Dr Dorothee Bakker</a> (also at UEA), <a href="https://people.uea.ac.uk/n_greenwood">Dr Naomi Greenwood</a> and <a href="https://www.cefas.co.uk/about-us/people/dr-silke-kroeger/">Dr Silke Kröger</a> (Cefas), and <a href="https://noc.ac.uk/people/rics">Prof Richard Sanders</a> (NOC Southampton). The results will allow us to better quantify the flows of alkalinity and dissolved inorganic carbon from rivers into the shelf sea from the whole island of Great Britain, and study their consequences for oceanic CO<sub>2</sub> uptake from the atmosphere and ocean acidification.</p>
 </div>
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." width="842" height="1194" />
 
 </div>
 
