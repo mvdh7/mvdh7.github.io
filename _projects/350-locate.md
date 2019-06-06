@@ -16,13 +16,15 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 <div style="display:flex">
 
+<div>
 <p><a href="http://locate.ac.uk/">LOCATE</a> is a multidisciplinary project undertaking the first ever coordinated chemical sampling of Great Britain's major rivers. Many of these rivers, especially towards the south, include limestone in their catchments, making them of particular interest for understanding the marine carbonate system in the surrounding northwest European shelf sea.</p>
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" width="25%" />
-
+<p>PhD student Ruth Payne is measuring the dissolved CO<sub>2</sub> and alkalinity in LOCATE samples at the University of East Anglia (UEA). I am supervising Ruth's PhD studies along with lead supervisor Dr Dorothee Bakker (also at UEA), Dr Naomi Greenwood and Dr Silke Kröger (Cefas), and Prof Richard Sanders (NOC Southampton). The results will allow us to better quantify the flows of alkalinity and dissolved inorganic carbon from rivers into the shelf sea from the whole island of Great Britain, and study their consequences for oceanic CO<sub>2</sub> uptake from the atmosphere and ocean acidification.</p>
 </div>
 
-<p>PhD student Ruth Payne is measuring the dissolved CO<sub>2</sub> and alkalinity in LOCATE samples at the University of East Anglia (UEA). I am supervising Ruth's PhD studies along with lead supervisor Dr Dorothee Bakker (also at UEA), Dr Naomi Greenwood and Dr Silke Kröger (Cefas), and Prof Richard Sanders (NOC Southampton). The results will allow us to better quantify the flows of alkalinity and dissolved inorganic carbon from rivers into the shelf sea from the whole island of Great Britain, and study their consequences for oceanic CO<sub>2</sub> uptake from the atmosphere and ocean acidification.</p>
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" width="40%" />
+
+</div>
 
 ## Alkalinity method development
 
