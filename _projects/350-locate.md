@@ -8,7 +8,7 @@ permalink: /research/rivercarbon/
 
 <!-- https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png -->
 
-# **Riverine carbon and alkalinity flows**
+# Riverine carbon and alkalinity flows
 
 Rivers are an important source of dissolved carbon, nutrients and other ions to the ocean. The river water picks up some of these components through the process of weathering - dissolving minerals out of rocks on the land. Different minerals impart different chemical properties to the water. From a CO<sub>2</sub> perspective, dissolving calcium carbonate (CaCO<sub>3</sub>) increases the water's alkalinity, which enhances its capacity to take up CO<sub>2</sub> from the air. Rivers with catchments through limestone bedrock therefore provide significant fluxes of alkalinity to the surrounding ocean, stabilising additional dissolved CO<sub>2</sub> in the seawater, and elevating its pH.
 
@@ -30,3 +30,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 ## Alkalinity method development
 
 Measuring the LOCATE samples has required pushing the analytical instruments at UEA beyond their normal bounds. These instruments (i.e. VINDTAs) were primarily designed for measuring salty seawater samples from the open ocean, not fresh and brackish river and estuary water. Ruth has been modifying the UEA VINDTAs' hardware and software to more reliably determine the LOCATE samples' alkalinity over a wider range of salinity. We are also further developing the [Calkulate](calkulate) software to ensure that meaningful alkalinity values can be extracted from these unusual titration data.
+
+<p class="text-center">
+{% include button.html link="/research" text="Back to research" %}
+</p>
