@@ -23,7 +23,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 </div>
 
 <figure>
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." width="421" />
 <figcaption>River catchments studied by LOCATE.</figcaption>
 </figure>
 
