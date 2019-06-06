@@ -2,8 +2,7 @@
 name: Riverine carbon and alkalinity flows
 tools: [Limnology, Seawater chemistry]
 image:
-description: LOCATE is a multidisciplinary project undertaking the first ever coordinated sampling of Great Britain's major rivers.
-external_url: http://locate.ac.uk/
+description: Measuring the effects of Great Britain's major rivers on the marine carbonate system of the surrounding shelf sea.
 ---
 
 <!-- https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/locate.png -->
