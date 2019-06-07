@@ -28,7 +28,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 ## Alkalinity method development
 
-Measuring the LOCATE samples has required pushing the analytical instruments at UEA beyond their normal bounds. These instruments (i.e. VINDTAs) were primarily designed for measuring salty seawater samples from the open ocean, not fresh and brackish river and estuary water. Ruth has been modifying the UEA VINDTAs' hardware and software to more reliably determine the LOCATE samples' alkalinity over a wider range of salinity. We are also further developing the [Calkulate](calkulate) software to ensure that meaningful alkalinity values can be extracted from these unusual titration data.
+Measuring the LOCATE samples has required pushing the analytical instruments at UEA beyond their normal bounds. These instruments (i.e. VINDTAs) were primarily designed for measuring salty seawater samples from the open ocean, not fresh and brackish river and estuary water. Ruth has been modifying the UEA VINDTAs' hardware and software to more reliably determine the LOCATE samples' alkalinity over a wider range of salinity. We are also further developing my [Calkulate](../calkulate) software to ensure that meaningful alkalinity values can be extracted from these unusual titration data.
 
 <p class="text-center">
 {% include button.html link="/research" text="Back to research" %}
