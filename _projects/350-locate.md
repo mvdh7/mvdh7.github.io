@@ -1,8 +1,7 @@
 ---
-name: Riverine carbon and alkalinity flows
-tools: [Limnology, Seawater chemistry]
+name: Riverine carbon and alkalinity
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/tamar.png
-description: Measuring the effects of Great Britain's major rivers on the marine carbonate system of the surrounding shelf sea.
+description: How do Great Britain's major rivers affect the marine carbonate system in their estuaries and the surrounding shelf sea?
 permalink: /research/rivercarbon/
 ---
 
