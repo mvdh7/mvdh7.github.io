@@ -1,7 +1,7 @@
 ---
 name: Riverine carbon and alkalinity
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/tamar.png
-description: How do Great Britain's major rivers affect the marine carbonate system in their estuaries and the surrounding shelf sea?
+description: How do Great Britain's major rivers affect the marine carbonate system in their estuaries and in the surrounding continental shelf sea?
 permalink: /research/rivercarbon/
 ---
 
