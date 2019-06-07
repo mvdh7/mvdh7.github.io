@@ -17,11 +17,13 @@
         <div class="card-body">
           <h5 class="card-title">{{ project.name }}</h5>
           <p class="card-text">{{ project.description }}</p>
-          <!--<p class="card-text">
+          {% if project.tools %}
+          <p class="card-text">
             {% for tool in project.tools %}
               <span class="badge badge-pill text-primary border border-primary">{{tool}}</span>
             {% endfor %}
-          </p>-->
+          </p>
+          {% endif %}
         </div>
       </a>
     </div>
