@@ -30,7 +30,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 <div style="display:flex; align-items:flex-start">
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" style="border-radius:0%; width:234px; height:312px" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" style="border-radius:35%; width:234px; height:312px" />
 
 <div style="padding-left:2%">
 <h2>Alkalinity method development</h2>
