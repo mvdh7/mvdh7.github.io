@@ -30,7 +30,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 <div style="display:flex; align-items:center">
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" width="390" height="520" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" width="390" height="520" style="border-radius:20%" />
 
 <div style="padding-left:2%">
 <p>Measuring the LOCATE samples has required pushing the analytical instruments at UEA beyond their normal bounds. These instruments (i.e. VINDTAs) were primarily designed for measuring salty seawater samples from the open ocean, not fresh and brackish river and estuary water. Ruth has been modifying the UEA VINDTAs' hardware and software to more reliably determine the LOCATE samples' alkalinity over a wider range of salinity. We are also further developing my <a href="../calkulate">Calkulate</a> software to ensure that meaningful alkalinity values can be extracted from these unusual titration data.</p>
