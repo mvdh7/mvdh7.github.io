@@ -47,7 +47,7 @@ The datasets themselves are also freely available from the British Oceanographic
 
 ## Reference material measurements
 
-In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>), we also reported measurements of δ<sup>13</sup>C<sub>DIC</sub> in <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">seawater certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
+In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>), we also reported measurements of δ<sup>13</sup>C<sub>DIC</sub> in seawater <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
 
 <div style="display:flex; align-items:center">
 <table style="flex-basis:60%"><tr>
