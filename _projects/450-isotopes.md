@@ -31,13 +31,9 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 The measurement results have been all published with open access in *Earth System Science Data:*
 
-<ul style="display:flex; align-items:flex-start">
+  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
 
-<li>Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). <strong>Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012</strong>. <em>Earth System Science Data</em> 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.</li>
-
-<li>Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). <strong>Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.</strong> <em>Earth System Science Data</em> 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.</li>
-
-</ul>
+  * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
 ### Datasets
 
