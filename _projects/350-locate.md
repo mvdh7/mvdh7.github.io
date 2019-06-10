@@ -24,13 +24,13 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 <br />
 </div>
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." width="421" height="597" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/locate.png" alt="Map of UK river catchments investigated by the LOCATE research programme." width="421" height="597" style="min-width:421px" />
 
 </div>
 
 <div style="display:flex; align-items:flex-start; flex-direction:row">
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" style="border-radius:0%; width:234px; height:312px; flex-basis:234px; min-width:234px" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" style="border-radius:35%; width:234px; height:312px; flex-basis:234px; min-width:234px" />
 
 <div style="padding-left:2%">
 <h2>Alkalinity method development</h2>
