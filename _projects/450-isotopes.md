@@ -27,11 +27,15 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 </div>
 
+### Publications
+
 The measurement results have been all published with open access in *Earth System Science Data*:
 
   * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
 
   * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
+
+### Datasets
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
 
@@ -63,7 +67,7 @@ In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Hump
 <td>91</td>
 </tr></table>
 
-<p style="flex-basis:40%; padding-left:1%"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
+<p style="flex-basis:40%; padding-left:1%"><br /><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from Humphreys et al. (2016). Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
 </div>
 
 <div style="display:flex; align-items:center">
