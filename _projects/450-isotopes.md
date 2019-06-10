@@ -33,6 +33,16 @@ The measurement results have been all published with open access in *Earth Syste
 
   * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
+  The datasets themselves are also freely available from the British Oceanographic Data Centre:
+
+    * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2017). **Ellett Line measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/cdm8">doi:10/cdm8</a>.
+
+    * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2014). **UKOA measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/xpj">doi:10/xpj</a>.
+
+    * Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
+
+# Reference material measurements
+
 In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>DIC</sub> in <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">seawater certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
 
 <div style="display:flex; align-items:center">
@@ -55,14 +65,6 @@ In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>
 
 <p style="flex-basis:40%; padding-left:1%"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
 </div>
-
-The datasets themselves are also freely available from the British Oceanographic Data Centre:
-
-  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2017). **Ellett Line measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/cdm8">doi:10/cdm8</a>.
-
-  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2014). **UKOA measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/xpj">doi:10/xpj</a>.
-
-  * Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
 
 <div style="display:flex; align-items:center">
 
