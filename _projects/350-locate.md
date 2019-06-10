@@ -28,7 +28,7 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 </div>
 
-<div style="display:flex; align-items:center">
+<div style="display:flex; align-items:flex-start">
 
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/rivercarbon/uea-alk-cell.jpg" style="border-radius:0%; width:234px; height:312px" />
 
@@ -39,7 +39,6 @@ Rivers are an important source of dissolved carbon, nutrients and other ions to 
 
 <p><i>Left: titration cell constructed in-house for small-volume samples, set up for total alkalinity analysis with the VINDTA at UEA (photo by Ruth Payne).</i></p>
 
-<br />
 </div>
 </div>
 
