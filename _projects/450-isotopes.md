@@ -3,6 +3,7 @@ name: Stable isotopes of carbon
 tools: [Isotopes, Oceanography]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/isotopes/ragnarocc-transect.png
 description: Measuring the stable isotopic composition of dissolved inorganic carbon in seawater to track anthropogenic CO<sub>2</sub> uptake and primary production.
+permalink: /research/isotopes/
 ---
 
 # Dissolved inorganic carbon: stable isotopes
@@ -18,7 +19,7 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 <p>I analysed the δ<sup>13</sup>C<sub>DIC</sub> in the samples from the first two cruises, and supervised University of Southampton MSc student Florence Greatrix for the third cruise, in <a href="https://www.gla.ac.uk/research/az/suerc/staff/boyceadrian/">Prof Adrian Boyce's</a> lab at the <a href="https://www.gla.ac.uk/research/az/suerc/">Scottish Universities Environmental Research Centre</a> in East Kilbride.</p>
 
-<p><i>Right: zonal transect of δ<sup>13</sup>C<sub>DIC</sub> across the subpolar North Atlantic Ocean in summer 2014 (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>).
+<p><i>Right: zonal transect of δ<sup>13</sup>C<sub>DIC</sub> across the subpolar North Atlantic Ocean in summer 2014 (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>).</i></p>
 
 <br />
 </div>
