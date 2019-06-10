@@ -43,16 +43,16 @@ The datasets themselves are also freely available from the British Oceanographic
 
   * Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
 
-## Regional data synthesis
-
 <div style="display:flex; align-items:center">
 
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/isotopes/becker-2016-fig1.png" width="378" height="386" style="min-width:378px" />
 
 <div>
+<h2>Regional data synthesis</h2>
+
 The datasets from the research cruises above are also included in a δ<sup>13</sup>C<sub>DIC</sub> data synthesis for the North Atlantic Ocean:
 
-  * Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). **An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.** *Earth System Science Data* 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.
+<li>Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). <b>An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.</b> <i>Earth System Science Data</i> 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.</li>
 
 This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. This showed that the measurements we conducted at SUERC agreed well with historical observations, and so no adjustments were proposed to our datasets.
 </div>
