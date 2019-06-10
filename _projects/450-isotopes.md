@@ -53,7 +53,7 @@ In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>
 <td>91</td>
 </tr></table>
 
-<p style="flex-basis:40%; padding-left:2%"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
+<p style="flex-basis:40%; padding-left:1%"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
 </div>
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
@@ -75,7 +75,7 @@ The datasets themselves are also freely available from the British Oceanographic
 
 <ul><li><p>Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). <strong>An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.</strong> <em>Earth System Science Data</em> 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.</p></li></ul>
 
-<p>This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. It showed that the measurements we conducted at SUERC agreed well with historical observations.</p>
+<p>This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This is known as a cross-over analysis. It showed that the measurements we conducted at SUERC agreed well with historical observations.</p>
 </div>
 
 </div>
