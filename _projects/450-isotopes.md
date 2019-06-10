@@ -75,7 +75,7 @@ The datasets themselves are also freely available from the British Oceanographic
 
 <ul><li><p>Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). <strong>An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.</strong> <em>Earth System Science Data</em> 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.</p></li></ul>
 
-<p>This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. This showed that the measurements we conducted at SUERC agreed well with historical observations, and so no adjustments were proposed to our datasets.</p>
+<p>This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. It showed that the measurements we conducted at SUERC agreed well with historical observations.</p>
 </div>
 
 </div>
