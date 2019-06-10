@@ -36,7 +36,7 @@ The measurement results have been all published with open access in *Earth Syste
 In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>DIC</sub> in <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">seawater certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
 
 <div style="display:flex; align-items:center">
-<table><tr>
+<table style="flex-basis:50%"><tr>
 <td>Batch</td>
 <td>δ<sup>13</sup>C<sub>DIC</sub></td>
 <td>No. of bottles</td>
@@ -53,7 +53,7 @@ In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>
 <td>91</td>
 </tr></table>
 
-<p class="text-center"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
+<p style="flex-basis:50%"><em>Left: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a>. Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
 </div>
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
