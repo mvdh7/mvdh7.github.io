@@ -21,7 +21,6 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 <p><i>Right: zonal transect of δ<sup>13</sup>C<sub>DIC</sub> across the subpolar North Atlantic Ocean in summer 2014 (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>).</i></p>
 
-<br />
 </div>
 
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/isotopes/humphreys-2016-fig6.png" alt="" width="422" height="510" style="min-width:422px" />
@@ -30,9 +29,9 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 The measurement results have been all published with open access in *Earth System Science Data*:
 
-  * <u>Humphreys, M. P.</u>, Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
+  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
 
-  * <u>Humphreys, M. P.</u>, Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
+  * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
 In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>DIC</sub> in <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">seawater certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
 
@@ -48,7 +47,7 @@ The datasets themselves are also freely available from the British Oceanographic
 
 The datasets from the research cruises above are also included in a δ<sup>13</sup>C<sub>DIC</sub> data synthesis for the North Atlantic Ocean:
 
-  * Becker, M., Andersen, N., Erlenkeuser, H., <u>Humphreys, M. P.</u>, Tanhua, T. and Körtzinger, A. (2016). **An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.** *Earth System Science Data* 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.
+  * Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). **An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.** *Earth System Science Data* 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.
 
 This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. This showed that the measurements we conducted at SUERC agreed well with historical observations, and so no adjustments were proposed to our datasets.
 
