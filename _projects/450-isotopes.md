@@ -10,14 +10,14 @@ permalink: /research/isotopes/
 
 The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 and carbon-13. Like all natural carbon reservoirs, the carbon in seawater dissolved inorganic carbon (DIC) is mostly composed of the lighter carbon-12. However, several oceanographic processes including biological primary production, remineralisation and air-sea gas exchange measurably modify the ratio between carbon-12 and carbon-13. On top of this natural variability, anthropogenic CO<sub>2</sub> released by burning fossil fuels is enriched in carbon-12, leading to a long-term trend of increasing carbon-12 in the ocean called *the Suess effect*. Observations of the stable isotopic ratio of DIC (denoted δ<sup>13</sup>C<sub>DIC</sub>) can therefore help us to pick apart the different process driving the distribution of marine DIC through space and through time.
 
+## New research cruise observations
+
 <div style="display:flex; align-items:center">
 
 <div>
-<h2>New research cruise observations</h2>
-
 <p>Seawater samples for δ<sup>13</sup>C<sub>DIC</sub> were collected during three UK research cruises in the subpolar North Atlantic Ocean. The initial two cruises were in the summer of 2012. The first of these voyaged into the Nordic Seas and as far north as Svalbard for the <a href="https://www.oceanacidification.org.uk">UK Ocean Acidification</a> research programme, while the second was a repeat occupation of the long-running <a href="https://prj.noc.ac.uk/ExtendedEllettLine/frontpage">Extended Ellett Line</a> transect between Scotland and Iceland. The third cruise, in summer 2014, repeated part of the Extended Ellett Line transect and also stretched west across the Atlantic to Greenland and Nova Scotia.</p>
 
-<p>I analysed the δ<sup>13</sup>C<sub>DIC</sub> in the samples from the first two cruises, and supervised University of Southampton MSc student Florence Greatrix for the third cruise, in <a href="https://www.gla.ac.uk/research/az/suerc/staff/boyceadrian/">Prof Adrian Boyce's</a> lab at the <a href="https://www.gla.ac.uk/research/az/suerc/">Scottish Universities Environmental Research Centre</a> in East Kilbride.</p>
+<p>I analysed the δ<sup>13</sup>C<sub>DIC</sub> in the samples from the first two cruises, and supervised University of Southampton MSc student Florence Greatrix for the third cruise, in <a href="https://www.gla.ac.uk/research/az/suerc/staff/boyceadrian/">Prof Adrian Boyce's</a> lab at the Scottish Universities Environmental Research Centre (<a href="https://www.gla.ac.uk/research/az/suerc/">SUERC</a>) in East Kilbride.</p>
 
 <p><i>Right: zonal transect of δ<sup>13</sup>C<sub>DIC</sub> across the subpolar North Atlantic Ocean in summer 2014 (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>).</i></p>
 
@@ -51,3 +51,7 @@ The datasets from the research cruises above are also included in a δ<sup>13</s
   * Becker, M., Andersen, N., Erlenkeuser, H., <u>Humphreys, M. P.</u>, Tanhua, T. and Körtzinger, A. (2016). **An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.** *Earth System Science Data* 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.
 
 This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This approach is known as a cross-over analysis. This showed that the measurements we conducted at SUERC agreed well with historical observations, and so no adjustments were proposed to our datasets.
+
+<p class="text-center">
+{% include button.html link="/research" text="Back to research" %}
+</p>
