@@ -39,22 +39,22 @@ In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>
 <table><tr>
 <td>Batch</td>
 <td>δ<sup>13</sup>C<sub>DIC</sub></td>
-<td>No. bottles</td>
-<td>No. measurements</td>
+<td>No. of bottles</td>
+<td>No. of measurements</td>
 </tr><tr>
 <td>141</td>
-<td>+1.15‰</td>
+<td>+1.15 ‰</td>
 <td>4</td>
 <td>24</td>
 </tr><tr>
 <td>144</td>
-<td>+1.27‰</td>
+<td>+1.27 ‰</td>
 <td>18</td>
 <td>91</td>
 </tr></table>
 </p>
 
-<p class="text-center"><em>Above: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a> (see their Table 3 for full details). Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05‰.</em></p>
+<p class="text-center"><em>Above: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a> (see their Table 3 for full details). Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05 ‰.</em></p>
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
 
