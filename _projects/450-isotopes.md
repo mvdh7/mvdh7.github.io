@@ -8,7 +8,7 @@ permalink: /research/isotopes/
 
 # Dissolved inorganic carbon: stable isotopes
 
-The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 and carbon-13. Like all natural carbon reservoirs, the carbon in seawater dissolved inorganic carbon (DIC) is mostly composed of the lighter carbon-12. However, several oceanographic processes including biological primary production, remineralisation and air-sea gas exchange measurably modify the ratio between carbon-12 and carbon-13. On top of this natural variability, anthropogenic CO<sub>2</sub> released by burning fossil fuels is enriched in carbon-12, leading to a long-term trend of increasing carbon-12 in the ocean called *the Suess effect*. Observations of the stable isotopic ratio of DIC (denoted δ<sup>13</sup>C<sub>DIC</sub>) can therefore help us to pick apart the different process driving the distribution of marine DIC through space and through time.
+The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 and carbon-13. Like all natural carbon reservoirs, the carbon in seawater dissolved inorganic carbon (DIC) is mostly composed of the lighter carbon-12. However, several oceanographic processes including biological primary production, remineralisation and air-sea gas exchange measurably modify the ratio between carbon-12 and carbon-13. On top of this natural variability, anthropogenic CO<sub>2</sub> released by burning fossil fuels is enriched in carbon-12, leading to a long-term trend of increasing carbon-12 in the ocean called *the Suess effect*. Observations of the stable isotopic ratio of DIC (denoted δ<sup>13</sup>C<sub>DIC</sub>) can therefore help us to pick apart the different process driving the distribution of marine DIC through space and time.
 
 ## New research cruise observations
 
@@ -34,6 +34,25 @@ The measurement results have been all published with open access in *Earth Syste
   * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
 In the second paper above, we also provide measurements of δ<sup>13</sup>C<sub>DIC</sub> in <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">seawater certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
+
+<table><tr>
+<td>Batch</td>
+<td>δ<sup>13</sup>C<sub>DIC</sub></td>
+<td>No. bottles</td>
+<td>No. measurements</td>
+</tr><tr>
+<td>141</td>
+<td>+1.15‰</td>
+<td>4</td>
+<td>24</td>
+</tr><tr>
+<td>144</td>
+<td>+1.27‰</td>
+<td>18</td>
+<td>91</td>
+</tr></table>
+
+<p class="text-center"><em>Above: summary of reference material δ<sup>13</sup>C<sub>DIC</sub> measurements from <a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al. (2016)</a> (see their Table 3 for full details). Values are relative to V-PDB. The 1σ uncertainty is on the order of 0.05‰.</em></p>
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
 
