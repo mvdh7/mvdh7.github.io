@@ -29,7 +29,7 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 ### Publications
 
-The measurement results have been all published with open access in *Earth System Science Data*:
+The measurement results have been all published with open access in *Earth System Science Data:*
 
 <ul style="display:flex; align-items:flex-start">
 
