@@ -10,7 +10,7 @@ external_url: https://www.uk-ssb.org/
 
 # Shelf sea biogeochemistry
 
-## Datasets
+## Marine carbonate system datasets
 
 <div style="display:flex"><div style="padding-right:0.8%">
 
@@ -22,9 +22,9 @@ external_url: https://www.uk-ssb.org/
 
 <blockquote>Humphreys, M. P., Griffiths, A. M., Hicks, N., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY021.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b724">doi:10/b724</a></blockquote>
 
-</div><div style="padding-left:0.8%">
-
 <blockquote>Humphreys, M. P., Griffiths, A. M., Smilenova, A., Mayers, K., Poulton, A., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY029.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b8c3">doi:10/b8c3</a></blockquote>
+
+</div><div style="padding-left:0.8%">
 
 <blockquote>Humphreys, M. P., Smilenova, A., Sims, R., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY033 (version 2).</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/cdwn">doi:10/cdwn</a></blockquote>
 
@@ -32,4 +32,12 @@ external_url: https://www.uk-ssb.org/
 
 <blockquote>Humphreys, M. P., Griffiths, A. M., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY026B.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95n">doi:10/b95n</a></blockquote>
 
+<blockquote>Humphreys, M. P., Smilenova, A., Poulton, A., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY030.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95r">doi:10/b95r</a></blockquote>
+
+<blockquote>Humphreys, M. P., Smilenova, A., Ruhl, H. A., Hartman, S. E., Kivimäe, K., Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY034.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95s">doi:10/b95s</a></blockquote>
+
 </div></div>
+
+<p class="text-center">
+{% include button.html link="/research" text="Back to research" %}
+</p>
