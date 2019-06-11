@@ -12,7 +12,7 @@ permalink: /research/calkulate/
 
 {% include button.html link="https://github.com/mvdh7/calkulate" text="GitHub" style="dark" %}
 {% include button.html link="https://calkulate.readthedocs.io/en/latest/" text="Documentation" style="info" %}
-{% include button.html link="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/citations/Humphreys2015Calkulate.bib" text="Citation" style="light" %}
+{% include button.html link="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/citations/Humphreys2015Calkulate.bib" text="Citation" style="primary" %}
 
 Calkulate implements several different methods to determine alkalinity from titration data, including least-squares fitting and Gran plots. Calkulate can also determine the acid titrant molarity given measurements of reference materials with known alkalinity. All equilibrium constants and the solution composition can be varied independently, and every step in the determination process can be plotted and analysed separately.
 
