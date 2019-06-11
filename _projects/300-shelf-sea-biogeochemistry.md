@@ -12,7 +12,7 @@ external_url: https://www.uk-ssb.org/
 
 ## Marine carbonate system datasets
 
-<div style="display:flex"><div style="padding-right:0.8%">
+<div style="display:flex"><div style="padding-right:0.8%; min-width:50%">
 
 <blockquote>Humphreys, M. P., Chowdhury, M. Z. H., Darroch, L., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY008.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b7k7">doi:10/b7k7</a></blockquote>
 
@@ -28,7 +28,7 @@ external_url: https://www.uk-ssb.org/
 
 <blockquote>Humphreys, M. P., Griffiths, A. M., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY026A.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95m">doi:10/b95m</a></blockquote>
 
-</div><div style="padding-left:0.8%">
+</div><div style="padding-left:0.8%; min-width:50%">
 
 <blockquote>Humphreys, M. P., Griffiths, A. M., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY026B.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95n">doi:10/b95n</a></blockquote>
 
