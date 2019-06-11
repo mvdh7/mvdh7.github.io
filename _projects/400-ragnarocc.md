@@ -1,8 +1,8 @@
 ---
-name: RAGNARoCC and the EEL
+name: The Extended Ellett Line
 tools: [Anthropogenic CO<sub>2</sub>, North Atlantic]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/eeldic.png
-description: Tracking CO<sub>2</sub> within the North Atlantic, the ocean's most intense anthropogenic carbon sink.
+description: Tracking natural and human-driven changes in CO<sub>2</sub> within the North Atlantic, the ocean's most intense anthropogenic carbon sink.
 external_url: https://doi.org/10.1002/2015GB005246
 ---
 
