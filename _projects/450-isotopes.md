@@ -31,19 +31,19 @@ The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 a
 
 The measurement results have been all published with open access in *Earth System Science Data:*
 
-  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
+> Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="http://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.
 
-  * Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
+> Humphreys, M. P., Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="http://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
 ### Datasets
 
 The datasets themselves are also freely available from the British Oceanographic Data Centre:
 
-  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2017). **Ellett Line measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/cdm8">doi:10/cdm8</a>.
+> Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2017). **Ellett Line measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/cdm8">doi:10/cdm8</a>.
 
-  * Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2014). **UKOA measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/xpj">doi:10/xpj</a>.
+> Humphreys, M. P., Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. (2014). **UKOA measurements of the stable isotope composition of dissolved inorganic carbon in the Northeastern Atlantic and Nordic Seas during summer 2012 (v2).** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/xpj">doi:10/xpj</a>.
 
-  * Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
+> Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
 
 ## Reference material measurements
 
@@ -79,7 +79,7 @@ In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Hump
 
 <p>The datasets from the research cruises above are also included in a δ<sup>13</sup>C<sub>DIC</sub> data synthesis for the North Atlantic Ocean:</p>
 
-<ul><li><p>Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). <strong>An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.</strong> <em>Earth System Science Data</em> 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.</p></li></ul>
+<blockquote><p>Becker, M., Andersen, N., Erlenkeuser, H., Humphreys, M. P., Tanhua, T. and Körtzinger, A. (2016). <strong>An internally consistent dataset of δ<sup>13</sup>C-DIC in the North Atlantic Ocean – NAC13v1.</strong> <em>Earth System Science Data</em> 8, 559–570. <a href="http://doi.org/10.5194/essd-8-559-2016">doi:10.5194/essd-8-559-2016</a>.</p></blockquote>
 
 <p>This study tested the consistency between the datasets described here and similar measurements from other laboratories by comparing results in the deep interior ocean at nearby stations. This is known as a cross-over analysis. It showed that the measurements we conducted at SUERC agreed well with historical observations.</p>
 </div>
