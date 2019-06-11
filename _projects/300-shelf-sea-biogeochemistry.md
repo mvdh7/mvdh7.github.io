@@ -12,6 +12,8 @@ external_url: https://www.uk-ssb.org/
 
 ## Marine carbonate system datasets
 
+All dissolved inorganic carbon and total alkalinity measurements from the UK-SSB research programme are all freely available from the British Oceanographic Data Centre:
+
 <div style="display:flex"><div style="padding-right:0.8%; min-width:50%">
 
 <blockquote>Humphreys, M. P., Chowdhury, M. Z. H., Darroch, L., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY008.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b7k7">doi:10/b7k7</a></blockquote>
