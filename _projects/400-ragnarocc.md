@@ -3,8 +3,10 @@ name: RAGNARoCC and the EEL
 tools: [Anthropogenic CO<sub>2</sub>, North Atlantic]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/eeldic.png
 description: Tracking CO<sub>2</sub> within the North Atlantic, the ocean's most intense anthropogenic carbon sink.
-permalink: /research/ragnarocc/
+external_url: https://doi.org/10.1002/2015GB005246
 ---
+
+permalink: /research/ragnarocc/
 
 # **RAGNARoCC and the EEL**
 
