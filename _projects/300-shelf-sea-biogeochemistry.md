@@ -14,7 +14,7 @@ external_url: https://www.uk-ssb.org/
 
 All dissolved inorganic carbon and total alkalinity measurements from the UK-SSB research programme and its partner institutes are freely available from the British Oceanographic Data Centre:
 
-<div style="display:flex; font-size:85%; flex-wrap:wrap"><div style="padding-right:0.8%; width:33%; min-width:300px">
+<div style="display:flex; font-size:85%; flex-wrap:wrap"><div style="padding-right:0.8%; width:33%; min-width:200px">
 
 <blockquote>Humphreys, M. P., Chowdhury, M. Z. H., Darroch, L., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY008.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b7k7">doi:10/b7k7</a></blockquote>
 
@@ -26,7 +26,7 @@ All dissolved inorganic carbon and total alkalinity measurements from the UK-SSB
 
 <blockquote>Humphreys, M. P., Griffiths, A. M., Smilenova, A., Mayers, K., Poulton, A., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY029.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b8c3">doi:10/b8c3</a></blockquote>
 
-</div><div style="padding-left:0.4%; padding-right:0.4%; width:33%; min-width:300px">
+</div><div style="padding-left:0.4%; padding-right:0.4%; width:33%; min-width:200px">
 
 <blockquote>Humphreys, M. P., Smilenova, A., Sims, R., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY033 (version 2).</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/cdwn">doi:10/cdwn</a></blockquote>
 
@@ -38,7 +38,7 @@ All dissolved inorganic carbon and total alkalinity measurements from the UK-SSB
 
 <blockquote>Humphreys, M. P., Smilenova, A., Ruhl, H. A., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry cruise DY034.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/b95s">doi:10/b95s</a></blockquote>
 
-</div><div style="padding-left:0.8%; width:33%; min-width:300px">
+</div><div style="padding-left:0.8%; width:33%; min-width:200px">
 
 <blockquote>Humphreys, M. P., Chowdhury, M. Z. H., Griffiths, A. M., Smilenova, A., Stewart, B., Hartman, S. E., Kivimäe, K. and Achterberg, E. P. (2017). <strong>Seawater dissolved inorganic carbon and total alkalinity for UK Shelf Sea Biogeochemistry collected by Agri-Food and Biosciences Institute.</strong> <em>British Oceanographic Data Centre, NERC, UK.</em> <a href="https://doi.org/10/cdvk">doi:10/cdvk</a></blockquote>
 
