@@ -6,9 +6,9 @@ description: Carbon and nutrient dynamics and fluxes in the northwest European c
 permalink: /research/ssb/
 ---
 
-external_url: https://www.uk-ssb.org/
-
 # Shelf sea biogeochemistry
+
+For more information on the UK Shelf Sea Biogeochemistry research programme, see [their website](https://www.uk-ssb.org/).
 
 ## Marine carbonate system datasets
 
