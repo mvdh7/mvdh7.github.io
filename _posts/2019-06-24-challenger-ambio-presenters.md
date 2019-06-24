@@ -1,0 +1,45 @@
+---
+title: AMBIO conference author network
+tags: AMBIO
+style: outline
+color: danger
+description: Switching data between Python and MATLAB, and using both together.
+comments: true
+---
+
+The [Challenger Society's](https://www.challenger-society.org.uk/) *Advances in Marine Biogeochemistry IX* conference kicks off here at UEA later today.
+
+Although it's by no means a complete picture of the UK research community (e.g. heavy bias towards England), a quick graph analysis of the lists of authors for the submitted abstracts does reveal a fascinating network of collaborations in studying marine biogeochemistry across the different research institutes.
+
+In this analysis, we say that there's a connection between two authors if their names appear on an abstract together. If person A and person B are co-authors on one abstract, and B is a co-author with C on another, then A and C are also connected via B. It's essentially a game of [six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation).
+
+The headline result:
+
+## 80% of authors are connected in a single group
+
+Four out of every five of the ~200 authors can be directly or indirectly connected to each via co-authorships on the submitted abstracts. The remaining authors appear on independent abstracts that do not overlap with any others.
+
+*Below: the connection graph for the biggest interconnected group. Each point represents a different author, coloured by their home institute, while the lines show the connections (i.e. co-authorships). City names refer to the corresponding university, and NOC includes both centres (Southampton and Liverpool).*
+
+![Graph of AMBIO abstract author institutes](https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/blog/AMBIOinstitutes.png "Graph of AMBIO abstract author institutes.")
+
+There's strong representation from many of the major research institutes that you'd expect to see. It looks like some tend towards more internal collaborations, while others have scientists spread throughout the network, binding different sections of the community together. There are also lots of international connections, highlighting the UK's influence on the global stage.
+
+Looking forward to meeting everyone and hearing about lots of exciting new science!
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://mvdh.xyz/blog/snake-charming-with-matlab';  // Replace PAGE_URL with your page's canonical URL variable
+// this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mvdh7.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
