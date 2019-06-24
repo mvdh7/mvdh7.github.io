@@ -9,7 +9,7 @@ comments: true
 
 The [Challenger Society's](https://www.challenger-society.org.uk/) *Advances in Marine Biogeochemistry IX* conference kicks off here at UEA later today.
 
-Although it's by no means a complete picture of the UK research community (e.g. heavy bias towards England), a quick graph analysis of the lists of authors for the abstracts submitted to this conference does reveal a fascinating network of collaborations in studying marine biogeochemistry across the different research institutes.
+Although it's by no means a complete picture of the UK research community (e.g. biases towards England and ECRs), a quick graph analysis of the lists of authors for the abstracts submitted to this conference does reveal a fascinating network of collaborations in studying marine biogeochemistry across the different research institutes.
 
 In this analysis, we say that there's a connection between two authors if their names appear on an abstract together. If person A and person B are co-authors on one abstract, and B is a co-author with C on another, then A and C are also connected via B. It's essentially a game of [six degrees of separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation).
 
