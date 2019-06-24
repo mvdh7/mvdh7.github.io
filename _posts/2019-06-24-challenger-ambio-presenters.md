@@ -1,9 +1,9 @@
 ---
-title: AMBIO IX conference author network
-tags: Conferences, Challenger Society, AMBIO IX
+title: AMBIO IX conference co-authorship network
+tags: Conferences, "Challenger Society", "AMBIO IX"
 style: outline
 color: danger
-description: Abstact submissions reveal the interconnected nature of marine biogeochemical research in the UK.
+description: Abstract submissions reveal the interconnected nature of marine biogeochemical research in the UK.
 comments: true
 ---
 
@@ -19,11 +19,11 @@ That's four out of every five of the ~200 authors can be directly or indirectly 
 
 ![Graph of AMBIO abstract author institutes](https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/blog/AMBIOinstitutes.png "Graph of AMBIO abstract author institutes.")
 
-*Above: connection graph for the biggest interconnected group. Each point represents a different author, coloured by their home institute, while the lines show the connections (i.e. co-authorships). City names refer to the corresponding university, and NOC includes both centres (Southampton and Liverpool).*
+*Above: connection graph for the biggest interconnected group. Each point represents a different author, coloured by their home institute, while the lines show the connections (i.e. co-authorships). City names refer to the corresponding university only, and NOC includes both centres (Southampton and Liverpool).*
 
 There's strong representation from many of the usual suspects. Interestingly, it looks like some of these tend towards more internal collaborations, while others have scientists spread throughout the network, binding different sections of the community together. There are also lots of international connections, highlighting the global nature of the scientific questions that we investigate.
 
-I'm looking forward to meeting everyone and learning about lots of exciting new science!
+Wherever they come from, I'm looking forward to meeting everyone and learning about lots of exciting new science!
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
