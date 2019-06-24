@@ -23,7 +23,7 @@ That's four out of every five of the ~200 authors can be directly or indirectly 
 
 There's strong representation from many of the usual suspects. Interestingly, it looks like some of these tend towards more internal collaborations, while others have scientists spread throughout the network, binding different sections of the community together. There are also lots of international connections, highlighting the global nature of the scientific questions that we investigate.
 
-Wherever they come from, I'm looking forward to meeting everyone and learning about lots of exciting new science!
+Wherever they come from, I'm looking forward to meeting everyone and learning about lots of exciting new science throughout the next few days.
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
