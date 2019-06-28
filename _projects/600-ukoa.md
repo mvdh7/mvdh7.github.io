@@ -12,13 +12,17 @@ The [UK Ocean Acidification programme (UKOA)](https://www.oceanacidification.org
 
 ## High-latitude carbonate chemistry
 
-One UKOA task was to monitor the
+One goal of UKOA was to monitor the
 
-  * [Tynan et al. (2016)](https://doi.org/10.1016/j.dsr2.2016.01.001).
+<p class="text-center"><img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/tynan-fig13.png" /></p>
+
+<p class="text-center"><i>Above: representation of the processes controlling pH and Ω distributions in ice-influenced parts of the Arctic (Fram Strait) and the Southern (Weddell Sea) Oceans (Tynan et al., 2016).</i></p>
+
+> Tynan, E., Clarke, J. S., Humphreys, M. P., Ribas-Ribas, M., Esposito, M., Rérolle, V. M. C., Schlosser, C., Thorpe, S. E., Tyrrell, T. and Achterberg, E. P. (2016). **Physical and biogeochemical controls on the variability in surface pH and calcium carbonate saturation states in the Atlantic sectors of the Arctic and Southern Oceans.** *Deep-Sea Research Part II* 127, 7–27. <a href="http://doi.org/10.1016/j.dsr2.2016.01.001">doi:10.1016/j.dsr2.2016.01.001</a>.
 
 ## Polar plankton
 
-Publications:
+We also observed the plankton communities and conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded.
 
   * [Richier et al. (2018)](https://doi.org/10.1111/gcb.14324);
   * [Daniels et al. (2016)](https://doi.org/10.3354/meps11820);
@@ -31,5 +35,7 @@ We had a remarkable encounter with a family of polar bears in the sea ice off Gr
 <p class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+
 
 <p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
