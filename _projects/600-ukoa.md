@@ -58,6 +58,6 @@ https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/water
 https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jr271side.jpg
 https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/ice-1.jpg
 {%- endcapture -%}
-{% include elements/carousel.html %}
+{% include carousel.html %}
 
 <p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
