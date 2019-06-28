@@ -28,6 +28,8 @@ Publications:
 
 We had a remarkable encounter with a family of polar bears in the sea ice off Greenland:
 
-{% include elements/video.html id="iYg5wyR3Tj0" %}
+<p class="text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
