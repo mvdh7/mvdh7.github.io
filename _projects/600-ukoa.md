@@ -16,9 +16,9 @@ One goal of UKOA was to monitor the
 
 <p class="text-center"><img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/tynan-fig13.PNG" /></p>
 
-<p class="text-center"><i>Above: representation of the processes controlling pH and Ω distributions in ice-influenced parts of the Arctic (Fram Strait) and the Southern (Weddell Sea) Oceans (Tynan et al., 2016).</i></p>
+<p class="text-center"><i>Above: representation of the processes controlling pH and Ω distributions in ice-influenced parts of the Arctic (Fram Strait) and the Southern (Weddell Sea) Oceans (from [Tynan et al., 2016](https://doi.org/10.1016/j.dsr2.2016.01.001)).</i></p>
 
-> Tynan, E., Clarke, J. S., Humphreys, M. P., Ribas-Ribas, M., Esposito, M., Rérolle, V. M. C., Schlosser, C., Thorpe, S. E., Tyrrell, T. and Achterberg, E. P. (2016). **Physical and biogeochemical controls on the variability in surface pH and calcium carbonate saturation states in the Atlantic sectors of the Arctic and Southern Oceans.** *Deep-Sea Research Part II* 127, 7–27. <a href="http://doi.org/10.1016/j.dsr2.2016.01.001">doi:10.1016/j.dsr2.2016.01.001</a>.
+> Tynan, E., Clarke, J. S., Humphreys, M. P., Ribas-Ribas, M., Esposito, M., Rérolle, V. M. C., Schlosser, C., Thorpe, S. E., Tyrrell, T. and Achterberg, E. P. (2016). **Physical and biogeochemical controls on the variability in surface pH and calcium carbonate saturation states in the Atlantic sectors of the Arctic and Southern Oceans.** *Deep-Sea Research Part II* 127, 7–27. <a href="https://doi.org/10.1016/j.dsr2.2016.01.001">doi:10.1016/j.dsr2.2016.01.001</a>.
 
 ## Polar plankton
 
