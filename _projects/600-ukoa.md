@@ -26,7 +26,7 @@ We found that proximity to retreating sea ice had different consequences in the 
 
 The UKOA cruises also observed the plankton communities and we conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded.
 
-<div style="display:flex; font-size:100%; flex-wrap:wrap">
+<div style="display:flex; font-size:85%; flex-wrap:wrap">
 
 <div style="padding-right:0.8%; width:33%; min-width:200px"><blockquote>
 Poulton, A. J., Daniels, C. J., Esposito, M., Humphreys, M. P., Mitchell, E., Ribas-Ribas, M., Russell, B. C., Stinchcombe, M. C., Tynan, E. and Richier, S. (2016) <strong>Production of dissolved organic carbon by Arctic plankton communities: Responses to elevated carbon dioxide and the availability of light and nutrients.</strong> <em>Deep-Sea Research Part II</em> 127, 60–74. <a href="https://doi.org/10.1016/j.dsr2.2016.01.002">doi:10.1016/j.dsr2.2016.01.002</a>.
@@ -41,10 +41,6 @@ Richier, S., Achterberg, E. P., Humphreys, M. P., Poulton, A. J., Suggett, D. J.
 </blockquote></div>
 
 </div>
-
-  * [Richier et al. (2018)](https://doi.org/10.1111/gcb.14324);
-  * [Daniels et al. (2016)](https://doi.org/10.3354/meps11820);
-  * [Poulton et al. (2016)](https://doi.org/10.1016/j.dsr2.2016.01.002).
 
 ## Charismatic megafauna
 
