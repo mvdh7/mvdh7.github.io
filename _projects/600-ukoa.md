@@ -14,7 +14,7 @@ The [UK Ocean Acidification programme (UKOA)](https://www.oceanacidification.org
 
 One goal of UKOA was to monitor the
 
-<p class="text-center"><img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/tynan-fig13.png" /></p>
+<p class="text-center"><img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/tynan-fig13.PNG" /></p>
 
 <p class="text-center"><i>Above: representation of the processes controlling pH and Ω distributions in ice-influenced parts of the Arctic (Fram Strait) and the Southern (Weddell Sea) Oceans (Tynan et al., 2016).</i></p>
 
