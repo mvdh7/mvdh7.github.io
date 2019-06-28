@@ -42,22 +42,12 @@ Richier, S., Achterberg, E. P., Humphreys, M. P., Poulton, A. J., Suggett, D. J.
 
 </div>
 
-## Charismatic megafauna and seascapes
+## Charismatic megafauna
 
-We had a remarkable encounter with a family of polar bears in the sea ice off Greenland:
+The polar oceans are a joy to sail through and we often came across whales, penguins in the south and polar bears in the north. In particular, we had a remarkable encounter with a family of polar bears in the sea ice off Greenland:
 
 <p class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-{%- capture carousel_images -%}
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jan-mayen.jpg
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/polar-bear-1.jpg
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/polar-bear-2.jpg
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/water-bears.jpg
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jr271side.jpg
-https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/ice-1.jpg
-{%- endcapture -%}
-{% include carousel.html %}
 
 <p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
