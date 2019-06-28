@@ -24,7 +24,7 @@ We found that proximity to retreating sea ice had different consequences in the 
 
 ## Polar plankton
 
-The UKOA cruises also observed the plankton communities and we conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded.
+The UKOA cruises also observed the plankton communities and we conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded. Some related publications:
 
 <div style="display:flex; font-size:90%; flex-wrap:wrap">
 
@@ -44,7 +44,7 @@ Richier, S., Achterberg, E. P., Humphreys, M. P., Poulton, A. J., Suggett, D. J.
 
 ## Charismatic megafauna
 
-The polar oceans are a joy to sail through and we often came across whales, penguins in the south and polar bears in the north. In particular, we had a remarkable encounter with a family of polar bears in the sea ice off Greenland:
+The polar oceans are a joy to sail through and we often came across whales, penguins in the south and polar bears in the north. In particular, we had this remarkable encounter with a family of polar bears in the sea ice off Greenland:
 
 <p class="text-center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
