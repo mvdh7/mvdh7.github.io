@@ -8,7 +8,7 @@ permalink: /research/ssb/
 
 # Shelf sea biogeochemistry
 
-For more information on the UK Shelf Sea Biogeochemistry research programme, see [their website](https://www.uk-ssb.org/).
+For more information on the UK Shelf Sea Biogeochemistry research programme, see [its website](https://www.uk-ssb.org/).
 
 ## Marine carbonate system datasets
 
