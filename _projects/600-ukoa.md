@@ -26,7 +26,7 @@ We found that proximity to retreating sea ice had different consequences in the 
 
 The UKOA cruises also observed the plankton communities and we conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded.
 
-<div style="display:flex; font-size:85%; flex-wrap:wrap">
+<div style="display:flex; font-size:90%; flex-wrap:wrap">
 
 <div style="padding-right:0.8%; width:33%; min-width:200px"><blockquote>
 Poulton, A. J., Daniels, C. J., Esposito, M., Humphreys, M. P., Mitchell, E., Ribas-Ribas, M., Russell, B. C., Stinchcombe, M. C., Tynan, E. and Richier, S. (2016) <strong>Production of dissolved organic carbon by Arctic plankton communities: Responses to elevated carbon dioxide and the availability of light and nutrients.</strong> <em>Deep-Sea Research Part II</em> 127, 60–74. <a href="https://doi.org/10.1016/j.dsr2.2016.01.002">doi:10.1016/j.dsr2.2016.01.002</a>.
@@ -42,7 +42,7 @@ Richier, S., Achterberg, E. P., Humphreys, M. P., Poulton, A. J., Suggett, D. J.
 
 </div>
 
-## Charismatic megafauna
+## Charismatic megafauna and seascapes
 
 We had a remarkable encounter with a family of polar bears in the sea ice off Greenland:
 
@@ -50,6 +50,14 @@ We had a remarkable encounter with a family of polar bears in the sea ice off Gr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
+{%- capture carousel_images -%}
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jan-mayen.jpg
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/polar-bear-1.jpg
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/polar-bear-2.jpg
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/water-bears.jpg
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/jr271side.jpg
+https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/ukoa/ice-1.jpg
+{%- endcapture -%}
+{% include elements/carousel.html %}
 
 <p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
