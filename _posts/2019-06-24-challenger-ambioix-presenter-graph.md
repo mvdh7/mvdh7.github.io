@@ -29,7 +29,7 @@ Wherever they come from, I'm looking forward to meeting everyone and learning ab
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = 'https://mvdh.xyz/blog/snake-charming-with-matlab';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.url = 'https://mvdh.xyz/blog/challenger-ambioix-presenter-graph';  // Replace PAGE_URL with your page's canonical URL variable
 // this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 (function() { // DON'T EDIT BELOW THIS LINE
