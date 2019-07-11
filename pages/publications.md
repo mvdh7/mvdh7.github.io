@@ -13,11 +13,11 @@ weight: 4
 
   * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
 
-  * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2018). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2018-376](https://doi.org/10.5194/bg-2018-376).
-
 ## 2019
 
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
+
+  * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2019). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences* 16, 2661-2681. [doi:10.5194/bg-16-2661-2019](https://doi.org/10.5194/bg-16-2661-2019).
 
   * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences* 9(5), 230. [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
 
