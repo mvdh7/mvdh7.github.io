@@ -29,7 +29,7 @@ The UKOA cruises also observed the plankton communities and we conducted "bioass
 <div style="display:flex; font-size:90%; flex-wrap:wrap">
 
 <div style="padding-right:0.8%; width:33%; min-width:200px"><blockquote>
-Poulton, A. J., Daniels, C. J., Esposito, M., Humphreys, M. P., Mitchell, E., Ribas-Ribas, M., Russell, B. C., Stinchcombe, M. C., Tynan, E. and Richier, S. (2016) <strong>Production of dissolved organic carbon by Arctic plankton communities: Responses to elevated carbon dioxide and the availability of light and nutrients.</strong> <em>Deep-Sea Research Part II</em> 127, 60–74. <a href="https://doi.org/10.1016/j.dsr2.2016.01.002">doi:10.1016/j.dsr2.2016.01.002</a>.
+Poulton, A. J., Daniels, C. J., Esposito, M., Humphreys, M. P., Mitchell, E., Ribas-Ribas, M., Russell, B. C., Stinchcombe, M. C., Tynan, E. and Richier, S. (2016). <strong>Production of dissolved organic carbon by Arctic plankton communities: Responses to elevated carbon dioxide and the availability of light and nutrients.</strong> <em>Deep-Sea Research Part II</em> 127, 60–74. <a href="https://doi.org/10.1016/j.dsr2.2016.01.002">doi:10.1016/j.dsr2.2016.01.002</a>.
 </blockquote></div>
 
 <div style="padding-right:0.4%; padding-left:0.4%; width:33%; min-width:200px"><blockquote>
