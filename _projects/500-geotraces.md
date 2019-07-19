@@ -84,7 +84,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 <br />
 </div>
 
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/alkalinity_3d.JPG" alt="Total alkalinity measurements from GA08." width="512" height="322" style="min-width:512px" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/alkalinity_3d.png" alt="Total alkalinity measurements from GA08." width="512" height="322" style="min-width:512px" />
 
 </div>
 
