@@ -64,7 +64,7 @@ A couple of studies using data from this cruise are now published, and more are 
 <div style="display:flex; font-size:90%; flex-wrap:wrap">
 
 <div style="padding-right:0.8%; width:50%; min-width:200px"><blockquote>
-Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). <strong>Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.</strong> <em>Biogeosciences Discussions</em> in review. <a href="https://doi.org/10.5194/bg-2019-162">doi:10.5194/bg-2019-162</a>.
+Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). <strong>Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.</strong> <em>Biogeosciences Discussions</em>, in review. <a href="https://doi.org/10.5194/bg-2019-162">doi:10.5194/bg-2019-162</a>.
 </blockquote></div>
 
 <div style="padding-left:0.8%; width:50%; min-width:200px"><blockquote>
