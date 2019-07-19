@@ -78,7 +78,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/alkalinity_3d.png" alt="Total alkalinity measurements from GA08." width="512" height="322" style="min-width:512px" />
 
 <div>
-<div style='text-align:right'><h2>Benguela upwelling</h2></a>
+<div style='text-align:right'><h2>Benguela upwelling</h2></div>
 
 <p class="text-right">A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V <i>Meteor</i> on a 2016 German occupation of GEOTRACES 'transect' GA08, in the Benguela upwelling region off the southwest coast of Africa. These results will appear in the next GEOTRACES Intermediate Data Product.</p>
 
