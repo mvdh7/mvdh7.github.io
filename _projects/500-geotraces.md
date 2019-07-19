@@ -59,7 +59,7 @@ In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay o
 
 <p class="text-center"><i>Above: a few pictures from the South Atlantic expedition.</i></p>
 
-A couple of studies related to this cruise are now published, and more are on their way:
+A couple of studies using data from this cruise are now published, and more are on their way:
 
 <div style="display:flex; font-size:90%; flex-wrap:wrap">
 
