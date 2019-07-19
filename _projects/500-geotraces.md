@@ -52,7 +52,7 @@ A few pictures from the expedition:
   </a>
 </div>
 
-## Upwelling in the Benguela
+## Upwelling off Benguela, southwest Africa
 
 A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa. These results will be included in the next GEOTRACES Intermediate Data Product.
 
