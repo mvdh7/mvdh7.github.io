@@ -75,7 +75,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 
 <div>
 <h2>Upwelling off Benguela</h2>
-<p>A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of GEOTRACES 'transect' GA08, in the Benguela upwelling region off the southeast coast of Africa. These results will appear in the next GEOTRACES Intermediate Data Product.</p>
+<p>A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of GEOTRACES 'transect' GA08, in the Benguela upwelling region off the southwest coast of Africa. These results will appear in the next GEOTRACES Intermediate Data Product.</p>
 
 <p><i>Right: our measurements revealed stark contrasts in total alkalinity with depth throughout the Benguela region.</i></p>
 
