@@ -1,7 +1,7 @@
 ---
 title: Speedy variable switching
 tags: [MATLAB, Dataviz, Workflow]
-style: outline
+style: fill
 color: warning
 description:
 comments: true
