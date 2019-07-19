@@ -94,7 +94,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 Following my [move to NIOZ](../../blog/moving-to-nioz), I'll also oversee analysis of the carbonate chemistry dataset from a series of forthcoming German GEOTRACES cruises in the Indian and Pacific Oceans. The first cruise, on R/V *Sonne* in July-August 2020, will cross the Indian Ocean at about the latitude of Madagascar, providing a rare opportunity to assess the marine carbonate system in a region that has become something of a blind spot in global monitoring in recent decades.
 
 <p class="text-center">
-<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/sonne_indian.png" alt="Planned route for the 2020 Indian Ocean expedition" width="521" height="154" style="min-width:521px" />
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/sonne_indian.png" alt="Planned route for the 2020 Indian Ocean expedition" width="586" height="173" style="min-width:586px" />
 </p>
 
 <p class="text-center"><i>Above: planned route for the 2020 Indian Ocean expedition.</i></p>
