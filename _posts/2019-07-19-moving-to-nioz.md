@@ -7,7 +7,7 @@ description: Towards the end of 2019 I will emigrate to the Netherlands to take 
 comments: true
 ---
 
-**I am humbled and delighted to announce that I will be emigrating to the Netherlands later this year to take up a tenure-track research position at the Royal Netherlands Institute for Sea Research ([NIOZ](https://www.nioz.nl/)) on Texel.**
+**I am humbled and delighted to announce that I will be emigrating to the Netherlands later this year to take up a tenure-track research position at [NIOZ](https://www.nioz.nl/) (the Royal Netherlands Institute for Sea Research) on the island of Texel.**
 
 At NIOZ, I will continue my research into the changing marine carbonate system, examining how the ocean takes up CO<sub>2</sub> from the atmosphere and the biogeochemical consequences of this uptake. The work will first and foremost be based on collecting new observations, using and developing the excellent analytical facilities in the laboratory there. I will begin advertising an ocean-going PhD student position within the next few months.
 
