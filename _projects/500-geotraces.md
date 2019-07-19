@@ -38,7 +38,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
     <div class="carousel-item active">
       <img class="d-block w-100" src="/images/geotraces/ga10table.jpg" alt="View of Table Mountain as RRS James Cook leaves Cape Town">
       <div class="carousel-caption d-none d-md-block text-warning">
-        <h6><b>View of Table Mountain as RRS <i>James Cook</i> prepares to leave Cape Town</b></h6>
+        <h6><b>View of Table Mountain as RRS <i>James Cook</i> departs from Cape Town</b></h6>
       </div>
     </div>
     <div class="carousel-item">
@@ -48,9 +48,15 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
       </div>
     </div>
     <div class="carousel-item">
+      <img class="d-block w-100" src="/images/geotraces/Gough_island_arrival.jpg" alt="Arrival at Gough Island in the mid-Atlantic">
+      <div class="carousel-caption d-none d-md-block">
+        <h6><b>Arrival at Gough Island in the mid-Atlantic</b></h6>
+      </div>
+    </div>
+    <div class="carousel-item">
       <img class="d-block w-100" src="/images/geotraces/ga10gough.jpg" alt="Wandering albatross soar beside Gough Island">
       <div class="carousel-caption d-none d-md-block">
-        <h6><b>Wandering albatross soar beside Gough Island in the mid-Atlantic</b></h6>
+        <h6><b>Wandering albatrosses soar beside Gough Island</b></h6>
       </div>
     </div>
   </div>
