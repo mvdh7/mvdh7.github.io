@@ -14,18 +14,6 @@ The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an inte
 
 In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton (Tuerena et al., in review). They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (manuscript in preparation). The measurements are included in the 2017 GEOTRACES Intermediate Data Product (Schlitzer et al., 2018).
 
-<div style="display:flex; font-size:90%; flex-wrap:wrap">
-
-<div style="padding-right:0.8%; width:50%; min-width:200px"><blockquote>
-Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). <strong>Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.</strong> <em>Biogeosciences Discussions</em> in review. <a href="https://doi.org/10.5194/bg-2019-162">doi:10.5194/bg-2019-162</a>.
-</blockquote></div>
-
-<div style="padding-left:0.8%; width:50%; min-width:200px"><blockquote>
-Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Data Product 2017.</strong> <em>Chemical Geology</em> 493, 210-223. <a href="https://doi.org/10.1016/j.chemgeo.2018.05.040">doi:10.1016/j.chemgeo.2018.05.040</a>.
-</blockquote></div>
-
-</div>
-
 <p class="text-center"><i>Below: a few pictures from the South Atlantic expedition.</i></p>
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -69,6 +57,20 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
+</div>
+
+A couple of studies related to this cruise are now published, and more are on their way:
+
+<div style="display:flex; font-size:90%; flex-wrap:wrap">
+
+<div style="padding-right:0.8%; width:50%; min-width:200px"><blockquote>
+Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). <strong>Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.</strong> <em>Biogeosciences Discussions</em> in review. <a href="https://doi.org/10.5194/bg-2019-162">doi:10.5194/bg-2019-162</a>.
+</blockquote></div>
+
+<div style="padding-left:0.8%; width:50%; min-width:200px"><blockquote>
+Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Data Product 2017.</strong> <em>Chemical Geology</em> 493, 210-223. <a href="https://doi.org/10.1016/j.chemgeo.2018.05.040">doi:10.1016/j.chemgeo.2018.05.040</a>.
+</blockquote></div>
+
 </div>
 
 <div style="display:flex; align-items:center">
