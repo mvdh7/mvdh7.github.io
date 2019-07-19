@@ -14,7 +14,7 @@ The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an inte
 
 In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton (Tuerena et al., in review). They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (in prep.). The measurements are included in the 2017 GEOTRACES Intermediate Data Product (Schlitzer et al., 2018).
 
-A few pictures from the expedition:
+<p class="text-center"><i>Below: a few pictures from the expedition.</i></p>
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
