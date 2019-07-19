@@ -52,3 +52,4 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - _posts/inprep/*
+- _projects/snippets.md

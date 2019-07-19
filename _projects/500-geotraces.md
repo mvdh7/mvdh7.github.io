@@ -6,11 +6,15 @@ description: An international programme of research cruises aiming to improve ou
 permalink: /research/geotraces/
 ---
 
-# **GEOTRACES**
+# GEOTRACES
 
-## South Atlantic carbonate chemistry
+The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an international study of the marine biogeochemical cycles of trace elements and their isotopes." Although the main focus is on trace elements, the marine carbonate system is recognised as a critical component of seawater - for example, enabling calculation of the pH, which is critical to many trace element equilibria - and as such is measured on every GEOTRACES cruise. This project therefore provides a great opportunity to get out to see and collect new carbonate chemistry datasets, and helps to discover new relationships between different marine biogeochemical cycles thanks to the vast spectrum of variables that are measured.
 
-I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook* for a UK occupation of the GA10 transect at 40°S, collecting and analysing seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. A few pictures from the expedition:
+## The Atlantic at 40°S
+
+In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton (Tuerena et al., in review), and have revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (in prep.). The measurements are also included in the 2017 GEOTRACES Intermediate Data Product (Schlitzer et al., 2018)).
+
+A few pictures from the expedition:
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -48,7 +52,13 @@ I have produced the carbonate chemistry datasets for two GEOTRACES cruises. In 2
   </a>
 </div>
 
-My Masters student, Charlotte Miskin-Hymas, later measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa.
+## The Benguela upwelling zone
+
+A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa. These results will be included in the next GEOTRACES Intermediate Data Product.
+
+## Upcoming Indian and Pacific Ocean cruises
+
+Following my [move to NIOZ](../../blog/moving-to-nioz), I'll also oversee analysis of the carbonate chemistry dataset from a series of forthcoming German GEOTRACES cruises in the Indian and Pacific Oceans. The first cruise, in July-August 2020, will cross the Indian Ocean at about the latitude of Madagascar, providing a rare opportunity to assess the marine carbonate system in a region that has become something of a blind spot in global monitoring in recent decades.
 
 <p class="text-center">
 {% include button.html link="/research" text="Back to research" %}
