@@ -33,6 +33,7 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -70,9 +71,20 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
   </a>
 </div>
 
-## Upwelling off Benguela, southwest Africa
+<div style="display:flex; align-items:center">
 
-A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of transect GA08, in the Benguela upwelling region off the southeast coast of Africa. These results will be included in the next GEOTRACES Intermediate Data Product.
+<div>
+<h2>Upwelling off Benguela</h2>
+<p>A few years later, University of Southampton Masters student Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V *Meteor* on a 2016 German occupation of GEOTRACES 'transect' GA08, in the Benguela upwelling region off the southeast coast of Africa. These results will appear in the next GEOTRACES Intermediate Data Product.</p>
+
+<p><i>Right: our measurements revealed stark contrasts in total alkalinity with depth throughout the Benguela region.</i></p>
+
+<br />
+</div>
+
+<img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/alkalinity_3d.JPG" alt="Total alkalinity measurements from GA08." width="512" height="322" style="min-width:512px" />
+
+</div>
 
 ## Upcoming Indian and Pacific Ocean cruises
 
