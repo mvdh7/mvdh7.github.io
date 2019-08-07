@@ -33,7 +33,7 @@ From 2011 to 2016 I supervised a series of Masters research projects in Ocean an
 
   * **Florence Greatrix**: *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014*.
 
-  * **Jan-Lukas Menzel Barraqueta** (now PhD candidate at GEOMAR Kiel): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*.
+  * **Dr Jan-Lukas Menzel Barraqueta** (now postdoc at Stellenbosch University): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*.
 
   * **Alex Griffiths** (now PhD candidate at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses*.
 
