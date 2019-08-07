@@ -9,7 +9,7 @@ weight: 4.5
 
 ## Vacant positions
 
-  * Coming soon! PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*.
+  * **Coming soon!** PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*.
 
 ## Current students
 
