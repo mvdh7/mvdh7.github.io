@@ -9,7 +9,7 @@ weight: 4.5
 
 ## Vacant positions
 
-  * Coming soon, PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*.
+  * Coming soon! PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*.
 
 ## Current students
 
@@ -29,9 +29,9 @@ From 2011 to 2016 I supervised a series of Masters research projects in Ocean an
 
   * **Yang Yifei**: *Multi-decadal changes in interior carbonate chemistry in the South Atlantic*.
 
-  * **Charlotte Miskin-Hymas** (now marine data manager at the British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic*.
+  * **Charlotte Miskin-Hymas** (now marine data manager at the British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic*. See [GEOTRACES](../research/geotraces/).
 
-  * **Florence Greatrix**: *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014*.
+  * **Florence Greatrix**: *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014*. See [DIC stable isotopes](../research/isotopes/).
 
   * **Dr Jan-Lukas Menzel Barraqueta** (now postdoc at Stellenbosch University): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*.
 
