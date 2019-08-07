@@ -16,7 +16,7 @@ permalink: /research/calkulate/
 
 Calkulate implements several different methods to determine alkalinity from titration data, including least-squares fitting and Gran plots. Calkulate can also determine the acid titrant molarity given measurements of reference materials with known alkalinity. All equilibrium constants and the solution composition can be varied independently, and every step in the determination process can be plotted and analysed separately.
 
-v2.0 is in beta. The original v1.0 was written for MATLAB and only implements a half-Gran-plot method, but it is still [available on GitHub](https://github.com/mvdh7/calkulate/tree/1.0.2). A paper is in preparation describing v2.0, but for now the best citation to use is:
+The [Python-based v2.1](https://github.com/mvdh7/calkulate) is ready for use. The original v1.0 was written for MATLAB and only implements a half-Gran-plot method, but it is still [available on GitHub](https://github.com/mvdh7/calkulate/tree/1.0.2). A paper is in preparation describing v2.1, but for now the best citation to use is:
 
 > Humphreys, M. P. (2015): **Calculating seawater total alkalinity from open-cell titration data using a modified Gran plot technique**, in *Measurements and Concepts in Marine Carbonate Chemistry*, pp. 25-44, PhD thesis, Ocean and Earth Science, University of Southampton, UK.
 
