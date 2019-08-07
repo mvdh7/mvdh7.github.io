@@ -15,9 +15,9 @@ weight: 4.5
 
 I currently co-supervise two PhD candidates in the Department of Environmental Sciences at the University of East Anglia:
 
-  * **Ruth Matthews**: measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton).
+  * **Ruth Matthews** is measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton).
 
-  * **Luca Possenti**: deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea. *Supervisory team:* Prof Jan Kaiser (lead, UEA), Dr Liam Fernand (Cefas), Dr Socratis Loucaides and Dr Matt Mowlem (NOC Southampton).
+  * **Luca Possenti** is deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea. *Supervisory team:* Prof Jan Kaiser (lead, UEA), Dr Liam Fernand (Cefas), Dr Socratis Loucaides and Dr Matt Mowlem (NOC Southampton).
 
 ## Former students
 
@@ -39,4 +39,4 @@ From 2011 to 2016 I supervised a series of Masters research projects in Ocean an
 
   * **Harriet Compton**: *Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean*.
 
-  * **Rebecca Conway**: *Latitudinal gradients in surface ocean CO2 chemistry across the subtropical North Atlantic Ocean*.
+  * **Rebecca Conway**: *Latitudinal gradients in surface ocean CO<sub>2</sub> chemistry across the subtropical North Atlantic Ocean*.
