@@ -9,38 +9,34 @@ weight: 4.5
 
 ## Vacant positions
 
-  * Coming soon, PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*
+  * Coming soon, PhD studentship at NIOZ Texel: *Anthropogenic carbon dioxide uptake and accumulation in the Indian and South Pacific Oceans: a blind spot in recent global monitoring*.
 
 ## Current students
 
-PhD candidates in the Department of Environmental Sciences at the University of East Anglia:
+I currently co-supervise two PhD candidates in the Department of Environmental Sciences at the University of East Anglia:
 
-  * **Ruth Matthews**: measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme.
+  * **Ruth Matthews**: measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton).
 
-  *Other supervisors:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton).
-
-  * **Luca Possenti**: deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea.
-
-  *Other supervisors:* Prof Jan Kaiser (lead, UEA), Dr Liam Fernand (Cefas), Dr Socratis Loucaides and Dr Matt Mowlem (NOC Southampton).
+  * **Luca Possenti**: deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea. *Supervisory team:* Prof Jan Kaiser (lead, UEA), Dr Liam Fernand (Cefas), Dr Socratis Loucaides and Dr Matt Mowlem (NOC Southampton).
 
 ## Former students
 
-Masters research projects in Ocean and Earth Science at the University of Southampton:
+From 2011 to 2016 I supervised a series of Masters research projects in Ocean and Earth Science at the University of Southampton. Former students who are (to my knowledge!) still involved in scientific research are noted. Some project titles are approximate:
 
-  * **Qiu Shuang**: *Controls on the equatorial Pacific as a source of CO<sub>2</sub> to the atmosphere using data from the Surface Ocean CO<sub>2</sub> Atlas (SOCAT)*
+  * **Qiu Shuang**: *Controls on the equatorial Pacific as a source of CO<sub>2</sub> to the atmosphere using data from the Surface Ocean CO<sub>2</sub> Atlas (SOCAT)*.
 
-  * **Li Xue**: *The northwest European continental shelf in the Surface Ocean CO<sub>2</sub> Atlas (SOCAT)*
+  * **Li Xue**: *The northwest European continental shelf in the Surface Ocean CO<sub>2</sub> Atlas (SOCAT)*.
 
-  * **Yang Yifei**: *Multi-decadal changes in interior carbonate chemistry in the South Atlantic*
+  * **Yang Yifei**: *Multi-decadal changes in interior carbonate chemistry in the South Atlantic*.
 
-  * **Charlotte Miskin-Hymas** (now data manager, British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic*
+  * **Charlotte Miskin-Hymas** (now marine data manager at the British Oceanographic Data Centre): *Variability of marine carbonate chemistry in the Benguela upwelling region, South Atlantic*.
 
-  * **Florence Greatrix**: *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014*
+  * **Florence Greatrix**: *The stable isotope composition of dissolved inorganic carbon and anthropogenic CO<sub>2</sub> uptake in the subpolar North Atlantic during summer 2014*.
 
-  * **Jan-Lukas Menzel Barraqueta** (now PhD candidate, GEOMAR Kiel): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*
+  * **Jan-Lukas Menzel Barraqueta** (now PhD candidate at GEOMAR Kiel): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*.
 
-  * **Alex Griffiths** (now PhD candidate, Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses*
+  * **Alex Griffiths** (now PhD candidate at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses*.
 
-  * **Harriet Compton**: *Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean*
+  * **Harriet Compton**: *Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean*.
 
-  * **Rebecca Conway**: *Latitudinal gradients in surface ocean CO2 chemistry across the subtropical North Atlantic Ocean*
+  * **Rebecca Conway**: *Latitudinal gradients in surface ocean CO2 chemistry across the subtropical North Atlantic Ocean*.
