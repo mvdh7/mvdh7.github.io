@@ -6,30 +6,26 @@ baseurl: "/"  # the subpath of your site, e.g. /blog
 url: "https://mvdh.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mvdh7/mvdh7.github.io
 
-
 # Build settings
 markdown: kramdown
 # plugins:
 # - jekyll-feed
 
-
 # Author Info
 author:
-  name     : Matthew P. Humphreys
-  image    : https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/fallowfields.jpg
-  email    : m.humphs@gmail.com
-  github   : mvdh7
-  twitter  : matthew_vdh
-  linkedin : matthew-p-humphreys-4745833a
+  name: Matthew P. Humphreys
+  image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/fallowfields.jpg
+  email: m.p.humphreys@icloud.com
+  github: mvdh7
+  twitter: matthew_vdh
+  linkedin: matthew-p-humphreys-4745833a
 #  facebook : username
-
 
 # Collections
 collections:
   projects:
     output: true
     permalink: /research/:name
-
 
 # Default values for collections
 defaults:
@@ -39,10 +35,8 @@ defaults:
     values:
       layout: "page"
 
-
 # Posts default Permalink
 permalink: blog/:title
-
 
 # Exclude from processing.
 exclude:
