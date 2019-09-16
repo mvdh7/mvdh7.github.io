@@ -11,7 +11,7 @@ weight: 4
 
   * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
-  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
+  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in press. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
 
 ## 2019
 
