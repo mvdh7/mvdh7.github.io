@@ -4,7 +4,7 @@
       <div class="pubs">
         <p>{{ pubs.year }}</p>
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
-          <span>{{ pubs.percentage }}</span>
+          <span>{{ pubs.number }}</span>
         </div>
       </div>
     {% endfor %}

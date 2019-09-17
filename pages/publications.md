@@ -8,7 +8,7 @@ weight: 4
 # **Publications**
 
 <div class="row">
-{% include pubs.html title="Total" source=site.data.pubs-per-year %}
+{% include pubs.html title="Summary per year" source=site.data.pubs-per-year %}
 </div>
 
 ## Preprints in review

@@ -38,20 +38,12 @@
     }
 }
 
-.pubs-bar.pubs-bar-secondary { background: $secondary; }
-.pubs-bar.pubs-bar-success { background: $success; }
-.pubs-bar.pubs-bar-info { background: $info; }
-.pubs-bar.pubs-bar-warning { background: $warning; }
-.pubs-bar.pubs-bar-danger { background: $danger; }
-.pubs-bar.pubs-bar-light { background: $light; }
-.pubs-bar.pubs-bar-dark { background: $dark; }
-
 .pubs-bar.pubs-bar-2019 { background: #FDE725; }
 .pubs-bar.pubs-bar-2018 { background: #7AD151; }
 .pubs-bar.pubs-bar-2017 { background: #22A884; }
 .pubs-bar.pubs-bar-2016 { background: #2A788E; }
 .pubs-bar.pubs-bar-2015 { background: #414487; }
 
-@for $i from 0 through 10 {
-    .pubs-#{$i} { width: percentage(($i+1)/11); }
+@for $i from 0 through 9 {
+    .pubs-#{$i} { width: percentage(($i+1)/10); }
 }
