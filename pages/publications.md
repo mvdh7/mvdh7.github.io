@@ -9,7 +9,6 @@ weight: 4
 
 <div class="row">
 {% include pubs.html title="Total" source=site.data.pubs-per-year %}
-{% include pubs.html title="As lead author" source=site.data.pubs-authorship %}
 </div>
 
 ## Preprints in review
