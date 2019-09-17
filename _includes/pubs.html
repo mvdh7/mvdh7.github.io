@@ -1,13 +1,11 @@
 <div class="col-lg">
   <!--<h2 class="mb-3">{{ include.title }}</h2>-->
     {% for pubs in include.source %}
-      <div class="pubs1">
+      <div class="pubs">
         <p>{{ pubs.year }}</p>
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ pubs.number }} total</span>
         </div>
-      </div>
-      <div class="pubs2">
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.lead }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ pubs.lead }} as a lead author</span>
         </div>
