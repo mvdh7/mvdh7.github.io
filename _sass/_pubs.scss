@@ -11,7 +11,7 @@
 
     &:before{
         width: 100%;
-        height: 10px;
+        height: 8px;
         content: "";
         display: block;
         position: absolute;
@@ -22,7 +22,7 @@
 
 .pubs-bar {
     width: 100%;
-    height: 5px;
+    height: 8px;
     background: $primary;
     display: block;
     position: relative;
@@ -51,5 +51,5 @@
 .pubs-bar.pubs-bar-2015 { background: #414487; }
 
 @for $i from 0 through 9 {
-    .pubs-#{$i} { width: percentage(($i+1)/10); }
+    .pubs-#{$i} { width: percentage(($i+0.5)/9.5); }
 }
