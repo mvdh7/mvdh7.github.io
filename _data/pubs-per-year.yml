@@ -1,19 +1,14 @@
-- name: 2019
-  percentage: 4
-  color: 2019
+- year: 2019
+  number: 4
 
-- name: 2018
-  percentage: 6
-  color:
+- year: 2018
+  number: 6
 
-- name: 2017
-  percentage: 3
-  color: dark
+- year: 2017
+  number: 3
 
-- name: 2016
-  percentage: 8
-  color: dark
+- year: 2016
+  number: 8
 
-- name: 2015
-  percentage: 1
-  color: dark
+- year: 2015
+  number: 1
