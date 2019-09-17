@@ -5,7 +5,7 @@ permalink: /team/
 weight: 4.5
 ---
 
-# Research team
+# **Research team**
 
 ## Vacant positions
 

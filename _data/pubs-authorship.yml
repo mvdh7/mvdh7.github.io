@@ -1,21 +1,21 @@
 - name: In review
-  percentage: 2
+  percentage: 0
   color:
 
 - name: 2019
-  percentage: 4
+  percentage: 2
   color: 2019
 
 - name: 2018
-  percentage: 6
+  percentage: 2
   color:
 
 - name: 2017
-  percentage: 3
+  percentage: 2
   color: dark
 
 - name: 2016
-  percentage: 8
+  percentage: 2
   color: dark
 
 - name: 2015
