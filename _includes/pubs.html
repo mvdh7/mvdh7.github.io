@@ -2,7 +2,7 @@
   <!--<h2 class="mb-3">{{ include.title }}</h2>-->
     {% for pubs in include.source %}
       <div class="pubs">
-        <!--<p>{{ pubs.year }}</p>-->
+        <p>{{ pubs.year }}</p>
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ pubs.number }}</span>
         </div>
