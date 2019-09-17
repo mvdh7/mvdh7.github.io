@@ -1,0 +1,11 @@
+- name: 2019
+  percentage: 50
+  color: danger
+
+- name: 2018
+  percentage: 40
+  color:
+
+- name: 2017
+  percentage: 20
+  color: dark
