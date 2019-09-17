@@ -6,7 +6,6 @@
     > p {
         margin: 0;
         font-size: 18px;
-        font-weight: bold;
     }
 
     &:before{
@@ -36,6 +35,7 @@
         padding: 3px 0;
         font-weight: 500;
         right: 0;
+        vertical-align: text-top;
     }
 }
 
