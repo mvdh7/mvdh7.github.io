@@ -3,7 +3,7 @@
     {% for pubs in include.source %}
       <div class="pubs">
         <p>{{ pubs.name }}</p>
-        <div class="pubs-bar pubs-bar-{{ pubs.color }} skill-{{ pubs.percentage }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
+        <div class="pubs-bar pubs-bar-{{ pubs.color }} pubs-{{ pubs.percentage }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ pubs.percentage }}</span>
         </div>
       </div>

@@ -48,6 +48,6 @@
 
 .pubs-bar.pubs-bar-2019 { background: #f90; }
 
-@for $i from 0 through 100 {
-    .pubs-#{$i} { width: percentage($i/100); }
+@for $i from 0 through 10 {
+    .pubs-#{$i} { width: percentage($i/10); }
 }
