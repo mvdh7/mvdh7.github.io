@@ -2,11 +2,9 @@
   <!--<h2 class="mb-3">{{ include.title }}</h2>-->
     {% for pubs in include.source %}
       <div class="pubs">
-        <div style="display:flex; flex-direction: row">
-          <p>{{ pubs.year }}</p>
-          <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
-            <span>{{ pubs.number }}</span>
-          </div>
+        <p>{{ pubs.year }}</p>
+        <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
+          <span>{{ pubs.number }}</span>
         </div>
         <!--<div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.lead }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span class="below">lead {{ pubs.lead }}</span>
