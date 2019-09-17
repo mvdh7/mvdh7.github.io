@@ -6,8 +6,10 @@
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.number }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
           <span>{{ pubs.number }} total</span>
         </div>
+      </div>
+      <div class="pubs">
         <div class="pubs-bar pubs-bar-{{ pubs.year }} pubs-{{ pubs.lead }} wow animated slideInLeft" data-wow-delay="{{ forloop.index | divided_by: 20.0 }}">
-          <span class="below">{{ pubs.lead }} as a lead author</span>
+          <span>{{ pubs.lead }} as a lead author</span>
         </div>
       </div>
     {% endfor %}
