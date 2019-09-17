@@ -1,4 +1,4 @@
-.skill {
+.pubs {
     margin-bottom: 35px;
     position: relative;
     overflow: hidden;
@@ -19,7 +19,7 @@
     }
 }
 
-.skill-bar {
+.pubs-bar {
     width: 100%;
     height: 5px;
     background: $primary;
@@ -38,14 +38,14 @@
     }
 }
 
-.skill-bar.skill-bar-secondary { background: $secondary; }
-.skill-bar.skill-bar-success { background: $success; }
-.skill-bar.skill-bar-info { background: $info; }
-.skill-bar.skill-bar-warning { background: $warning; }
-.skill-bar.skill-bar-danger { background: $danger; }
-.skill-bar.skill-bar-light { background: $light; }
-.skill-bar.skill-bar-dark { background: $dark; }
+.pubs-bar.pubs-bar-secondary { background: $secondary; }
+.pubs-bar.pubs-bar-success { background: $success; }
+.pubs-bar.pubs-bar-info { background: $info; }
+.pubs-bar.pubs-bar-warning { background: $warning; }
+.pubs-bar.pubs-bar-danger { background: $danger; }
+.pubs-bar.pubs-bar-light { background: $light; }
+.pubs-bar.pubs-bar-dark { background: $dark; }
 
-@for $i from 0 through 100 {
-    .skill-#{$i} { width: percentage($i/100); }
+@for $i from 0 through 10 {
+    .pubs-#{$i} { width: percentage($i/10); }
 }
