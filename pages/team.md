@@ -13,7 +13,7 @@ weight: 4.5
 
 ## Current students
 
-I currently co-supervise two PhD candidates in the Department of Environmental Sciences at the University of East Anglia:
+I currently co-supervise two PhD candidates in the School of Environmental Sciences at the University of East Anglia:
 
   * **Ruth Matthews** is measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton).
 
