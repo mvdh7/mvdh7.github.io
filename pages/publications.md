@@ -7,6 +7,7 @@ weight: 4
 
 # **Publications**
 
+<br />
 <div class="row">
 {% include pubs.html title="Summary per year" source=site.data.pubs-per-year %}
 </div>
