@@ -12,7 +12,7 @@ weight: 4
 {% include pubs.html title="Summary per year" source=site.data.pubs-per-year %}
 </div>
 
-## Preprints in review
+## Preprints
 
   * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
