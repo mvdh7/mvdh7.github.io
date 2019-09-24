@@ -16,8 +16,6 @@ weight: 4
 
   * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
-  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences Discussions*, in press. [doi:10.5194/bg-2019-162](https://doi.org/10.5194/bg-2019-162).
-
 ## 2019
 
   * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography* 177, 101961. [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
@@ -29,6 +27,8 @@ weight: 4
   * Hartman, S. E., <u>Humphreys, M. P.</u>, Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., Griffiths, A., Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P. (2019). **Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea.** *Progress in Oceanography* 177, 101909. [doi:10.1016/j.pocean.2018.02.005](https://doi.org/10.1016/j.pocean.2018.02.005).
 
   * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences* 9(5), 230. [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
+
+  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences* 16, 3621-3635. [doi:10.5194/bg-16-3621-2019](https://doi.org/10.5194/bg-16-3621-2019).
 
   * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2019). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences* 16, 2661-2681. [doi:10.5194/bg-16-2661-2019](https://doi.org/10.5194/bg-16-2661-2019).
 
