@@ -20,9 +20,13 @@ weight: 4
 
 ## 2019
 
+  * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography* 177, 101961. [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
+
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
 
-  * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. <a href="https://doi.org/10.1016/j.aquaculture.2018.11.028">doi:10.1016/j.aquaculture.2018.11.028</a>.
+  * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. [doi:10.1016/j.aquaculture.2018.11.028](https://doi.org/10.1016/j.aquaculture.2018.11.028).
+
+  * Hartman, S. E., <u>Humphreys, M. P.</u>, Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., Griffiths, A., Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P. (2019). **Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea.** *Progress in Oceanography* 177, 101909. [doi:10.1016/j.pocean.2018.02.005](https://doi.org/10.1016/j.pocean.2018.02.005).
 
   * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences* 9(5), 230. [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
 
@@ -30,11 +34,7 @@ weight: 4
 
 ## 2018
 
-  * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2018). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography*, in press. <a href="https://doi.org/10.1016/j.pocean.2018.05.001">doi:10.1016/j.pocean.2018.05.001</a>.
-
   * <u>Humphreys, M. P.</u>, Daniels, C. J., Wolf-Gladrow, D. A., Tyrrell, T. and Achterberg, E. P. (2018). **On the influence of marine biogeochemical processes over CO<sub>2</sub> exchange between the atmosphere and ocean.** *Marine Chemistry* 199, 1-11. <a href="https://doi.org/10.1016/j.marchem.2017.12.006">doi:10.1016/j.marchem.2017.12.006</a>.
-
-  * Hartman, S. E., <u>Humphreys, M. P.</u>, Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., Griffiths, A., Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P. (2018). **Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea.** *Progress in Oceanography*, in press. <a href="https://doi.org/10.1016/j.pocean.2018.02.005">doi:10.1016/j.pocean.2018.02.005</a>.
 
   * Henson, S. A., <u>Humphreys, M. P.</u>, Land, P., Shutler, J., Goddijn-Murphy, L., Warren, M. and Schuster, U. (2018). **Controls on open-ocean North Atlantic Δ<i>p</i>CO<sub>2</sub> at seasonal and interannual timescales are different.** *Geophysical Research Letters* 45. <a href="https://doi.org/10.1029/2018GL078797">doi:10.1029/2018GL078797</a>.
 
