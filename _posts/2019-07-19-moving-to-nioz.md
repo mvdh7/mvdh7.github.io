@@ -4,7 +4,7 @@ tags: [News, NIOZ]
 style: fill
 color: success
 description: Towards the end of 2019 I will emigrate to the Netherlands to take up a tenure-track research position to study the marine carbon cycle at NIOZ Texel.
-comments: true
+comments: false
 ---
 
 **I am humbled and delighted to announce that I will be emigrating to the Netherlands later this year to take up a tenure-track independent research position at [NIOZ](https://www.nioz.nl/) on the island of Texel.**

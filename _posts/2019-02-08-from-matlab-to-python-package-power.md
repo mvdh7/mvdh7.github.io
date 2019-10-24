@@ -4,7 +4,7 @@ tags: [Python, MATLAB]
 style: fill
 color: dark
 description:
-comments: true
+comments: false
 ---
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -4,7 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: fill
 color: warning
 description: A walk through one way to efficiently and reproducibly control the size, resolution and appearance of a MATLAB figure.
-comments: true
+comments: false
 ---
 
 The appearance of a new MATLAB figure never fails to disappoint.

@@ -4,7 +4,7 @@ tags: [Seawater chemistry, MarChemSpec]
 style: fill
 color: primary
 description: How do tools like the Pitzer model help us to understand chemical equilibria in seawater?
-comments: true
+comments: false
 ---
 
 <script type="text/x-mathjax-config">

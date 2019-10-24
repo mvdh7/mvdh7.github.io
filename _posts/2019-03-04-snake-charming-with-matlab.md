@@ -4,7 +4,7 @@ tags: [Python, MATLAB, Workflow]
 style: fill
 color: dark
 description: Switching data between Python and MATLAB, and using both together.
-comments: true
+comments: false
 ---
 
 This continues a short series about my ongoing transition from MATLAB to Python. Previously I talked about some [fundamental differences between the coding languages](/blog/from-matlab-to-python-reflections-after-a-year), and delved a bit more into [the main Python packages that you need to use](/blog/from-matlab-to-python-package-power) to replicate MATLAB's higher-level functions. Here, I'll look at how you can get the two languages to work together, giving some very basic examples.

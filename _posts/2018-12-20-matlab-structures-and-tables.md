@@ -4,7 +4,7 @@ tags: [MATLAB, Workflow]
 style: fill
 color: dark
 description: Organising your data into structures and tables helps to efficiently create flexible figures.
-comments: true
+comments: false
 ---
 
 Although this isn't directly about making figures in MATLAB, many of the powerful figuresmithing tricks that I use (and will describe in future posts) work best if your data is organised in a table or structure. So, it's worth having a think about what these variable types are, and how to use and construct them.

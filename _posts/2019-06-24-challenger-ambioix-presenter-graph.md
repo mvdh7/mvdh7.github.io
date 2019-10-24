@@ -4,7 +4,7 @@ tags: [Conferences, Challenger Society, AMBIO IX]
 style: fill
 color: danger
 description: Abstract submissions reveal the interconnected nature of marine biogeochemical research in the UK.
-comments: true
+comments: false
 ---
 
 The [Challenger Society's](https://www.challenger-society.org.uk/) *Advances in Marine Biogeochemistry IX* conference kicks off here at UEA later today.

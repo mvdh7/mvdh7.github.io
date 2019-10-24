@@ -4,7 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: fill
 color: warning
 description:
-comments: true
+comments: false
 ---
 
 In oceanographic research we often want to produce plots of various variables either against each other or against depth, time or location.

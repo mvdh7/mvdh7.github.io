@@ -4,7 +4,7 @@ tags: [Python, MATLAB]
 style: fill
 color: dark
 description:
-comments: true
+comments: false
 ---
 
 For the first ~5 years of my scientific life I did all of my data wrangling in MATLAB. More recently, I began looking into the alternatives. Partly I was worried about the consequences of all of my code requiring an expensive piece of software to run, partly I was just curious, and partly it seemed like a very defensible bit of procrastination. After many months of unrealised good intentions I finally took the plunge about a year ago and started using Python in earnest. What follows is an account of my experience: the surprises, the frustrations, and the delights. I hope this may be useful to anyone thinking about making the same transition. I've ended up using a hybrid of the two, preferring to use one language for some things, and the other for others.

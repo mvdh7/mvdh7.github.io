@@ -4,7 +4,7 @@ tags: [Marine carbonate system, Seawater chemistry, MATLAB]
 style: fill
 color: dark
 description: What's the most efficient way to solve a large marine carbonate system dataset using CO<sub>2</sub>SYS in MATLAB?
-comments: true
+comments: false
 ---
 
 ## What is CO<sub>2</sub>SYS?

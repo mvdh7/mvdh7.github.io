@@ -4,7 +4,7 @@ tags: [MATLAB, Dataviz, Workflow]
 style: fill
 color: warning
 description: The first step in a simple workflow for efficiently designing publication-quality figures in MATLAB.
-comments: true
+comments: false
 ---
 
 Having produced most of my scientific figures primarily with MATLAB since early on in my PhD (6 years and counting), I’ve now developed quite an efficient system, which I’d like to share. This will be the first in a series of blog posts, each looking at a different aspect of MATLAB figuresmithing.
