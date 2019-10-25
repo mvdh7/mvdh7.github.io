@@ -17,7 +17,7 @@ weight: 5
 <!--<iframe width="50%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=1.2173%2C52.6131%2C1.2577%2C52.6287&amp;layer=mapnik&amp;marker=52.62128522840047%2C1.2378904223442078" style="border: 1px solid black"></iframe>
 [See larger map](https://www.openstreetmap.org/#map=15/52.6209/1.2321)-->
 
-<iframe width="50%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.767980575561524%2C52.99724908971136%2C4.804029464721681%2C53.00898665836675&amp;layer=mapnik&amp;marker=53.00311827295228%2C4.786005020141602" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=53.0031&amp;mlon=4.7860#map=16/53.0031/4.7860">See larger map</a></small>
+<iframe width="50%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.767980575561524%2C52.99724908971136%2C4.804029464721681%2C53.00898665836675&amp;layer=mapnik&amp;marker=53.00311827295228%2C4.786005020141602" style="border: 1px solid black"></iframe><small><a href="https://www.openstreetmap.org/?mlat=53.0031&amp;mlon=4.7860#map=16/53.0031/4.7860">See larger map</a></small>
 
 ## Online
 
