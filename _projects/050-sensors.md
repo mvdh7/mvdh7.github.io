@@ -6,7 +6,7 @@ description: Deploying high-resolution chemical sensors during research cruises 
 permalink: /research/sensors/
 ---
 
-# **Autonomous CO<sub>2</sub> monitoring**
+# Autonomous CO<sub>2</sub> monitoring
 
 *Page under construction!*
 
