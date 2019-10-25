@@ -12,7 +12,7 @@ The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an inte
 
 ## The Atlantic Ocean at 40°S
 
-In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton (Tuerena et al., in review). They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (manuscript in preparation). The measurements are included in the 2017 GEOTRACES Intermediate Data Product (Schlitzer et al., 2018).
+In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton ([Tuerena et al., 2019](https://doi.org/10.5194/bg-16-3621-2019)). They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (Živković et al, in review). The measurements are included in the 2017 GEOTRACES Intermediate Data Product ([Schlitzer et al., 2018](https://doi.org/10.1016/j.chemgeo.2018.05.040)).
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
