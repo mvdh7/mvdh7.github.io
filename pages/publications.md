@@ -16,11 +16,13 @@ weight: 4
 
   * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
+## 2020
+
+  * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *MCCIP Science Review 2020*, 54-75. [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
+
 ## 2019
 
   * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography* 177, 101961. [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
-
-  * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2019). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *Marine Climate Change Impacts Partnership*, in press.
 
   * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. [doi:10.1016/j.aquaculture.2018.11.028](https://doi.org/10.1016/j.aquaculture.2018.11.028).
 
