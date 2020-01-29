@@ -8,6 +8,8 @@ permalink: /research/marchemspec/
 
 # **MarChemSpec**
 
+I will present some results from the MarChemSpec project at the forthcoming Ocean Sciences Meeting in San Diego. You can find my abstract on the [meeting website](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/642945).
+
 ## Automatic differentiation for physical chemistry
 
 **Pytzer is a Python implementation of the Pitzer model for calculating physicochemical properties of complex aqueous solutions using automatic differentiation.**
