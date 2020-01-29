@@ -12,7 +12,7 @@ The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an inte
 
 ## Upcoming Indian and Pacific Ocean cruises
 
-Following my [move to NIOZ](../../blog/moving-to-nioz), I'll oversee the analysis of the carbonate chemistry dataset from a series of forthcoming German GEOTRACES cruises in the Indian and Pacific Oceans. The first cruise, on R/V *Sonne* in July-August 2020, will cross the Indian Ocean at about the latitude of southern Madagascar.
+NIOZ PhD student Louise Delaigue will collect and analyse the carbonate chemistry samples for a German GEOTRACES cruise on R/V *Sonne* in July-August 2020. The cruise will cross the Indian Ocean at about the latitude of southern Madagascar.
 
 <p class="text-center">
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/sonne_indian.png" alt="Planned route for the 2020 Indian Ocean expedition" width="586" height="173" style="min-width:586px" />
@@ -20,7 +20,7 @@ Following my [move to NIOZ](../../blog/moving-to-nioz), I'll oversee the analysi
 
 <p class="text-center"><i>Above: planned route for the 2020 Indian Ocean expedition.</i></p>
 
-This transect provides a rare opportunity to assess how the marine carbonate system may be changing in a region that has become something of a blind spot in global monitoring in recent decades. For more information and to apply, [see the NIOZ website](https://www.workingatnioz.com/our-jobs/phd-in-anthropogenic-carbon-dioxide-uptake-and-accumulation-in-the-indian-and-south-pacific-oceans-a-blind-spot-in-recent-global-monitoring.html)!
+This transect provides a rare opportunity to assess how the marine carbonate system may be changing in a region that has become something of a blind spot in global monitoring in recent decades.
 
 <div style="display:flex; align-items:center">
 
