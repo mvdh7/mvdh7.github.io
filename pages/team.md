@@ -9,7 +9,7 @@ weight: 4.5
 
 ## Vacant positions
 
-  * **BSc/MSc internship** at NIOZ Texel and Utrecht University: *Effects of organic matter and mineralogy on carbonate mineral dissolution.* [More info and apply here!](https://www.nioz.nl/en/education/uu-nioz-student-work-experience-1)
+  * **BSc/MSc internship** at NIOZ Texel and Utrecht University: *Effects of organic matter and mineralogy on carbonate mineral dissolution,* in collaboration with Olivier Sulpis (UU). [More info and apply here!](https://www.nioz.nl/en/education/uu-nioz-student-work-experience-1)
 
 ## Current PhD students
 
