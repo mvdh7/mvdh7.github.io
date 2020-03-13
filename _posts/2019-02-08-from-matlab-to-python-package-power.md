@@ -207,7 +207,7 @@ I'm sure there's a whole bunch of very powerful and useful features that I'm mis
 
 This one is very field-specific, so I'll keep it brief. As a marine carbonate chemist I use [CO<sub>2</sub>SYS](https://github.com/jamesorr/CO2SYS-MATLAB) rather extensively to do the relevant calculations. Some people (shameless plug: including myself) are working towards fixing that, but there isn't an established Python equivalent yet.
 
-> **Update in March 2020:** A Python version of CO<2>2</sub>SYS is now available! Just `pip install PyCO2SYS` and then in Python, `from PyCO2SYS import CO2SYS`. For more information and instructions see the [Github repo](https://github.com/mvdh7/PyCO2SYS).
+> **Update in March 2020:** A Python version of CO<sub>2</sub>SYS is now available! Just `pip install PyCO2SYS` and then in Python, `from PyCO2SYS import CO2SYS`. For more information and instructions see the [Github repo](https://github.com/mvdh7/PyCO2SYS).
 
 ## Next time(s)
 
