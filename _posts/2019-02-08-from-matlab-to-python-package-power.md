@@ -201,9 +201,13 @@ The part I struggle with most is trying to update the data in a pandas DataFrame
 
 I'm sure there's a whole bunch of very powerful and useful features that I'm missing out on for a relatively trivial reason, but for now, it's not for me.
 
+> **Update in March 2020:** I now use Pandas rather a lot, it's especially fantastic for importing spreadsheets and similar data from a wide variety of formats, and has some fantastically powerful tools like `groupby()` for doing analysis.
+
 ## Carbonate chemistry is unloved... for now
 
 This one is very field-specific, so I'll keep it brief. As a marine carbonate chemist I use [CO<sub>2</sub>SYS](https://github.com/jamesorr/CO2SYS-MATLAB) rather extensively to do the relevant calculations. Some people (shameless plug: including myself) are working towards fixing that, but there isn't an established Python equivalent yet.
+
+> **Update in March 2020:** A Python version of CO<2>2</sub>SYS is now available! Just `pip install PyCO2SYS` and then in Python, `from PyCO2SYS import CO2SYS`. For more information and instructions see the [Github repo](https://github.com/mvdh7/PyCO2SYS).
 
 ## Next time(s)
 
