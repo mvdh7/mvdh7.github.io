@@ -11,4 +11,4 @@ I was recently put forward by [NIOZ](https://www.nioz.nl/en) to feature in an ar
 
 [**You can read the full article here!**](https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir)
 
-[![The start of the article on Academic Stories](https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/blog/academicstories.png "The start of the article on Academic Stories")](https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir).
+<a href='https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir'><img src='https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/blog/academicstories.png' style='border:1px solid black' /></a>
