@@ -2,7 +2,7 @@
 title: From MATLAB to Python - reflections after a year
 tags: [Python, MATLAB]
 style: fill
-color: dark
+color: primary
 description:
 comments: false
 ---

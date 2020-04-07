@@ -2,7 +2,7 @@
 title: AMBIO IX conference co-authorship network
 tags: [Conferences, Challenger Society, AMBIO IX]
 style: fill
-color: danger
+color: dark
 description: Abstract submissions reveal the interconnected nature of marine biogeochemical research in the UK.
 comments: false
 ---

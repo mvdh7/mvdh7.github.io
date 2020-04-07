@@ -2,7 +2,7 @@
 title: The marine motivation for Pitzer models
 tags: [Seawater chemistry, MarChemSpec]
 style: fill
-color: primary
+color: secondary
 description: How do tools like the Pitzer model help us to understand chemical equilibria in seawater?
 comments: false
 ---

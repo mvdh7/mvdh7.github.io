@@ -2,7 +2,7 @@
 title: Changing pH seasonality
 tags: [Seawater chemistry, Ocean acidification]
 style: fill
-color: primary
+color: dark
 description: The mathematical definition of pH means that seasonal cycles in pH and hydrogen ion concentration ([H<sup>+</sup>]) don't always covary, especially when there is a long-term trend, as pointed out by Kwiatkowski and Orr (2018). This post explores and visualises the reasons why.
 comments: false
 ---
