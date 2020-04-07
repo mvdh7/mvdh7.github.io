@@ -9,6 +9,6 @@ comments: false
 
 I was recently put forward by [NIOZ](https://www.nioz.nl/en) to feature in an article about my research and working in science in the Netherlands, so a couple of weeks ago I had a phone call from Sarah Binns of [Academic Stories](https://academicstories.com/) to discuss my ongoing work. She wrote a short profile based on our conversation, which was published today.
 
-[You can read the full article here!](https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir)
+[**You can read the full article here!**](https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir)
 
 [![The start of the article on Academic Stories](https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/blog/academicstories.png "The start of the article on Academic Stories")](https://academicstories.com/story/science-for-humanity/oceans-the-largest-active-carbon-reservoir).
