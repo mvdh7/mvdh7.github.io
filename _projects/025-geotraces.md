@@ -8,19 +8,21 @@ permalink: /research/geotraces/
 
 # GEOTRACES
 
-The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an international study of the marine biogeochemical cycles of trace elements and their isotopes." Although the main focus is on trace elements, the marine carbonate system is recognised as a critical component of seawater - for example, enabling calculation of the pH, which is critical to many trace element equilibria - and as such is measured on every GEOTRACES cruise. This project therefore provides a great opportunity to get out to see and collect new carbonate chemistry datasets, and helps to discover new relationships between different marine biogeochemical cycles thanks to the vast spectrum of variables that are measured.
+The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an international study of the marine biogeochemical cycles of trace elements and their isotopes."  Although the main focus is on trace elements, the marine carbonate system is recognised as a critical component of seawater - for example, enabling calculation of the pH, which is critical to many trace element equilibria - and as such is measured on every GEOTRACES cruise.  This project therefore provides a great opportunity to get out to see and collect new carbonate chemistry datasets, and helps to discover new relationships between different marine biogeochemical cycles thanks to the vast spectrum of variables that are measured.
 
-## Upcoming Indian and Pacific Ocean cruises
+## Upcoming Pacific and Indian Ocean cruises
 
-NIOZ PhD student Louise Delaigue will collect and analyse the carbonate chemistry samples for a German GEOTRACES cruise on R/V *Sonne* in July-August 2020. The cruise will cross the Indian Ocean at about the latitude of southern Madagascar.
+NIOZ PhD student Louise Delaigue will participate in two GEOTRACES cruises in 2021, crossing the Pacific Ocean first from west to east along the equator in mid-2021, and then returning from east to west in the tropical South Pacific towards the end of the year.  She will collect and analyse the carbonate chemistry samples at sea in order to help monitor the progression of anthropogenic CO<sub>2</sub> uptake and ocean acidification.
+
+Louise was also due to join a German GEOTRACES cruise on R/V *Sonne* in July-August 2020.  However, the cruise has been postponed for at least 2 years due to the coronavirus pandemic.  The cruise will cross the Indian Ocean at about the latitude of southern Madagascar.
 
 <p class="text-center">
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/sonne_indian.png" alt="Planned route for the 2020 Indian Ocean expedition" width="586" height="173" style="min-width:586px" />
 </p>
 
-<p class="text-center"><i>Above: planned route for the 2020 Indian Ocean expedition.</i></p>
+<p class="text-center"><i>Above: planned route for the postponed Indian Ocean expedition.</i></p>
 
-This transect provides a rare opportunity to assess how the marine carbonate system may be changing in a region that has become something of a blind spot in global monitoring in recent decades.
+These transects provide a relatively rare opportunity to assess how the marine carbonate system may be changing in regions that have become something of a blind spot in global ocean monitoring in recent years.
 
 <div style="display:flex; align-items:center">
 
@@ -40,7 +42,7 @@ This transect provides a rare opportunity to assess how the marine carbonate sys
 
 ## The Atlantic Ocean at 40°S
 
-In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*. This was for a UK occupation of the GA10 transect. I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea. Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton ([Tuerena et al., 2019](https://doi.org/10.5194/bg-16-3621-2019)). They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (Živković et al, in review). The measurements are included in the 2017 GEOTRACES Intermediate Data Product ([Schlitzer et al., 2018](https://doi.org/10.1016/j.chemgeo.2018.05.040)).
+In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*.  This was for a UK occupation of the GA10 transect.  I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea.  Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton ([Tuerena et al., 2019](https://doi.org/10.5194/bg-16-3621-2019)).  They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (Živković et al, in review).  The measurements are included in the 2017 GEOTRACES Intermediate Data Product ([Schlitzer et al., 2018](https://doi.org/10.1016/j.chemgeo.2018.05.040)).
 
 <p class="text-center"><i>Below: a few of my pictures from the South Atlantic expedition.</i></p>
 
