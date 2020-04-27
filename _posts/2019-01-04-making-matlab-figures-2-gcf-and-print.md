@@ -1,8 +1,8 @@
 ---
 title: Making MATLAB figures 2 - gcf and print
 tags: [MATLAB, Dataviz, Workflow]
-style: fill
-color: info
+style: outline
+color: secondary
 description: A walk through one way to efficiently and reproducibly control the size, resolution and appearance of a MATLAB figure.
 comments: false
 ---

@@ -2,7 +2,7 @@
 title: Academic Stories profile
 tags: [News, NIOZ]
 style: outline
-color: primary
+color: secondary
 description: A short overview of my work at NIOZ was published on Academic Stories today.
 comments: false
 ---
