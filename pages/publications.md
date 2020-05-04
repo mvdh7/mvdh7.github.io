@@ -14,7 +14,9 @@ weight: 4
 
 ## Preprints
 
-  * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in review. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
+  * Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).  **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea**, *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
+
+  * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in press. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
 ## 2020
 
