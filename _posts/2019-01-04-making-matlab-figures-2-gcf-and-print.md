@@ -9,7 +9,7 @@ comments: false
 
 The appearance of a new MATLAB figure never fails to disappoint.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/dlwdnrqwaaawavp.jpg" caption="Sadly, a raw MATLAB figure would never reach these dizzying heights." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/dlwdnrqwaaawavp.jpg" caption="Sadly, a raw MATLAB figure would never reach these dizzying heights." %}
 
 Fortunately, we can adjust totally reinvent the figure using a few choice commands, which I will go through over the course of a few posts.
 
@@ -19,7 +19,7 @@ We'll begin today with `gcf`, which stands for 'get current figure'. Once you ha
 
 There are a great many (60ish) different settings that can be controlled using `gcf`. To see them all - and their current settings - first create a figure, then type `gcf` into your Command Window, and click on `all properties`:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/gcfprop.png" caption="Create a figure, type gcf, and click 'all properties' to see all of your options." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/gcfprop.png" caption="Create a figure, type gcf, and click 'all properties' to see all of your options." %}
 
 We don't care about most of them, so I'll just highlight the ones that I use regularly here.
 

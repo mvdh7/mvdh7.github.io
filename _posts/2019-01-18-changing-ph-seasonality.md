@@ -36,25 +36,25 @@ The most exciting point (for me!) raised by Kwiatkowski and Orr was that **just 
 
 ## Seasonality at constant average pH
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_initial-4.gif" caption="Here you can see the logarithmic relationship between pH and hydrogen ion concentration, [$\ce{H+}$], and how they might change together through the seasons at some imaginary point in today's ocean." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_initial-4.gif" caption="Here you can see the logarithmic relationship between pH and hydrogen ion concentration, [$\ce{H+}$], and how they might change together through the seasons at some imaginary point in today's ocean." %}
 
 In the example above, we have a seasonal cycle in pH of 0.4 units, about a mean pH of 8.2, which corresponds to a seasonal cycle in [$\ce{H+}$] of about 0.006 μmol·kg<sup>−1</sup>.
 
 If we change the size of the seasonal cycle of pH while staying at the same average pH value, then as you would intuitively expect, the seasonal cycle in [$\ce{H+}$] responds in the same way:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_same_baseline-1.gif" caption="A greater seasonal cycle in pH leads to a greater seasonal cycle in [$\ce{H+}$] (and vice versa) if the average pH value doesn't change." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_same_baseline-1.gif" caption="A greater seasonal cycle in pH leads to a greater seasonal cycle in [$\ce{H+}$] (and vice versa) if the average pH value doesn't change." %}
 
 ## Changing the average pH
 
 Where things get interesting is when you couple the change in seasonality with a change in the mean pH value. First, let's decrease the average pH down to 7.6, but keep the pH seasonal cycle the same:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_constant_ph-1.gif" caption="Average pH has gone down, and the seasonal cycle in pH has not changed - but the seasonal cycle in [$\ce{H+}$] is four times greater!" %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_constant_ph-1.gif" caption="Average pH has gone down, and the seasonal cycle in pH has not changed - but the seasonal cycle in [$\ce{H+}$] is four times greater!" %}
 
 Despite no change in the pH seasonal cycle, we have four times more variability in [$\ce{H+}$] at the lower average pH.
 
 Similarly, if we hold the [$\ce{H+}$] cycle constant at that lower pH, we find that this makes pH switch to a seasonal cycle four times smaller:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_constant_hconc.gif" caption="This time the seasonal cycle in [$\ce{H+}$] is unchanged at the lower pH value, so the seasonal cycle in pH is four times smaller to compensate." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/phvar_constant_hconc.gif" caption="This time the seasonal cycle in [$\ce{H+}$] is unchanged at the lower pH value, so the seasonal cycle in pH is four times smaller to compensate." %}
 
 The actual value of the ratio between the seasonal cycles in pH and [$\ce{H+}$] is constant for any given mean pH, and is set by Eq. (1) given by Kwiatkowski and Orr.
 

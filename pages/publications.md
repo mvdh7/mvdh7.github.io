@@ -1,28 +1,23 @@
 ---
 layout: page
-title: Publications
+title: Papers
 permalink: /publications/
-weight: 4
+weight: 5
 ---
 
-# **Publications**
+# **Papers**
 
-<br />
-<div class="row">
-{% include pubs.html title="Summary per year" source=site.data.pubs-per-year %}
-</div>
-
-## Preprints
+## **Preprints**
 
   * Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).  **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea**, *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
 
   * Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2019). **The pH dependency of the boron isotopic composition of diatom opal (<i>Thalassiosira weissflogii</i>)**, *Biogeosciences Discussions*, in press. [doi:10.5194/bg-2019-180](https://doi.org/10.5194/bg-2019-180).
 
-## 2020
+## **2020**
 
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *MCCIP Science Review 2020*, 54-75. [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
 
-## 2019
+## **2019**
 
   * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography* 177, 101961. [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
 
@@ -38,7 +33,7 @@ weight: 4
 
   * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2019). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences* 16, 2661-2681. [doi:10.5194/bg-16-2661-2019](https://doi.org/10.5194/bg-16-2661-2019).
 
-## 2018
+## **2018**
 
   * <u>Humphreys, M. P.</u>, Daniels, C. J., Wolf-Gladrow, D. A., Tyrrell, T. and Achterberg, E. P. (2018). **On the influence of marine biogeochemical processes over CO<sub>2</sub> exchange between the atmosphere and ocean.** *Marine Chemistry* 199, 1-11. <a href="https://doi.org/10.1016/j.marchem.2017.12.006">doi:10.1016/j.marchem.2017.12.006</a>.
 
@@ -48,7 +43,7 @@ weight: 4
 
   * Schlitzer, R. et al. [286 authors] (2018). **The GEOTRACES Intermediate Data Product 2017.** *Chemical Geology* 493, 210-223. <a href="https://doi.org/10.1016/j.chemgeo.2018.05.040">doi:10.1016/j.chemgeo.2018.05.040</a>.
 
-## 2017
+## **2017**
 
   * <u>Humphreys, M. P.</u> (2017). **Climate sensitivity and the rate of ocean acidification: future impacts, and implications for experimental design.** *ICES Journal of Marine Science* 74(4), 934–940. <a href="https://doi.org/10.1093/icesjms/fsw189">doi:10.1093/icesjms/fsw189</a>.
 
@@ -56,7 +51,7 @@ weight: 4
 
   * Clarke, J. S., <u>Humphreys, M. P.</u>, Tynan, E., Kitidis, V., Brown, I., Mowlem, M. C. and Achterberg, E. P. (2017). **Characterization of a Time-Domain Dual Lifetime Referencing pCO<sub>2</sub> Optode and Deployment as a High-Resolution Underway Sensor across the High Latitude North Atlantic Ocean.** *Frontiers in Marine Science* 4(396). <a href="https://doi.org/10.3389/fmars.2017.00396">doi:10.3389/fmars.2017.00396</a>.
 
-## 2016
+## **2016**
 
   * <u>Humphreys, M. P.</u>, Greatrix, F. M., Tynan, E., Achterberg, E. P., Griffiths, A. M., Fry, C. H., Garley, R., McDonald, A. and Boyce, A. J. (2016). **Stable carbon isotopes of dissolved inorganic carbon for a zonal transect across the subpolar North Atlantic Ocean in summer 2014.** *Earth System Science Data* 8, 221–233. <a href="https://doi.org/10.5194/essd-8-221-2016">doi:10.5194/essd-8-221-2016</a>.
 
@@ -74,6 +69,6 @@ weight: 4
 
   * Tynan, E., Clarke, J. S., <u>Humphreys, M. P.</u>, Ribas-Ribas, M., Esposito, M., Rérolle, V. M. C., Schlosser, C., Thorpe, S. E., Tyrrell, T. and Achterberg, E. P. (2016). **Physical and biogeochemical controls on the variability in surface pH and calcium carbonate saturation states in the Atlantic sectors of the Arctic and Southern Oceans.** *Deep-Sea Research Part II* 127, 7–27. <a href="https://doi.org/10.1016/j.dsr2.2016.01.001">doi:10.1016/j.dsr2.2016.01.001</a>.
 
-## 2015
+## **2015**
 
   * <u>Humphreys, M. P.</u>, Achterberg, E. P., Griffiths, A. M., McDonald, A. and Boyce, A. J. (2015). **Measurements of the stable carbon isotope composition of dissolved inorganic carbon in the northeastern Atlantic and Nordic Seas during summer 2012**. *Earth System Science Data* 7, 127–135. <a href="https://doi.org/10.5194/essd-7-127-2015">doi:10.5194/essd-7-127-2015</a>.

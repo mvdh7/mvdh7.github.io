@@ -24,7 +24,7 @@ On an atomic scale, seawater is a very busy place. Many of its ingredient chemic
 
 The rates of these opposite processes quickly reach a balance called **dynamic equilibrium**, from which point the overall amount of each chemical in the solution does not change, despite the ongoing frenetic reactions.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/65587_10151339029213264_979264413_n.jpg" caption="Some rather exciting seawater. Unfortunately, part of the view is ruined by an errant penguin-laden iceberg." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/65587_10151339029213264_979264413_n.jpg" caption="Some rather exciting seawater. Unfortunately, part of the view is ruined by an errant penguin-laden iceberg." %}
 
 ## Who cares about dynamic equilibrium?
 
@@ -38,7 +38,7 @@ How do we get an equilibrium constant from thermodynamic to stoichiometric? We c
 
 In the open ocean, away from the complications of rivers, ice, and the restless Earth, the composition of seawater has internal consistency. Concentrations of the major ions are mostly just increased by evaporation or decreased by rainfall, so the ratios between themselves and with overall salinity stay fixed. This means that we can make a straightforward, empirical equation that just uses salinity to convert between the different equilibrium constants.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/stoichiometric-equilibrium-1.png" caption="Schematic of two approaches to getting a stoichiometric equilibrium constant ($K^* $). Top: from salinity, assuming constant ionic ratios. Bottom: from a Pitzer model, taking into account the solution composition, and working in more complex environments." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/stoichiometric-equilibrium-1.png" caption="Schematic of two approaches to getting a stoichiometric equilibrium constant ($K^* $). Top: from salinity, assuming constant ionic ratios. Bottom: from a Pitzer model, taking into account the solution composition, and working in more complex environments." %}
 
 However, when we move into more complex environments, these ratios are not so fixed. The simple salinity equations no longer work. We need our calculations to be more sophisticated – enter the **Pitzer model**.
 
@@ -48,7 +48,7 @@ So, from the marine chemist's perspective, the Pitzer model is just a way to cal
 
 How does it do that? Best left for another time. Suffice it to say, a lot of Greek letters are involved.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/win_20190125_14_29_49_pro-2.jpg" caption="Yum." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/win_20190125_14_29_49_pro-2.jpg" caption="Yum." %}
 
 {% if page.comments %}
 <div id="disqus_thread"></div>

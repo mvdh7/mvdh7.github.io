@@ -23,11 +23,11 @@ figure(1); clf
 
 Save (Ctrl + S) and execute the script (Ctrl + Enter). A new figure window should pop up. Dock the window by clicking the black arrow near the top right corner:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2018/12/dockfig.png" caption="Click the black arrow at the top right of the pop-up figure window to dock it." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2018/12/dockfig.png" caption="Click the black arrow at the top right of the pop-up figure window to dock it." %}
 
 Your figure is now docked in the main MATLAB window! You can move things around by clicking and dragging the different sub-windows' title bars. I like to have mine set up as below:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2018/12/matlabdock.png" caption="Figure docked at the bottom right." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2018/12/matlabdock.png" caption="Figure docked at the bottom right." %}
 
 Now, we construct the figure by adding to the script in the Editor window. I will go into this side of things in loads more detail in other posts. For now let's just put in some nonsense to show the benefit of this docking approach. For example, add some scattered data points to your code so it looks like this:
 

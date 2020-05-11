@@ -33,7 +33,7 @@ MATLAB is both a coding language and and integrated development environment (IDE
 
 I use the [Spyder IDE](https://www.spyder-ide.org/). It can be set up to look like MATLAB to ease the transition (View > Window layouts > MATLAB layout). If you're using Anaconda, you can [easily install Spyder](https://anaconda.org/anaconda/spyder) into each environment that you work in.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/02/matlab-spyder.png" caption="Top: my MATLAB setup. Bottom: Spyder IDE in MATLAB layout." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/02/matlab-spyder.png" caption="Top: my MATLAB setup. Bottom: Spyder IDE in MATLAB layout." %}
 
 ### Packaging big projects
 

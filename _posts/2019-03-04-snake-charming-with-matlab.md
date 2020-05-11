@@ -9,7 +9,7 @@ comments: false
 
 This continues a short series about my ongoing transition from MATLAB to Python. Previously I talked about some [fundamental differences between the coding languages](/blog/from-matlab-to-python-reflections-after-a-year), and delved a bit more into [the main Python packages that you need to use](/blog/from-matlab-to-python-package-power) to replicate MATLAB's higher-level functions. Here, I'll look at how you can get the two languages to work together, giving some very basic examples.
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/03/snakecharming.png" caption="Schematic illustration of calling a Python function from within MATLAB." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/03/snakecharming.png" caption="Schematic illustration of calling a Python function from within MATLAB." %}
 
 Owing to my reluctance to draw figures in Python, but my preference for Python for data analysis, I have become very interested in how to use Python and MATLAB together, efficiently. I've been doing this on two different levels: first, just saving data from one language and opening it up in the other; and second, directly running Python from within MATLAB.
 
@@ -64,7 +64,7 @@ A few quick notes on this code:
 
 After executing the code above, the variables `x`, `y` and `pasta` appear in the MATLAB workspace and are ready to work with:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/02/capture.png" caption="How easy was that?" %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/02/capture.png" caption="How easy was that?" %}
 
 ### MATLAB to Python
 
@@ -150,7 +150,7 @@ np = py.importlib.import_module('numpy');
 
 If this works without any errors, all is well. You'll see the `numpy` module appear in your Workspace:
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/03/numpy.png" caption="A successful load of Numpy." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/03/numpy.png" caption="A successful load of Numpy." %}
 
 If you get errors, then I'd suggest checking:
 

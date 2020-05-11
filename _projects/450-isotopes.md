@@ -89,5 +89,5 @@ In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Hump
 <p class="text-center"><em>Above left: map of δ<sup>13</sup>C<sub>DIC</sub> measurements in the North Atlantic synthesis of <a href="http://doi.org/10.5194/essd-8-559-2016">Becker et al. (2016)</a>.</em></p>
 
 <p class="text-center">
-{% include button.html link="/research" text="Back to research" %}
+{% include elements/button.html link="/research" text="Back to research" %}
 </p>

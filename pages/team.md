@@ -2,24 +2,24 @@
 layout: page
 title: Team
 permalink: /team/
-weight: 4.5
+weight: 6
 ---
 
 # **Research team**
 
-## Vacant positions
+## **Current PhD students**
 
-  * **BSc/MSc internship** at NIOZ Texel and Utrecht University: *Effects of organic matter and mineralogy on carbonate mineral dissolution,* in collaboration with Olivier Sulpis (UU). [More info and apply here!](https://www.nioz.nl/en/education/uu-nioz-student-work-experience-1)
+### At NIOZ
 
-## Current PhD students
+  * **Louise Delaigue** is analysing the changing marine carbon cycle in the infrequently sampled southern Indian Ocean, participating in [GEOTRACES](../research/geotraces/) research cruises to collect new datasets. *Supervisory team:* Matthew Humphreys (lead) and Gert-Jan Reichart (both NIOZ).
 
-  * **Louise Delaigue** is analysing the changing marine carbon cycle in the infrequently sampled southern Indian Ocean, participating in [GEOTRACES](../research/geotraces/) research cruises to collect new datasets. *Supervisory team:* Prof Dr Gert-Jan Reichart (NIOZ) and myself (lead).
+### University of East Anglia
 
-  * **Ruth Matthews** is measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dr Dorothee Bakker (lead, UEA), Dr Naomi Greenwood and Dr Silke Kroeger (Cefas), Prof Richard Sanders (NOC Southampton), and myself.
+  * **Ruth Matthews** is measuring total CO<sub>2</sub> and alkalinity supply to the ocean from UK rivers as part of the [LOCATE](../research/rivercarbon/) research programme. *Supervisory team:* Dorothee Bakker (lead, UEA), Matthew Humphreys (NIOZ), Naomi Greenwood and Silke Kroeger (Cefas), and Richard Sanders (NOC Southampton).
 
-  * **Luca Possenti** is deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea. *Supervisory team:* Prof Jan Kaiser (lead, UEA), Dr Liam Fernand (Cefas), Dr Socratis Loucaides and Dr Matt Mowlem (NOC Southampton), and myself.
+  * **Luca Possenti** is deploying pH and <i>p</i>CO<sub>2</sub> sensors on autonomous ocean gliders in the North Sea. *Supervisory team:* Jan Kaiser (lead, UEA), Liam Fernand (Cefas), Matthew Humphreys (NIOZ), and Socratis Loucaides and Matt Mowlem (NOC Southampton).
 
-## Former students
+## **Former students**
 
 From 2011 to 2016 I supervised a series of Masters research projects in Ocean and Earth Science at the University of Southampton. Former students who are (to my knowledge!) still involved in scientific research are noted. Some project titles are approximate:
 
