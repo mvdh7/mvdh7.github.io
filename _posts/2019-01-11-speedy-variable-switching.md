@@ -40,7 +40,7 @@ figure(1); clf
 scatter(ts.dist,ts.sal) % data points
 ```
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog0.png" caption="What an exciting figure." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog0.png" caption="What an exciting figure." %}
 
 To change which variable we want to plot, we could just switch between using `ts.sal` and `ts.no3` as the input to `scatter`.
 
@@ -69,7 +69,7 @@ subplot(2,1,2)
     scatter(ts.dist,ts.sal - mixLineFunction(ts.dist)) % residuals
 ```
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog1.png" caption="Now we have a more complex plot with lots of repetition of `ts.sal` in the code." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog1.png" caption="Now we have a more complex plot with lots of repetition of `ts.sal` in the code." %}
 
 Now, if we want to switch to plotting nitrate instead of salinity, we have to change `ts.sal` to `ts.no3` in *five* different places! Ain't nobody got time for that, so this is where the aforementioned dynamic referencing comes in.
 
@@ -117,10 +117,10 @@ fyvar = 'no3';
 
 % Variable-specific settings
 switch fyvar
-    case 'sal'   
+    case 'sal'
         fylabel = 'Salinity';
     case 'no3'
-        fylabel = 'Nitrate';      
+        fylabel = 'Nitrate';
 end %switch
 
 % Calculate gradient and intercept of mixing line
@@ -157,7 +157,7 @@ A `switch` block is essentially a shorthand way of writing a sequence of `if ...
 
 ```matlab
 switch fyvar
-    case 'sal'   
+    case 'sal'
         fylabel = 'Salinity';
     case 'no3'
         fylabel = 'Nitrate';
@@ -224,7 +224,7 @@ subplot(2,2,2*V)
 end %for V
 ```
 
-{% include figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog2.png" caption="An automated side-by-side plot can now be generated with little effort." %}
+{% include elements/figure.html image="https://mphumphreys.files.wordpress.com/2019/01/blog2.png" caption="An automated side-by-side plot can now be generated with little effort." %}
 
 The changes that we've made to the previous version are:
 

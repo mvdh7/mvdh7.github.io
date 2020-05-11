@@ -104,5 +104,5 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 </div>
 
 <p class="text-center">
-{% include button.html link="/research" text="Back to research" %}
+{% include elements/button.html link="/research" text="Back to research" %}
 </p>

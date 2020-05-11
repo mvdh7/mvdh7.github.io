@@ -8,6 +8,6 @@ permalink: /research/sensors/
 
 # Autonomous CO<sub>2</sub> monitoring
 
-*Page under construction!*  Test.
+*Page under construction!*
 
-<p class="text-center">{% include button.html link="/research" text="Back to research" %}</p>
+<p class="text-center">{% include elements/button.html link="/research" text="Back to research" %}</p>
