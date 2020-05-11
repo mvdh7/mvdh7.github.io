@@ -6,11 +6,11 @@ description: Measuring the stable isotopic composition of dissolved inorganic ca
 permalink: /research/isotopes/
 ---
 
-# Dissolved inorganic carbon: stable isotopes
+# **Dissolved inorganic carbon: stable isotopes**
 
 The element carbon has two *stable* (i.e. not radioactive) isotopes: carbon-12 and carbon-13. Like all natural carbon reservoirs, the carbon in seawater dissolved inorganic carbon (DIC) is mostly composed of the lighter carbon-12. However, several oceanographic processes including biological primary production, remineralisation and air-sea gas exchange measurably modify the ratio between carbon-12 and carbon-13. On top of this natural variability, anthropogenic CO<sub>2</sub> released by burning fossil fuels is enriched in carbon-12, leading to a long-term trend of increasing carbon-12 in the ocean called *the Suess effect*. Observations of the stable isotopic ratio of DIC (denoted δ<sup>13</sup>C<sub>DIC</sub>) can therefore help us to pick apart the different process driving the distribution of marine DIC through space and time.
 
-## New research cruise observations
+## **New research cruise observations**
 
 <div style="display:flex; align-items:center">
 
@@ -45,7 +45,7 @@ The datasets themselves are also freely available from the British Oceanographic
 
 > Humphreys, M. P., Greatrix, F. M., Tynan, E., Griffiths, A. M., Fry, C. H., Garley, R., Achterberg, E. P., McDonald, A. and Boyce, A. (2015). **Stable carbon isotopes of dissolved inorganic carbon for RRS James Clark Ross cruise JR302 in the subpolar North Atlantic Ocean from June to July 2014.** *British Oceanographic Data Centre, NERC, UK*. <a href="https://doi.org/10/8bs">doi:10/8bs</a>.
 
-## Reference material measurements
+## **Reference material measurements**
 
 In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Humphreys et al., 2016</a>), we also reported measurements of δ<sup>13</sup>C<sub>DIC</sub> in seawater <a href="https://www.nodc.noaa.gov/ocads/oceans/Dickson_CRM/batches.html">certified reference material</a> batches \#141 and \#144, obtained from <a href="http://scrippsscholars.ucsd.edu/adickson">Prof Andrew G. Dickson</a> at Scripps Institution of Oceanography (UC San Diego, USA). The lack of a calibration standard in the same dissolved form as the samples was problematic for our analysis, so we hope that these reference material measurements may assist in calibrating the results of future studies.
 
@@ -75,7 +75,7 @@ In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Hump
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/isotopes/becker-2016-fig1.png" width="378" height="386" style="min-width:378px" />
 
 <div style="padding-left:2%">
-<h2>Regional data synthesis</h2>
+<h2><b>Regional data synthesis</b></h2>
 
 <p>The datasets from the research cruises above are also included in a δ<sup>13</sup>C<sub>DIC</sub> data synthesis for the North Atlantic Ocean:</p>
 
@@ -89,5 +89,5 @@ In the second paper above (<a href="http://doi.org/10.5194/essd-8-221-2016">Hump
 <p class="text-center"><em>Above left: map of δ<sup>13</sup>C<sub>DIC</sub> measurements in the North Atlantic synthesis of <a href="http://doi.org/10.5194/essd-8-559-2016">Becker et al. (2016)</a>.</em></p>
 
 <p class="text-center">
-{% include elements/button.html link="/research" text="Back to research" %}
+{% include elements/button.html link="/research" text="Back to topics" size="lg" %}
 </p>

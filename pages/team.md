@@ -35,7 +35,7 @@ From 2011 to 2016 I supervised a series of Masters research projects in Ocean an
 
   * **Dr Jan-Lukas Menzel Barraqueta** (now postdoc at Stellenbosch University): *Marine carbonate chemistry and nutrients on the Extended Ellett Line transect, Northeast Atlantic Ocean*.
 
-  * **Alex Griffiths** (completed PhD at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses*.
+  * **Dr Alex Griffiths** (completed PhD at Imperial College London): *Accumulation of anthropogenic carbon and acidification of Northeast Atlantic water masses*.
 
   * **Harriet Compton**: *Surface carbonate chemistry in the Chukchi Sea, Arctic Ocean*.
 

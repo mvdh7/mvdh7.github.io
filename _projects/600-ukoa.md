@@ -6,11 +6,11 @@ description: Monitoring the progress and identifying the effects of ocean acidif
 permalink: /research/ukoa/
 ---
 
-# UK Ocean Acidification
+# **UK Ocean Acidification**
 
 The [UK Ocean Acidification programme (UKOA)](https://www.oceanacidification.org.uk) deployed the RRS *James Clark Ross* to investigate the progression and impacts of the pH decline called ocean acidification that accompanies oceanic CO<sub>2</sub> uptake. The first cruise circumnavigated the UK, while the others explored the Atlantic sectors of the Arctic and Southern Oceans. I joined the carbonate chemistry team at sea for the two polar expeditions.
 
-## High-latitude carbonate chemistry
+## **High-latitude carbonate chemistry**
 
 One goal of UKOA was to study the processes that control the marine carbonate system in the presence of seasonal sea ice loss in the polar marine environment. We published the results in a UKOA-themed special issue of *Deep-Sea Research Part II:*
 
@@ -22,7 +22,7 @@ We found that proximity to retreating sea ice had different consequences in the 
 
 <p class="text-center"><i>Above: representation of the processes controlling seawater pH and calcium carbonate solubility (Ω) distributions in ice-influenced parts of the Arctic (Fram Strait) and the Southern (Weddell Sea) Oceans (from <a href="https://doi.org/10.1016/j.dsr2.2016.01.001">Tynan et al., 2016</a>).</i></p>
 
-## Polar plankton
+## **Polar plankton**
 
 The UKOA cruises also observed the plankton communities and we conducted "bioassay" experiments to determine their responses to future environmental change. In these bioassays, different amounts of CO<sub>2</sub> were added to seawater samples to represent likely future conditions, and we measured how the plankton in the samples responded. Some related publications:
 
@@ -42,7 +42,7 @@ Richier, S., Achterberg, E. P., Humphreys, M. P., Poulton, A. J., Suggett, D. J.
 
 </div>
 
-## Charismatic megafauna
+## **Charismatic megafauna**
 
 The polar oceans are a joy to sail through and we often came across whales, penguins in the south and polar bears in the north. In particular, we had this remarkable encounter with a family of polar bears in the sea ice off Greenland:
 
@@ -50,4 +50,4 @@ The polar oceans are a joy to sail through and we often came across whales, peng
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYg5wyR3Tj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p class="text-center">{% include elements/button.html link="/research" text="Back to research" %}</p>
+<p class="text-center">{% include elements/button.html link="/research" text="Back to topics" size="lg" %}</p>

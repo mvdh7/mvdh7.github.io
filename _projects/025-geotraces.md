@@ -6,11 +6,11 @@ description: An international programme of research cruises aiming to improve ou
 permalink: /research/geotraces/
 ---
 
-# GEOTRACES
+# **GEOTRACES**
 
 The [GEOTRACES](http://www.geotraces.org) project is, in its own words, "an international study of the marine biogeochemical cycles of trace elements and their isotopes."  Although the main focus is on trace elements, the marine carbonate system is recognised as a critical component of seawater - for example, enabling calculation of the pH, which is critical to many trace element equilibria - and as such is measured on every GEOTRACES cruise.  This project therefore provides a great opportunity to get out to see and collect new carbonate chemistry datasets, and helps to discover new relationships between different marine biogeochemical cycles thanks to the vast spectrum of variables that are measured.
 
-## Upcoming Pacific and Indian Ocean cruises
+## **Upcoming Pacific and Indian Ocean cruises**
 
 NIOZ PhD student Louise Delaigue will participate in two GEOTRACES cruises in 2021, crossing the Pacific Ocean first from west to east along the equator in mid-2021, and then returning from east to west in the tropical South Pacific towards the end of the year.  She will collect and analyse the carbonate chemistry samples at sea in order to help monitor the progression of anthropogenic CO<sub>2</sub> uptake and ocean acidification.
 
@@ -29,7 +29,7 @@ These transects provide a relatively rare opportunity to assess how the marine c
 <img src="https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/geotraces/alkalinity_3d.png" alt="Total alkalinity measurements from GA08." width="512" height="322" style="min-width:512px" />
 
 <div>
-<div style='text-align:right'><h2>Benguela upwelling</h2></div>
+<div style='text-align:right'><h2><b>Benguela upwelling</b></h2></div>
 
 <p class="text-right">For her Masters research project at the University of Southampton, Charlotte Miskin-Hymas measured DIC and TA for samples collected by R/V <i>Meteor</i> on a 2016 German occupation of GEOTRACES 'transect' GA08, in the Benguela upwelling region off the southwest coast of Africa. These results will appear in the next GEOTRACES Intermediate Data Product.</p>
 
@@ -40,7 +40,7 @@ These transects provide a relatively rare opportunity to assess how the marine c
 
 </div>
 
-## The Atlantic Ocean at 40°S
+## **The Atlantic Ocean at 40°S**
 
 In 2012, I sailed across the South Atlantic Ocean from South Africa to Uruguay on RRS *James Cook*.  This was for a UK occupation of the GA10 transect.  I collected and analysed seawater samples for dissolved inorganic carbon (DIC) and total alkalinity (TA) at sea.  Coupled with nutrient and isotope data, these results have delivered new insights into how phytoplankton ([Tuerena et al., 2019](https://doi.org/10.5194/bg-16-3621-2019)).  They have also revealed a previously unknown relationship between dissolved mercury and carbon in the ocean (Živković et al, in review).  The measurements are included in the 2017 GEOTRACES Intermediate Data Product ([Schlitzer et al., 2018](https://doi.org/10.1016/j.chemgeo.2018.05.040)).
 
@@ -104,5 +104,5 @@ Schlitzer, R. et al. [286 authors] (2018). <strong>The GEOTRACES Intermediate Da
 </div>
 
 <p class="text-center">
-{% include elements/button.html link="/research" text="Back to research" %}
+{% include elements/button.html link="/research" text="Back to topics" size="lg" %}
 </p>
