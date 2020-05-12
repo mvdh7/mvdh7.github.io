@@ -3,8 +3,10 @@ name: Solving the marine CO<sub>2</sub> system
 tools: [Alkalinity, Seawater chemistry, Python]
 image:
 description: PyCO2SYS is the Pythonic face of the widely used CO2SYS software.
-permalink: /code/pyco2sys/
+external_url: https://pyco2sys.readthedocs.io/en/latest/
 ---
+
+permalink: /code/pyco2sys/
 
 # **PyCO2SYS**
 
