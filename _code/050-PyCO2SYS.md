@@ -1,7 +1,7 @@
 ---
 name: Solving the marine CO<sub>2</sub> system
 tools: [Alkalinity, Seawater chemistry, Python]
-image:
+image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/co2sys.png
 description: "PyCO2SYS: the Pythonic face of CO2SYS, one of the most widely used tools for calculating the equilibrium chemical state of seawater."
 external_url: https://pyco2sys.readthedocs.io/en/latest/
 ---
