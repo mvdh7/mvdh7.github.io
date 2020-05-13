@@ -3,8 +3,10 @@ name: Alkalinity computation
 tools: [Alkalinity, Seawater chemistry, Python]
 image: https://raw.githubusercontent.com/mvdh7/mvdh7.github.io/master/images/calkulate/calkulate.png
 description: Calkulate is a Python toolkit designed to transparently determine total alkalinity from titration pH data.
-permalink: /code/calkulate/
+external_url: https://calkulate.readthedocs.io/en/latest/
 ---
+
+permalink: /code/calkulate/
 
 # **Calkulate**
 
