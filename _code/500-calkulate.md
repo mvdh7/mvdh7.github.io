@@ -6,6 +6,9 @@ description: Calkulate is a Python toolkit designed to transparently determine t
 external_url: https://calkulate.readthedocs.io/en/latest/
 ---
 
+KHS is so low (-18) that you never have S^2-:
+https://www.sciencedirect.com/science/article/abs/pii/0016703788903262
+
 permalink: /code/calkulate/
 
 # **Calkulate**
