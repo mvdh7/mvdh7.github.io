@@ -11,7 +11,7 @@ weight: 5
 
 > **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea.**
 >
-> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).
+> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M. P.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).
 >
 > *bioRxiv*, 2020.04.30.068601, [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
 >
