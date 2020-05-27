@@ -15,7 +15,7 @@ weight: 5
 >
 > *bioRxiv*, 2020.04.30.068601, [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
 >
-> {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Rahlff-ShortTerm-bioRxiv-2020.pdf" text="Get free PDF" size="sm" %}
 
 ## **2020**
 
@@ -25,7 +25,7 @@ weight: 5
 >
 > In *MCCIP Science Review 2020*, 54-75, [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
 >
-> {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Humphreys-AirSea-MCCIP-2020.pdf" text="Get free PDF" size="sm" %}
 
 > **The pH dependency of the boron isotopic composition of diatom opal (*Thalassiosira weissflogii*).**
 >
