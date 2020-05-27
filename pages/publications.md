@@ -9,19 +9,31 @@ weight: 5
 
 ## **Preprints**
 
-> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).  **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea**, *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
+> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).
 >
-> {% include elements/button.html link="/research" text="Get PDF" size="sm" %}
+> **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea.**
+>
+> *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
+>
+> {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
 
 ## **2020**
 
-> <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *MCCIP Science Review 2020*, 54-75. [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
+> <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020).
 >
-> {% include elements/button.html link="/research" text="Get PDF" size="sm" %}
+> **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.**
+>
+> In *MCCIP Science Review 2020*, 54-75.  [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
+>
+> {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
 
-> Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2020).  **The pH dependency of the boron isotopic composition of diatom opal (*Thalassiosira weissflogii*)**, *Biogeosciences* 17, 2825-2837.  [doi:10.5194/bg-17-2825-2020](https://doi.org/10.5194/bg-17-2825-2020).
+> Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2020).
 >
-> {% include elements/button.html link="/research" text="Get PDF" size="sm" %}
+> **The pH dependency of the boron isotopic composition of diatom opal (*Thalassiosira weissflogii*).**
+>
+> *Biogeosciences* 17, 2825-2837.  [doi:10.5194/bg-17-2825-2020](https://doi.org/10.5194/bg-17-2825-2020).
+>
+> {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
 
 ## **2019**
 
