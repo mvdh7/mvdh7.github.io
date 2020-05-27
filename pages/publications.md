@@ -15,9 +15,8 @@ weight: 5
 
   * <u>Humphreys, M. P.</u>, Artioli, Y., Bakker, D. C. E., Hartman, S. E., León, P., Wakelin, S., Walsham, P. and Williamson, P. (2020). **Air-sea CO<sub>2</sub> exchange and ocean acidification in UK seas and adjacent waters.** *MCCIP Science Review 2020*, 54-75. [doi:10.14465/2020.arc03.oac](https://doi.org/10.14465/2020.arc03.oac).
 
-> {% include elements/button.html link="/research" text="Get pdf" size="sm" %}
->
 > Donald, H. K., Foster, G. L., Fröhberg, N., Swann, G. E. A., Poulton, A., Moore, C. M. and <u>Humphreys, M. P.</u> (2020).  **The pH dependency of the boron isotopic composition of diatom opal (*Thalassiosira weissflogii*)**, *Biogeosciences* 17, 2825-2837.  [doi:10.5194/bg-17-2825-2020](https://doi.org/10.5194/bg-17-2825-2020).
+> {% include elements/button.html link="/research" text="Get pdf" size="sm" %}
 
 ## **2019**
 
