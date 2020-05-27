@@ -9,12 +9,9 @@ weight: 5
 
 ## **Preprints**
 
-> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).
->
-> **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea.**
->
-> *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601).
->
+> Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020). <br />
+> **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea.** <br />
+> *bioRxiv*, 2020.04.30.068601.  [doi:10.1101/2020.04.30.068601](https://doi.org/10.1101/2020.04.30.068601). <br />
 > {% include elements/button.html link="/research" text="Get free PDF" size="sm" %}
 
 ## **2020**
