@@ -33,7 +33,7 @@ weight: 5
 >
 > *Biogeosciences* 17, 2825-2837, [doi:10.5194/bg-17-2825-2020](https://doi.org/10.5194/bg-17-2825-2020).
 >
-> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/raw/master/pdfs/Donald-pH-Biogeosciences-2020.pdf" text="Get free PDF" size="sm" %}
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Donald-pH-Biogeosciences-2020.pdf" text="Get free PDF" size="sm" %}
 
 ## **2019**
 
