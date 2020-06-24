@@ -37,19 +37,57 @@ weight: 5
 
 ## **2019**
 
-  * <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019). **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.** *Progress in Oceanography* 177, 101961. [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
+> **Mechanisms for a nutrient-conserving carbon pump in a seasonally stratified, temperate continental shelf sea.**
+> 
+> <u>Humphreys, M. P.</u>, Achterberg, E. P., Hopkins, J. E., Chowdhury, M. Z. H., Griffiths, A. M., Hartman, S. E., Hull, T., Smilenova, A., Wihsgott, J., Woodward, E. M. S. and Moore, C. M. (2019).
+>
+> *Progress in Oceanography* 177, 101961, [doi:10.1016/j.pocean.2018.05.001](https://doi.org/10.1016/j.pocean.2018.05.001).
+>
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Humphreys-Mechanisms-ProgOceanogr-2019.pdf" text="Get free PDF" size="sm" %}
 
-  * Morris, J. P. and <u>Humphreys, M. P.</u> (2019). **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.** *Aquaculture* 501, 338-344. [doi:10.1016/j.aquaculture.2018.11.028](https://doi.org/10.1016/j.aquaculture.2018.11.028).
+> **Modelling seawater carbonate chemistry in shellfish aquaculture regions: Insights into CO<sub>2</sub> release associated with shell formation and growth.**
+> 
+> Morris, J. P. and <u>Humphreys, M. P.</u> (2019).
+>
+> *Aquaculture* 501, 338-344, [doi:10.1016/j.aquaculture.2018.11.028](https://doi.org/10.1016/j.aquaculture.2018.11.028).
 
-  * Hartman, S. E., <u>Humphreys, M. P.</u>, Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., Griffiths, A., Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P. (2019). **Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea.** *Progress in Oceanography* 177, 101909. [doi:10.1016/j.pocean.2018.02.005](https://doi.org/10.1016/j.pocean.2018.02.005).
+> **Surface ocean carbonate chemistry and air-sea CO<sub>2</sub> fluxes across the northwest European continental shelf sea.**
+>
+> Hartman, S. E., <u>Humphreys, M. P.</u>, Kivimäe, C., Woodward, E. M. S., Kitidis, V., McGrath, T., Hydes, D. J., Greenwood, N., Hull, T., Ostle, C., Pearce, D. J., Sivyer, D., Stewart, B. M., Walsham, P., Painter, S. C., McGovern, E., Harris, C., Griffiths, A., Smilenova, A., Clarke, J., Davis, C., Sanders, R. and Nightingale, P. (2019).
+>
+> *Progress in Oceanography* 177, 101909, [doi:10.1016/j.pocean.2018.02.005](https://doi.org/10.1016/j.pocean.2018.02.005).
 
-  * Kitidis, V., Shutler, J. D., Ashton, I., Warren, M., Brown, I., Findlay, H., Hartman, S. E., Sanders, R., <u>Humphreys, M.</u>, Kivimäe, C., Greenwood, N., Hull, T., Pearce, D., McGrath, T., Stewart, B. M., Walsham, P., McGovern, E., Bozec, Y., Gac, J.-P., van Heuven, S. M. A. C., Hoppema, M., Schuster, U., Johannessen, T., Omar, A., Lauvset, S. K., Skjelvan, I., Olsen, A., Steinhoff, T., Körtzinger, A., Becker, M., Lefevre, N., Diverrès, D., Gkritzalis, T., Cattrijsse, A., Petersen, W., Voynova, Y.G., Chapron, B., Grouazel, A., Land, P. E., Sharples, J. and Nightingale, P. D. (2019). **Winter weather controls net influx of atmospheric CO<sub>2</sub> on the north-west European shelf.** *Scientific Reports* 9, 20153. [doi:10.1038/s41598-019-56363-5](https://doi.org/10.1038/s41598-019-56363-5).
+> **Winter weather controls net influx of atmospheric CO<sub>2</sub> on the north-west European shelf.**
+>
+> Kitidis, V., Shutler, J. D., Ashton, I., Warren, M., Brown, I., Findlay, H., Hartman, S. E., Sanders, R., <u>Humphreys, M.</u>, Kivimäe, C., Greenwood, N., Hull, T., Pearce, D., McGrath, T., Stewart, B. M., Walsham, P., McGovern, E., Bozec, Y., Gac, J.-P., van Heuven, S. M. A. C., Hoppema, M., Schuster, U., Johannessen, T., Omar, A., Lauvset, S. K., Skjelvan, I., Olsen, A., Steinhoff, T., Körtzinger, A., Becker, M., Lefevre, N., Diverrès, D., Gkritzalis, T., Cattrijsse, A., Petersen, W., Voynova, Y.G., Chapron, B., Grouazel, A., Land, P. E., Sharples, J. and Nightingale, P. D. (2019).
+>
+> *Scientific Reports* 9, 20153, [doi:10.1038/s41598-019-56363-5](https://doi.org/10.1038/s41598-019-56363-5).
+>
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Kitidis-Winter-SciRep-2019.pdf" text="Get free PDF" size="sm" %}
 
-  * Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019). **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.** *Geosciences* 9(5), 230. [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
+> **Impact of Nonzero Intercept Gas Transfer Velocity Parameterizations on Global and Regional Ocean–Atmosphere CO<sub>2</sub> Fluxes.**
+>
+> Ribas-Ribas, M., Battaglia, G., <u>Humphreys, M. P.</u> and Wurl, O. (2019).
+>
+> *Geosciences* 9(5), 230, [doi:10.3390/geosciences9050230](https://doi.org/10.3390/geosciences9050230).
+>
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/RibasRibas-Impact-Geosciences-2019.pdf" text="Get free PDF" size="sm" %}
 
-  * Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019). **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.** *Biogeosciences* 16, 3621-3635. [doi:10.5194/bg-16-3621-2019](https://doi.org/10.5194/bg-16-3621-2019).
+> **Isotopic fractionation of carbon during uptake by phytoplankton across the South Atlantic subtropical convergence.**
+>
+> Tuerena, R. E., Ganeshram, R. S., <u>Humphreys, M. P.</u>, Browning, T. J., Bouman, H. and Piotrowski, A. P. (2019).
+> 
+> *Biogeosciences* 16, 3621-3635, [doi:10.5194/bg-16-3621-2019](https://doi.org/10.5194/bg-16-3621-2019).
+>
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Tuerena-Isotopic-Biogeosciences-2019.pdf" text="Get free PDF" size="sm" %}
 
-  * Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2019). **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?** *Biogeosciences* 16, 2661-2681. [doi:10.5194/bg-16-2661-2019](https://doi.org/10.5194/bg-16-2661-2019).
+> **What drives the latitudinal gradient in open ocean surface dissolved inorganic carbon concentration?**
+>
+> Wu, Y., Hain, M. P., <u>Humphreys, M. P.</u>, Hartman, S. and Tyrrell, T. (2019).
+>
+> *Biogeosciences* 16, 2661-2681, [doi:10.5194/bg-16-2661-2019](https://doi.org/10.5194/bg-16-2661-2019).
+>
+> {% include elements/button.html link="https://github.com/mvdh7/mvdh7.github.io/blob/master/pdfs/Wu-Latitudinal-Biogeosciences-2019.pdf" text="Get free PDF" size="sm" %}
 
 ## **2018**
 
