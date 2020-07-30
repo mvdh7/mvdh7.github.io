@@ -9,6 +9,14 @@ weight: 5
 
 ## **Preprints**
 
+> **Norwegian Sea net community production estimated from O<sub>2</sub> and prototype CO<sub>2</sub> optode measurements on a Seaglider**
+>
+> Possenti, L., Skjelvan, I., Atamanchuk, D., Tengberg, A., <u>Humphreys, M. P.</u>, Loucaides, S., Fernand, L. and Kaiser, J. (2020).
+>
+> *Ocean Science Discussions*, [doi:10.5194/os-2020-72](https://doi.org/10.5194/os-2020-72).
+>
+> {% include elements/button.html link="https://os.copernicus.org/preprints/os-2020-72/os-2020-72.pdf" text="Get free PDF" size="sm" %}
+
 > **Short-term responses to ocean acidification: effects on relative abundance of eukaryotic plankton from the tropical Timor Sea.**
 >
 > Rahlff, J., Khodami, S., Voskuhl, L., <u>Humphreys, M. P.</u>, Stolle, C., Martinez Arbizu, P., Wurl, O. and Ribas-Ribas, M. (2020).
